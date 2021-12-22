@@ -13,18 +13,17 @@ https://doi.org/10.1038/s41598-021-97887-z
     * R 3.5.2
       - tidyverse 1.3.1
 
-## Figure 1-efgh, bulk RNA-seq data
-### 1_fastq_to_count
+## Figure 1-efgh/1_fastq_to_count
 source codes for generating gene count matrix files from .fastq files ([DRA004349](https://ddbj.nig.ac.jp/resource/sra-submission/DRA004349))
-#### Requirement
+## Requirements
   * trim_galore
-  * STAR
+  * STAR (+ index file)
   * samtools
-  * featureCounts
+  * featureCounts (+ .gtf file)
 
-### 2_DEG_analysis
+## 2_DEG_analysis
 source codes for differential expression analysis and enrichment analysis
-#### Requirement
+### Requirements
   * R 3.5.2
     - tidyverse 1.3.1
     - DESeq2 1.22.2
@@ -33,8 +32,3 @@ source codes for differential expression analysis and enrichment analysis
     - amap 0.8-16
     - ggdendro 0.1-20
     - tidyheatmap 0.0.0.9000
-    ***
-    - org.Hs.eg.db 3.7.0
-    - clusterProfiler 3.10.1
-    ***
-...
