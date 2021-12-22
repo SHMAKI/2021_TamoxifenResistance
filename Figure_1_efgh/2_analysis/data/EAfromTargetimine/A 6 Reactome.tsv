@@ -1,0 +1,1089 @@
+﻿EGFR interacts with phospholipase C-gamma	0.003296484638057581	AREG,BTC,EGF,EREG,TGFA	R-HSA-212718
+Signaling by Overexpressed Wild-Type EGFR in Cancer	0.004516568803535127	AREG,BTC,EGF,EREG,TGFA	R-HSA-5638302
+Inhibition of Signaling by Overexpressed EGFR	0.004516568803535127	AREG,BTC,EGF,EREG,TGFA	R-HSA-5638303
+GRB2 events in EGFR signaling	0.008585630487349711	AREG,BTC,EGF,EREG,TGFA	R-HSA-179812
+SHC1 events in EGFR signaling	0.01145915992335112	AREG,BTC,EGF,EREG,TGFA	R-HSA-180336
+GAB1 signalosome	0.047254994269009025	AREG,BTC,EGF,EREG,TGFA	R-HSA-180292
+EGFR downregulation	0.12297289007424117	AREG,BTC,EGF,EREG,SPRY2,TGFA	R-HSA-182971
+Platelet degranulation	0.21394002421801236	ANXA5,CLEC3B,ECM1,EGF,ENDOD1,MANF,NHLRC2,ORM1,ORM2,RARRES2,SERPINA4,SYTL4	R-HSA-114608
+Vitamin B2 (riboflavin) metabolism	0.22009076852837378	RFK,SLC52A2,SLC52A3	R-HSA-196843
+Signaling by EGFR in Cancer	0.22602605784382823	AREG,BTC,EGF,EREG,TGFA	R-HSA-1643713
+Signaling by Receptor Tyrosine Kinases	0.23135127014729973	AP2B1,AP2S1,AREG,ATP6V0A2,ATP6V1F,BTC,CDK5,DUSP6,EGF,EREG,FGF18,FGFR4,GAB2,GTF2F2,HNRNPF,ID1,MATK,POLR2K,PSENEN,RAP1A,RPS6KA1,SGK1,SH2D2A,SPRED2,SPRY2,STUB1,TGFA,TIAM1,TRIB3	R-HSA-9006934
+Response to elevated platelet cytosolic Ca2+	0.23493026392108088	ANXA5,CLEC3B,ECM1,EGF,ENDOD1,MANF,NHLRC2,ORM1,ORM2,RARRES2,SERPINA4,SYTL4	R-HSA-76005
+Downregulation of ERBB2 signaling	0.2435112878056355	BTC,EGF,EREG,MATK,STUB1	R-HSA-8863795
+Fatty acid metabolism	0.24604037412012528	ACADS,ACOT13,ACOT4,ACOT7,ACOX2,CPT2,CRAT,CYP4F2,GPX2,PON3,SCD,SLC27A2,TBXAS1,THRSP	R-HSA-8978868
+Estrogen-dependent nuclear events downstream of ESR-membrane signaling	0.24704790126043027	AREG,BTC,EGF,EREG,TGFA	R-HSA-9634638
+Resolution of D-loop Structures through Synthesis-Dependent Strand Annealing (SDSA)	0.2508466049772676	BRCA2,MRE11,RAD51B,RBBP8,RMI1	R-HSA-5693554
+Nef Mediated CD4 Down-regulation	0.35504973681177143	AP2B1,AP2S1,ARF1	R-HSA-167590
+LDL clearance	0.39385215367859694	AP2B1,AP2S1,NPC1,SOAT2	R-HSA-8964038
+Platelet activation, signaling and aggregation	0.46448165269325714	ABHD6,ANXA5,CLEC3B,ECM1,EGF,ENDOD1,GNB4,MANF,NHLRC2,ORM1,ORM2,RAP1A,RARRES2,RASGRP2,SERPINA4,SYK,SYTL4	R-HSA-76002
+Resolution of D-loop Structures through Holliday Junction Intermediates	0.4877790112338153	BRCA2,MRE11,RAD51B,RBBP8,RMI1	R-HSA-5693568
+Interleukin-2 signaling	0.48978934109472555	IL2RB,JAK3,SYK	R-HSA-9020558
+Apoptotic cleavage of cell adhesion proteins	0.4909414844561841	CASP3,CDH1,DSP	R-HSA-351906
+ERBB2 Activates PTK6 Signaling	0.4909414844561841	BTC,EGF,EREG	R-HSA-8847993
+Phenylalanine and tyrosine metabolism	0.4909414844561841	HPD,PCBD1,TAT	R-HSA-8963691
+ESR-mediated signaling	0.49600429998204726	AREG,BTC,EGF,EREG,GNB4,GREB1,GTF2F2,H2AJ,H2BC11,H3C8,KCTD6,NR5A2,POLR2K,TFF1,TGFA	R-HSA-8939211
+Constitutive Signaling by Aberrant PI3K in Cancer	0.5003116028799295	AREG,BTC,EGF,EREG,FGF18,FGFR4,TGFA	R-HSA-2219530
+Resolution of D-Loop Structures	0.5062060030463683	BRCA2,MRE11,RAD51B,RBBP8,RMI1	R-HSA-5693537
+Signaling by EGFR	0.5167666584108036	AREG,BTC,EGF,EREG,SPRY2,TGFA	R-HSA-177929
+Presynaptic phase of homologous DNA pairing and strand exchange	0.5172658410400687	BRCA2,MRE11,RAD51B,RBBP8,RMI1	R-HSA-5693616
+Hypusinylation	0.5244664098569757	DOHH,EIF5A2	R-HSA-204626
+Molybdenum cofactor biosynthesis	0.5244664098569757	GPHN,MOCS2	R-HSA-947581
+Cytochrome c-mediated apoptotic response	0.5483367611098325	APIP,AVEN,CASP3	R-HSA-111461
+GRB2 events in ERBB2 signaling	0.5483367611098325	BTC,EGF,EREG	R-HSA-1963640
+PI3K events in ERBB2 signaling	0.5483367611098325	BTC,EGF,EREG	R-HSA-1963642
+WNT5A-dependent internalization of FZD2, FZD5 and ROR2	0.5483367611098325	AP2B1,AP2S1,ROR2	R-HSA-5140745
+ERBB2 Regulates Cell Motility	0.5483367611098325	BTC,EGF,EREG	R-HSA-6785631
+Peroxisomal lipid metabolism	0.5511997215911083	ACOT4,ACOX2,CRAT,SLC27A2	R-HSA-390918
+Cargo recognition for clathrin-mediated endocytosis	0.5541955339613946	AP2B1,AP2S1,AREG,BTC,EGF,EREG,GRK3,TACR1,TGFA	R-HSA-8856825
+Signaling by Nuclear Receptors	0.5643915524830042	AREG,BTC,DHRS4,EGF,EREG,GNB4,GREB1,GTF2F2,H2AJ,H2BC11,H3C8,KCTD6,NR5A2,PDHB,POLR2K,SCD,TFF1,TGFA	R-HSA-9006931
+Interleukin-15 signaling	0.5789914477278014	GAB2,IL2RB,JAK3	R-HSA-8983432
+Tyrosine catabolism	0.5840662088910593	HPD,TAT	R-HSA-8963684
+Signaling by FGFR in disease	0.5980931563759738	FGF18,FGFR1,FGFR4,GAB2,GTF2F2,POLR2K	R-HSA-1226099
+Homologous DNA Pairing and Strand Exchange	0.6401718389868006	BRCA2,MRE11,RAD51B,RBBP8,RMI1	R-HSA-5693579
+Synthesis of PC	0.646056895473877	ABHD3,MFSD2A,PHOSPHO1,SLC44A3	R-HSA-1483191
+Signaling by FGFR	0.6518735330375492	FGF18,FGFR4,GTF2F2,HNRNPF,POLR2K,SPRED2,SPRY2	R-HSA-190236
+Cell death signalling via NRAGE, NRIF and NADE	0.6518735330375492	ARHGEF38,ARHGEF4,ARHGEF6,CASP3,PREX1,PSENEN,TIAM1	R-HSA-204998
+p75 NTR receptor-mediated signalling	0.6749555582488	ARHGEF38,ARHGEF4,ARHGEF6,CASP3,LINGO1,PREX1,PSENEN,TIAM1	R-HSA-193704
+Negative regulation of the PI3K/AKT network	0.6749555582488	AREG,BTC,EGF,EREG,FGF18,FGFR4,TGFA,TRIB3	R-HSA-199418
+CRMPs in Sema3A signaling	0.6789608313301282	CDK5,CRMP1,DPYSL4	R-HSA-399956
+Interleukin-2 family signaling	0.6802560245254641	GAB2,IL21R,IL2RB,JAK3,SYK	R-HSA-451927
+Rho GTPase cycle	0.6844141318276892	ARHGAP39,ARHGDIG,ARHGEF38,ARHGEF4,ARHGEF6,CHN1,PREX1,RHOT2,STARD8,TIAM1	R-HSA-194840
+Metal sequestration by antimicrobial proteins	0.6891516392924596	S100A7,S100A7A	R-HSA-6799990
+Activated NTRK2 signals through CDK5	0.6891516392924596	CDK5,TIAM1	R-HSA-9032845
+Apoptotic factor-mediated response	0.7316418895544086	APIP,AVEN,CASP3	R-HSA-111471
+Signaling by ERBB2	0.7390520721616668	BTC,EGF,EREG,MATK,STUB1	R-HSA-1227986
+EPH-ephrin mediated repulsion of cells	0.8015964461459997	AP2B1,AP2S1,EPHA1,PSENEN,TIAM1	R-HSA-3928665
+Nef Mediated CD8 Down-regulation	0.8024831892757572	AP2B1,AP2S1	R-HSA-182218
+SHC1 events in ERBB2 signaling	0.8270121124764106	BTC,EGF,EREG	R-HSA-1250196
+Signaling by ERBB2 TMD/JMD mutants	0.8270121124764106	BTC,EGF,EREG	R-HSA-9665686
+Plasma lipoprotein clearance	0.8417047549310639	AP2B1,AP2S1,NPC1,SOAT2	R-HSA-8964043
+HDR through Homologous Recombination (HRR)	0.8643129628618836	BRCA2,MRE11,POLE4,RAD51B,RBBP8,RMI1	R-HSA-5685942
+PI5P, PP2A and IER3 Regulate PI3K/AKT Signaling	0.9037951962106439	AREG,BTC,EGF,EREG,FGF18,FGFR4,TGFA	R-HSA-6811558
+Extra-nuclear estrogen signaling	0.9112659215009098	AREG,BTC,EGF,EREG,GNB4,TGFA	R-HSA-9009391
+Signaling by ERBB2 in Cancer	0.9185429813378724	BTC,EGF,EREG	R-HSA-1227990
+Beta-oxidation of pristanoyl-CoA	0.9238846281057074	ACOX2,CRAT	R-HSA-389887
+Synthesis of UDP-N-acetyl-glucosamine	0.9238846281057074	GFPT1,GNPNAT1	R-HSA-446210
+Nef-mediates down modulation of cell surface receptors by recruiting them to clathrin adapters	0.9368525631537461	AP2B1,AP2S1,ARF1	R-HSA-164938
+Signaling by Insulin receptor	0.9377388360583834	ATP6V0A2,ATP6V1F,FGF18,FGFR4,GAB2,TRIB3	R-HSA-74752
+PI3K events in ERBB4 signaling	0.9410641179406353	BTC,EREG	R-HSA-1250342
+Synthesis of 5-eicosatetraenoic acids	0.9410641179406353	GPX2,PON3	R-HSA-2142688
+OAS antiviral response	0.9410641179406353	PDE12,RNASEL	R-HSA-8983711
+Serine biosynthesis	0.9410641179406353	PHGDH,SRR	R-HSA-977347
+Signaling by NTRKs	0.9448713449398829	AP2B1,AP2S1,CDK5,DUSP6,ID1,RAP1A,RPS6KA1,SGK1,TIAM1	R-HSA-166520
+Estrogen-dependent gene expression	0.9458138614203704	GREB1,GTF2F2,H2AJ,H2BC11,H3C8,KCTD6,NR5A2,POLR2K,TFF1,TGFA	R-HSA-9018519
+Glycerophospholipid biosynthesis	0.9461865808852125	ABHD3,DDHD1,DGAT2,MFSD2A,PHOSPHO1,PLA2G2A,PLA2R1,SELENOI,SLC44A3	R-HSA-1483206
+Metabolism	0.9493485519856905	AAAS,ABHD10,ABHD3,ACADS,ACOT13,ACOT4,ACOT7,ACOX2,AKR1A1,ALDH9A1,APIP,ARF1,ATP5F1A,B3GNT4,B4GALT5,BLVRA,CACNA2D2,CERS6,CHST14,CIAO3,CKMT1A,CKMT1B,COX6C,CPT2,CRAT,CYP4F2,DDHD1,DGAT2,ENTPD1,FA2H,GLRX,GNB4,GPC4,GPHN,GPX2,GRHL1,GYG2,HMMR,HPD,HS3ST3B1,IMPDH1,IPPK,ISCA2,KCNS3,LIAS,MED30,MFSD2A,MOCS2,MPC2,MTHFD2,NDOR1,NDUFAF1,NDUFAF3,NDUFAF6,NUDT15,OAZ3,OXCT1,PCBD1,PDHB,PHGDH,PHOSPHO1,PLA2G2A,PLA2R1,PON3,PTS,RAP1A,RFK,SCD,SELENOI,SLC25A15,SLC26A2,SLC27A2,SLC35D1,SLC44A3,SLC52A2,SLC52A3,SRR,SUCLA2,SULT1A2,TAT,TBXAS1,THRSP,TRIB3	R-HSA-1430728
+PI3K/AKT Signaling in Cancer	0.9508864470532767	AREG,BTC,EGF,EREG,FGF18,FGFR4,TGFA	R-HSA-2219528
+PI3K Cascade	0.9689383316055881	FGF18,FGFR4,GAB2,TRIB3	R-HSA-109704
+Signaling by ERBB2 KD Mutants	0.9794236714896014	BTC,EGF,EREG	R-HSA-9664565
+Signaling by NTRK1 (TRKA)	0.9854772591730381	AP2B1,AP2S1,CDK5,DUSP6,ID1,RAP1A,RPS6KA1,SGK1	R-HSA-187037
+Apoptosis	1	APIP,AVEN,CASP3,CDH1,DSP,HMGB1,YWHAH	R-HSA-109581
+Hemostasis	1	ABHD6,ANXA5,CDK5,CLEC3B,ECM1,EGF,ENDOD1,F12,F7,GNB4,H3C8,KIF1C,KIF22,MANF,NHLRC2,ORM1,ORM2,RAD51B,RAP1A,RARRES2,RASGRP2,SERPINA4,SYK,SYTL4	R-HSA-109582
+Intrinsic Pathway for Apoptosis	1	APIP,AVEN,CASP3,YWHAH	R-HSA-109606
+Translesion synthesis by Y family DNA polymerases bypasses lesions on DNA template	1	POLE4	R-HSA-110313
+Recognition of DNA damage by PCNA-containing replication complex	1	POLE4	R-HSA-110314
+Recognition and association of DNA glycosylase with site containing an affected pyrimidine	1	H2AJ,H2BC11	R-HSA-110328
+Cleavage of the damaged pyrimidine	1	H2AJ,H2BC11	R-HSA-110329
+Recognition and association of DNA glycosylase with site containing an affected purine	1	H2AJ,H2BC11	R-HSA-110330
+Cleavage of the damaged purine	1	H2AJ,H2BC11	R-HSA-110331
+Resolution of AP sites via the multiple-nucleotide patch replacement pathway	1	POLE4	R-HSA-110373
+Activation of BAD and translocation to mitochondria	1	YWHAH	R-HSA-111447
+Formation of apoptosome	1	APIP,AVEN	R-HSA-111458
+Activation of caspases through apoptosome-mediated cleavage	1	CASP3	R-HSA-111459
+SMAC (DIABLO) binds to IAPs	1	CASP3	R-HSA-111463
+SMAC(DIABLO)-mediated dissociation of IAP:caspase complexes	1	CASP3	R-HSA-111464
+Apoptotic cleavage of cellular proteins	1	CASP3,CDH1,DSP	R-HSA-111465
+SMAC, XIAP-regulated apoptotic response	1	CASP3	R-HSA-111469
+Opioid Signalling	1	CDK5,GNB4	R-HSA-111885
+Presynaptic depolarization and calcium channel opening	1	CACNA2D2	R-HSA-112308
+Neurotransmitter release cycle	1	GAD1,SLC1A1,SYN1	R-HSA-112310
+Neurotransmitter receptors and postsynaptic signal transmission	1	GNB4,GRIK3,RPS6KA1	R-HSA-112314
+Transmission across Chemical Synapses	1	CACNA2D2,GAD1,GNB4,GRIK3,RPS6KA1,SLC1A1,SYN1	R-HSA-112315
+Neuronal System	1	CACNA2D2,GAD1,GNB4,GRIK3,HCN4,HOMER1,KCNK1,KCNS3,PPFIBP2,RPS6KA1,SLC1A1,SYN1	R-HSA-112316
+Formation of RNA Pol II elongation complex	1	ELOB,GTF2F2,LEO1,POLR2K	R-HSA-112382
+IRS-mediated signalling	1	FGF18,FGFR4,GAB2,TRIB3	R-HSA-112399
+RAF-independent MAPK1/3 activation	1	DUSP6	R-HSA-112409
+Formation of the Early Elongation Complex	1	GTF2F2,POLR2K	R-HSA-113418
+Activation of BH3-only proteins	1	YWHAH	R-HSA-114452
+Effects of PIP2 hydrolysis	1	ABHD6,RASGRP2	R-HSA-114508
+GPVI-mediated activation cascade	1	SYK	R-HSA-114604
+ISG15 antiviral mechanism	1	AAAS,FLNB	R-HSA-1169408
+Antiviral mechanism by IFN-stimulated genes	1	AAAS,FLNB,PDE12,RNASEL	R-HSA-1169410
+Meiotic synapsis	1	H2AJ,H2BC11	R-HSA-1221632
+ROS and RNS production in phagocytes	1	ATP6V0A2,ATP6V1F	R-HSA-1222556
+Regulation of gene expression by Hypoxia-inducible Factor	1	HIGD1A	R-HSA-1234158
+Cellular response to hypoxia	1	ELOB,HIGD1A	R-HSA-1234174
+Oxygen-dependent proline hydroxylation of Hypoxia-inducible Factor Alpha	1	ELOB	R-HSA-1234176
+Constitutive Signaling by Ligand-Responsive EGFR Cancer Variants	1	EGF	R-HSA-1236382
+Signaling by ERBB4	1	BTC,EGF,EREG,PSENEN	R-HSA-1236394
+ER-Phagosome pathway	1	SEC22B,TIRAP	R-HSA-1236974
+Antigen processing-Cross presentation	1	SEC22B,TIRAP	R-HSA-1236975
+Erythrocytes take up carbon dioxide and release oxygen	1	CYB5RL	R-HSA-1237044
+Methionine salvage pathway	1	APIP	R-HSA-1237112
+SHC1 events in ERBB4 signaling	1	BTC,EREG	R-HSA-1250347
+PLCG1 events in ERBB2 signaling	1	EGF	R-HSA-1251932
+Nuclear signaling by ERBB4	1	BTC,EREG,PSENEN	R-HSA-1251985
+PI3K/AKT Signaling	1	AREG,BTC,EGF,EREG,FGF18,FGFR4,RHEB,STUB1,TGFA,TRIB3	R-HSA-1257604
+Interleukin-7 signaling	1	H3C8,JAK3	R-HSA-1266695
+Developmental Biology	1	AP2B1,AP2S1,ARHGAP39,ARTN,CACNA1G,CACNA1S,CCND3,CDK5,CRMP1,DPYSL4,DSP,ELOB,EPHA1,GAB2,H2AJ,H2BC11,H3C8,MED30,MPZ,ONECUT1,PAGR1,PI3,POLR2K,PSENEN,RNPS1,RPS6KA1,SDCBP,TIAM1	R-HSA-1266738
+Mitochondrial protein import	1	ATP5F1A,COX17,MTX2	R-HSA-1268020
+Cytokine Signaling in Immune system	1	AAAS,AREG,ARF1,ARTN,BTC,CASP3,DUSP6,EGF,EREG,FGF18,FGFR4,FLNB,GAB2,H3C8,HMGB1,HNRNPF,IL21R,IL23A,IL2RB,JAK3,NOD2,PDE12,PTAFR,RAP1A,RNASEL,RPS6KA1,SPRED2,SYK,TGFA,TRIB3	R-HSA-1280215
+Adaptive Immune System	1	AP2B1,AP2S1,ARF1,BLMH,CD300C,CDH1,ELOB,FBXO27,FBXO4,KCTD6,KIF22,KLHL13,RAP1A,RASGRP2,RNF126,SEC22B,STUB1,SYK,TIRAP,TRIB3,TRIM36,TRIM71,UBE2S	R-HSA-1280218
+Spry regulation of FGF signaling	1	SPRY2	R-HSA-1295596
+Activation of G protein gated Potassium channels	1	GNB4	R-HSA-1296041
+G protein gated Potassium channels	1	GNB4	R-HSA-1296059
+HCN channels	1	HCN4	R-HSA-1296061
+Inwardly rectifying K+ channels	1	GNB4	R-HSA-1296065
+Potassium Channels	1	GNB4,HCN4,KCNK1,KCNS3	R-HSA-1296071
+Voltage gated Potassium channels	1	KCNS3	R-HSA-1296072
+Tandem pore domain potassium channels	1	KCNK1	R-HSA-1296346
+Tandem of pore domain in a weak inwardly rectifying K+ channels (TWIK)	1	KCNK1	R-HSA-1299308
+betaKlotho-mediated ligand binding	1	FGFR4	R-HSA-1307965
+Mitochondrial iron-sulfur cluster biogenesis	1	ISCA2	R-HSA-1362409
+BMAL1:CLOCK,NPAS2 activates circadian gene expression	1	F7	R-HSA-1368108
+ABC transporters in lipid homeostasis	1	ABCA7	R-HSA-1369062
+Apoptosis induced DNA fragmentation	1	CASP3,HMGB1	R-HSA-140342
+Extrinsic Pathway of Fibrin Clot Formation	1	F7	R-HSA-140834
+Intrinsic Pathway of Fibrin Clot Formation	1	F12	R-HSA-140837
+Formation of Fibrin Clot (Clotting Cascade)	1	F12,F7	R-HSA-140877
+Inhibition of the proteolytic activity of APC/C required for the onset of anaphase by mitotic spindle checkpoint components	1	BUB3,UBE2S	R-HSA-141405
+Amplification of signal from the kinetochores	1	BUB3,CENPH,NDC80	R-HSA-141424
+Inactivation of APC/C via direct inhibition of the APC/C complex	1	BUB3,UBE2S	R-HSA-141430
+Amplification of signal from unattached kinetochores via a MAD2 inhibitory signal	1	BUB3,CENPH,NDC80	R-HSA-141444
+The citric acid (TCA) cycle and respiratory electron transport	1	ATP5F1A,COX6C,MPC2,NDUFAF1,NDUFAF3,NDUFAF6,PDHB,SUCLA2	R-HSA-1428517
+Signaling by SCF-KIT	1	GAB2	R-HSA-1433557
+Translocation of SLC2A4 (GLUT4) to the plasma membrane	1	YWHAH	R-HSA-1445148
+Tetrahydrobiopterin (BH4) synthesis, recycling, salvage and regulation	1	PTS	R-HSA-1474151
+Reproduction	1	BRCA2,H2AJ,H2BC11,H3C8,MRE11,RBBP8	R-HSA-1474165
+Degradation of the extracellular matrix	1	CAPNS2,CASP3,CDH1	R-HSA-1474228
+Extracellular matrix organization	1	CAPNS2,CASP3,CDH1,COL27A1	R-HSA-1474244
+Collagen formation	1	COL27A1	R-HSA-1474290
+O2/CO2 exchange in erythrocytes	1	CYB5RL	R-HSA-1480926
+Acyl chain remodelling of PC	1	PLA2G2A,PLA2R1	R-HSA-1482788
+Acyl chain remodelling of PS	1	PLA2G2A,PLA2R1	R-HSA-1482801
+Acyl chain remodelling of PE	1	PLA2G2A,PLA2R1	R-HSA-1482839
+Acyl chain remodeling of DAG and TAG	1	DGAT2	R-HSA-1482883
+Acyl chain remodelling of PI	1	PLA2G2A,PLA2R1	R-HSA-1482922
+Acyl chain remodelling of PG	1	PLA2G2A,PLA2R1	R-HSA-1482925
+Synthesis of PA	1	DDHD1,PLA2G2A,PLA2R1	R-HSA-1483166
+Synthesis of PE	1	PHOSPHO1,SELENOI	R-HSA-1483213
+Inositol phosphate metabolism	1	IPPK	R-HSA-1483249
+PI Metabolism	1	ARF1	R-HSA-1483255
+Phospholipid metabolism	1	ABHD3,ARF1,DDHD1,DGAT2,MFSD2A,PHOSPHO1,PLA2G2A,PLA2R1,SELENOI,SLC44A3	R-HSA-1483257
+Meiosis	1	BRCA2,H2AJ,H2BC11,H3C8,MRE11,RBBP8	R-HSA-1500620
+Cell-Cell communication	1	ARHGEF6,CDH1	R-HSA-1500931
+G0 and Early G1	1	CCNE2	R-HSA-1538133
+Phase II - Conjugation of compounds	1	ABHD10,AKR1A1,SLC26A2,SLC35D1,SULT1A2	R-HSA-156580
+Cytosolic sulfonation of small molecules	1	SLC26A2,SULT1A2	R-HSA-156584
+Glucuronidation	1	ABHD10,SLC35D1	R-HSA-156588
+Glutathione conjugation	1	AKR1A1	R-HSA-156590
+Signaling by NOTCH	1	EGF,H2AJ,H2BC11,H3C8,PSENEN	R-HSA-157118
+Telomere Maintenance	1	H2AJ,H2BC11,POLR2K	R-HSA-157579
+Gap junction trafficking and regulation	1	GJB2,GJB5	R-HSA-157858
+Nucleotide metabolism	1	ENTPD1,GLRX,IMPDH1,NUDT15	R-HSA-15869
+Mitochondrial biogenesis	1	ATP5F1A,MTX2	R-HSA-1592230
+Transport of the SLBP independent Mature mRNA	1	AAAS	R-HSA-159227
+Transport of the SLBP Dependant Mature mRNA	1	AAAS	R-HSA-159230
+Transport of Mature mRNA Derived from an Intronless Transcript	1	AAAS	R-HSA-159231
+Transport of Mature mRNAs Derived from Intronless Transcripts	1	AAAS	R-HSA-159234
+Transport of Mature mRNA derived from an Intron-Containing Transcript	1	AAAS,RNPS1,SRSF1	R-HSA-159236
+Gamma-carboxylation of protein precursors	1	F7	R-HSA-159740
+Transport of gamma-carboxylated protein precursors from the endoplasmic reticulum to the Golgi apparatus	1	F7	R-HSA-159763
+Removal of aminoterminal propeptides from gamma-carboxylated proteins	1	F7	R-HSA-159782
+Gamma-carboxylation, transport, and amino-terminal cleavage of proteins	1	F7	R-HSA-159854
+Sulfur amino acid metabolism	1	APIP	R-HSA-1614635
+Signaling Pathways	1	ABHD6,ADM2,ADORA3,AP2B1,AP2S1,AREG,ARHGAP39,ARHGDIG,ARHGEF38,ARHGEF4,ARHGEF6,ARTN,ATP6V0A2,ATP6V1F,AXIN2,BTC,BUB3,CASP3,CCND3,CCR7,CCRL2,CDC14A,CDH1,CDK5,CENPH,CHN1,CXCR1,DHRS4,DUSP6,EGF,EREG,FGF18,FGFR4,GAB2,GHRHR,GNB4,GPC4,GREB1,GRK3,GTF2F2,H2AJ,H2BC11,H3C8,HNRNPF,HTR1D,ID1,IL2RB,JAK3,KCTD6,KREMEN2,LEO1,LINGO1,MATK,NDC80,NPY1R,NPY5R,NR5A2,NTSR2,PDE6A,PDHB,POLR2K,PREX1,PSENEN,PTAFR,RAP1A,RASGRP2,RDH12,REEP1,RHEB,RHOT2,RHPN2,ROR2,RPS6KA1,SCD,SGK1,SH2D2A,SPRED2,SPRY2,STARD8,STUB1,SYK,TACR1,TFF1,TGFA,TIAM1,TRIB3,VPS35,YWHAH,ZNRF3	R-HSA-162582
+HIV Life Cycle	1	AAAS,ELOB,GTF2F2,POLR2K,VPS37A,XRCC4	R-HSA-162587
+Budding and maturation of HIV virion	1	VPS37A	R-HSA-162588
+Integration of provirus	1	XRCC4	R-HSA-162592
+Early Phase of HIV Life Cycle	1	XRCC4	R-HSA-162594
+Late Phase of HIV Life Cycle	1	AAAS,ELOB,GTF2F2,POLR2K,VPS37A	R-HSA-162599
+Synthesis of glycosylphosphatidylinositol (GPI)	1	PIGH	R-HSA-162710
+Attachment of GPI anchor to uPAR	1	PIGT	R-HSA-162791
+HIV Infection	1	AAAS,AP2B1,AP2S1,ARF1,ELOB,GTF2F2,POLR2K,VPS37A,XRCC4	R-HSA-162906
+Host Interactions of HIV factors	1	AAAS,AP2B1,AP2S1,ARF1,ELOB	R-HSA-162909
+Glycosaminoglycan metabolism	1	B3GNT4,B4GALT5,CHST14,GPC4,HMMR,HS3ST3B1,SLC26A2	R-HSA-1630316
+Post-translational modification: synthesis of GPI-anchored proteins	1	CPM,PIGH,PIGT,ULBP2	R-HSA-163125
+Respiratory electron transport, ATP synthesis by chemiosmotic coupling, and heat production by uncoupling proteins.	1	ATP5F1A,COX6C,NDUFAF1,NDUFAF3,NDUFAF6	R-HSA-163200
+Formation of ATP by chemiosmotic coupling	1	ATP5F1A	R-HSA-163210
+Macroautophagy	1	FUNDC1,MTERF3,RHEB	R-HSA-1632852
+Glucagon signaling in metabolic regulation	1	GNB4	R-HSA-163359
+Integration of energy metabolism	1	CACNA2D2,GNB4,KCNS3,RAP1A	R-HSA-163685
+Keratan sulfate/keratin metabolism	1	B3GNT4,B4GALT5	R-HSA-1638074
+Heparan sulfate/heparin (HS-GAG) metabolism	1	GPC4,HS3ST3B1	R-HSA-1638091
+Gamma carboxylation, hypusine formation and arylsulfatase activation	1	DOHH,EIF5A2,F7	R-HSA-163841
+Cell Cycle	1	AAAS,BRCA2,BRCC3,BUB3,CCND3,CCNE2,CDC14A,CENPH,CENPJ,CEP135,H2AJ,H2BC11,H3C8,HAUS1,HAUS7,HMMR,MRE11,NDC80,POLE4,POLR2K,RBBP8,RMI1,UBE2S,YWHAH	R-HSA-1640170
+Disease	1	AAAS,ADM2,AGTRAP,AP2B1,AP2S1,AREG,ARF1,BTC,CAPNS2,CCND3,CCNE2,CDH1,CDK5,CHST14,DUSP6,EGF,ELOB,ENTPD1,EREG,F12,FGF18,FGFR1,FGFR4,GAB2,GFPT1,GHRHR,GNB4,GPC4,GTF2F2,GYG2,H2BC11,H3C8,IMPDH1,JAK3,KREMEN2,MUC5AC,POLR2K,PSENEN,RAP1A,RDH12,RFT1,SLC1A1,SLC26A2,SLC35D1,SLC39A4,SPRED2,SYK,TBXAS1,TGFA,TIRAP,UBE2S,VPS37A,XRCC4	R-HSA-1643685
+2-LTR circle formation	1	XRCC4	R-HSA-164843
+The role of Nef in HIV-1 replication and disease pathogenesis	1	AP2B1,AP2S1,ARF1	R-HSA-164952
+Rev-mediated nuclear export of HIV RNA	1	AAAS	R-HSA-165054
+Collagen biosynthesis and modifying enzymes	1	COL27A1	R-HSA-1650814
+Activation of PKB	1	TRIB3	R-HSA-165158
+MTOR signalling	1	RHEB	R-HSA-165159
+Regulation of cholesterol biosynthesis by SREBP (SREBF)	1	SCD	R-HSA-1655829
+Toll Like Receptor 4 (TLR4) Cascade	1	DUSP6,HMGB1,NOD2,RPS6KA1,TIRAP	R-HSA-166016
+Synthesis of PIPs at the plasma membrane	1	ARF1	R-HSA-1660499
+Synthesis of PIPs at the Golgi membrane	1	ARF1	R-HSA-1660514
+MyD88:MAL(TIRAP) cascade initiated on plasma membrane	1	DUSP6,HMGB1,NOD2,RPS6KA1,TIRAP	R-HSA-166058
+Sphingolipid de novo biosynthesis	1	CERS6,FA2H	R-HSA-1660661
+MyD88-independent TLR4 cascade	1	DUSP6,HMGB1,NOD2,RPS6KA1	R-HSA-166166
+mTORC1-mediated signalling	1	RHEB	R-HSA-166208
+Formation of HIV elongation complex in the absence of HIV Tat	1	ELOB,GTF2F2,POLR2K	R-HSA-167152
+Formation of the HIV-1 Early Elongation Complex	1	GTF2F2,POLR2K	R-HSA-167158
+RNA Pol II CTD phosphorylation and interaction with CE during HIV infection	1	GTF2F2,POLR2K	R-HSA-167160
+HIV Transcription Initiation	1	GTF2F2,POLR2K	R-HSA-167161
+RNA Polymerase II HIV Promoter Escape	1	GTF2F2,POLR2K	R-HSA-167162
+HIV Transcription Elongation	1	ELOB,GTF2F2,POLR2K	R-HSA-167169
+Transcription of the HIV genome	1	ELOB,GTF2F2,POLR2K	R-HSA-167172
+Formation of HIV-1 elongation complex containing HIV-1 Tat	1	ELOB,GTF2F2,POLR2K	R-HSA-167200
+Pausing and recovery of Tat-mediated HIV elongation	1	ELOB,GTF2F2,POLR2K	R-HSA-167238
+Abortive elongation of HIV-1 transcript in the absence of Tat	1	GTF2F2,POLR2K	R-HSA-167242
+Tat-mediated HIV elongation arrest and recovery	1	ELOB,GTF2F2,POLR2K	R-HSA-167243
+Tat-mediated elongation of the HIV-1 transcript	1	ELOB,GTF2F2,POLR2K	R-HSA-167246
+HIV elongation arrest and recovery	1	ELOB,GTF2F2,POLR2K	R-HSA-167287
+Pausing and recovery of HIV elongation	1	ELOB,GTF2F2,POLR2K	R-HSA-167290
+Toll Like Receptor 9 (TLR9) Cascade	1	DUSP6,HMGB1,NOD2,RPS6KA1	R-HSA-168138
+Toll Like Receptor 10 (TLR10) Cascade	1	DUSP6,HMGB1,NOD2,RPS6KA1	R-HSA-168142
+Toll Like Receptor 3 (TLR3) Cascade	1	DUSP6,HMGB1,NOD2,RPS6KA1	R-HSA-168164
+Toll Like Receptor 5 (TLR5) Cascade	1	DUSP6,HMGB1,NOD2,RPS6KA1	R-HSA-168176
+Toll Like Receptor TLR1:TLR2 Cascade	1	DUSP6,HMGB1,NOD2,RPS6KA1,TIRAP	R-HSA-168179
+Toll Like Receptor 7/8 (TLR7/8) Cascade	1	DUSP6,HMGB1,NOD2,RPS6KA1	R-HSA-168181
+Toll Like Receptor TLR6:TLR2 Cascade	1	DUSP6,HMGB1,NOD2,RPS6KA1,TIRAP	R-HSA-168188
+Innate Immune System	1	ABCA13,AGA,ATP6V0A2,ATP6V1F,CHI3L1,CXCR1,DOK3,DSP,DUSP6,GAB2,GCA,HMGB1,IMPDH1,MRE11,MUC5AC,NOD2,ORM1,ORM2,PGLYRP4,PI3,PLA2G2A,POLR2K,PTAFR,RAP1A,RAP2C,RASGRP2,RPS6KA1,S100A7,S100A7A,SDCBP,SLC27A2,SYK,TIFA,TIRAP	R-HSA-168249
+Influenza Infection	1	AAAS,GTF2F2,POLR2K	R-HSA-168255
+Immune System	1	AAAS,ABCA13,AGA,AP2B1,AP2S1,AREG,ARF1,ARTN,ATP6V0A2,ATP6V1F,BLMH,BTC,CASP3,CD300C,CDH1,CHI3L1,CXCR1,DOK3,DSP,DUSP6,EGF,ELOB,EREG,FBXO27,FBXO4,FGF18,FGFR4,FLNB,GAB2,GCA,H3C8,HMGB1,HNRNPF,IL21R,IL23A,IL2RB,IMPDH1,JAK3,KCTD6,KIF22,KLHL13,MRE11,MUC5AC,NOD2,ORM1,ORM2,PDE12,PGLYRP4,PI3,PLA2G2A,POLR2K,PTAFR,RAP1A,RAP2C,RASGRP2,RNASEL,RNF126,RPS6KA1,S100A7,S100A7A,SDCBP,SEC22B,SLC27A2,SPRED2,STUB1,SYK,TGFA,TIFA,TIRAP,TRIB3,TRIM36,TRIM71,UBE2S	R-HSA-168256
+Transport of Ribonucleoproteins into the Host Nucleus	1	AAAS	R-HSA-168271
+Influenza Viral RNA Transcription and Replication	1	AAAS,GTF2F2,POLR2K	R-HSA-168273
+Export of Viral Ribonucleoproteins from Nucleus	1	AAAS	R-HSA-168274
+NS1 Mediated Effects on Host Pathways	1	AAAS	R-HSA-168276
+Viral Messenger RNA Synthesis	1	AAAS,GTF2F2,POLR2K	R-HSA-168325
+NEP/NS2 Interacts with the Cellular Export Machinery	1	AAAS	R-HSA-168333
+NOD1/2 Signaling Pathway	1	NOD2	R-HSA-168638
+Nucleotide-binding domain, leucine rich repeat containing receptor (NLR) signaling pathways	1	NOD2	R-HSA-168643
+Toll-like Receptor Cascades	1	DUSP6,HMGB1,NOD2,RPS6KA1,TIRAP	R-HSA-168898
+DDX58/IFIH1-mediated induction of interferon-alpha/beta	1	HMGB1	R-HSA-168928
+Prolonged ERK activation events	1	RAP1A	R-HSA-169893
+Regulation of Glucokinase by Glucokinase Regulatory Protein	1	AAAS	R-HSA-170822
+Signaling by TGF-beta Receptor Complex	1	STUB1	R-HSA-170834
+Frs2-mediated activation	1	RAP1A	R-HSA-170968
+ARMS-mediated activation	1	RAP1A	R-HSA-170984
+Packaging Of Telomere Ends	1	H2AJ,H2BC11	R-HSA-171306
+Formation of the active cofactor, UDP-glucuronate	1	SLC35D1	R-HSA-173599
+APC/C:Cdc20 mediated degradation of Cyclin B	1	UBE2S	R-HSA-174048
+Autodegradation of Cdh1 by Cdh1:APC/C	1	UBE2S	R-HSA-174084
+APC/C-mediated degradation of cell cycle proteins	1	BUB3,CDC14A,UBE2S	R-HSA-174143
+APC/C:Cdc20 mediated degradation of Securin	1	UBE2S	R-HSA-174154
+APC/C:Cdh1 mediated degradation of Cdc20 and other APC/C:Cdh1 targeted proteins in late mitosis/early G1	1	UBE2S	R-HSA-174178
+Cdc20:Phospho-APC/C mediated degradation of Cyclin A	1	BUB3,UBE2S	R-HSA-174184
+Transport and synthesis of PAPS	1	SLC26A2	R-HSA-174362
+Membrane binding and targetting of GAG proteins	1	VPS37A	R-HSA-174490
+Synthesis And Processing Of GAG, GAGPOL Polyproteins	1	VPS37A	R-HSA-174495
+Lipoprotein metabolism	1	AP2B1,AP2S1,NPC1,SOAT2	R-HSA-174824
+Assembly Of The HIV Virion	1	VPS37A	R-HSA-175474
+Interactions of Vpr with host cellular proteins	1	AAAS	R-HSA-176033
+Conversion from APC/C:Cdc20 to APC/C:Cdh1 in late anaphase	1	CDC14A,UBE2S	R-HSA-176407
+Regulation of APC/C activators between G1/S and early anaphase	1	BUB3,UBE2S	R-HSA-176408
+APC/C:Cdc20 mediated degradation of mitotic proteins	1	BUB3,UBE2S	R-HSA-176409
+Phosphorylation of the APC/C	1	UBE2S	R-HSA-176412
+Activation of APC/C and APC/C:Cdc20 mediated degradation of mitotic proteins	1	BUB3,UBE2S	R-HSA-176814
+Interactions of Rev with host cellular proteins	1	AAAS	R-HSA-177243
+Retrograde neurotrophin signalling	1	AP2B1,AP2S1	R-HSA-177504
+Chondroitin sulfate/dermatan sulfate metabolism	1	CHST14,GPC4	R-HSA-1793185
+APC-Cdc20 mediated degradation of Nek2A	1	BUB3,UBE2S	R-HSA-179409
+APC:Cdc20 mediated degradation of cell cycle proteins prior to satisfation of the cell cycle checkpoint	1	BUB3,UBE2S	R-HSA-179419
+DARPP-32 events	1	CDK5	R-HSA-180024
+Vif-mediated degradation of APOBEC3G	1	ELOB	R-HSA-180585
+Nuclear import of Rev protein	1	AAAS	R-HSA-180746
+Vpr-mediated nuclear import of PICs	1	AAAS	R-HSA-180910
+Serotonin Neurotransmitter Release Cycle	1	SYN1	R-HSA-181429
+Toll Like Receptor 2 (TLR2) Cascade	1	DUSP6,HMGB1,NOD2,RPS6KA1,TIRAP	R-HSA-181438
+STING mediated induction of host immune responses	1	MRE11	R-HSA-1834941
+Cytosolic sensors of pathogen-associated DNA	1	MRE11,POLR2K	R-HSA-1834949
+Signaling by cytosolic FGFR1 fusion mutants	1	GAB2	R-HSA-1839117
+Signaling by activated point mutants of FGFR1	1	FGFR1	R-HSA-1839122
+FGFR1 mutant receptor activation	1	FGFR1,GAB2	R-HSA-1839124
+FGFR2 mutant receptor activation	1	FGF18,GTF2F2,POLR2K	R-HSA-1839126
+FGFR4 mutant receptor activation	1	FGFR4	R-HSA-1839128
+Signaling by activated point mutants of FGFR3	1	FGF18	R-HSA-1839130
+Organelle biogenesis and maintenance	1	ATP5F1A,CENPJ,CEP135,CEP97,HAUS1,HAUS7,MTX2	R-HSA-1852241
+Synthesis of pyrophosphates in the cytosol	1	IPPK	R-HSA-1855167
+Synthesis of IPs in the nucleus	1	IPPK	R-HSA-1855191
+Regulation of beta-cell development	1	ONECUT1	R-HSA-186712
+SCF(Skp2)-mediated degradation of p27/p21	1	CCNE2	R-HSA-187577
+Signalling to ERKs	1	RAP1A	R-HSA-187687
+Cellular hexose transport	1	SLC50A1	R-HSA-189200
+Porphyrin metabolism	1	BLVRA	R-HSA-189445
+Heme degradation	1	BLVRA	R-HSA-189483
+FGFR3 ligand binding and activation	1	FGF18	R-HSA-190239
+FGFR2 ligand binding and activation	1	FGF18	R-HSA-190241
+FGFR4 ligand binding and activation	1	FGF18,FGFR4	R-HSA-190322
+FGFR3b ligand binding and activation	1	FGF18	R-HSA-190371
+FGFR3c ligand binding and activation	1	FGF18	R-HSA-190372
+FGFR2c ligand binding and activation	1	FGF18	R-HSA-190375
+Oligomerization of connexins into connexons	1	GJB2	R-HSA-190704
+Transport of connexins along the secretory pathway	1	GJB2	R-HSA-190827
+Gap junction trafficking	1	GJB2,GJB5	R-HSA-190828
+Gap junction assembly	1	GJB2,GJB5	R-HSA-190861
+Transport of connexons to the plasma membrane	1	GJB2	R-HSA-190872
+Pre-NOTCH Transcription and Translation	1	H2AJ,H2BC11,H3C8	R-HSA-1912408
+Pre-NOTCH Expression and Processing	1	H2AJ,H2BC11,H3C8	R-HSA-1912422
+snRNP Assembly	1	AAAS,DDX20	R-HSA-191859
+Synthesis of bile acids and bile salts	1	ACOX2,SLC27A2	R-HSA-192105
+Synthesis of bile acids and bile salts via 7alpha-hydroxycholesterol	1	ACOX2,SLC27A2	R-HSA-193368
+Axonal growth inhibition (RHOA activation)	1	LINGO1	R-HSA-193634
+NRAGE signals death through JNK	1	ARHGEF38,ARHGEF4,ARHGEF6,PREX1,TIAM1	R-HSA-193648
+Regulated proteolysis of p75NTR	1	PSENEN	R-HSA-193692
+p75NTR regulates axonogenesis	1	LINGO1	R-HSA-193697
+Synthesis of bile acids and bile salts via 24-hydroxycholesterol	1	SLC27A2	R-HSA-193775
+Bile acid and bile salt metabolism	1	ACOX2,SLC27A2	R-HSA-194068
+Signaling by VEGF	1	SH2D2A,TRIB3	R-HSA-194138
+Signaling by Rho GTPases	1	ARHGAP39,ARHGDIG,ARHGEF38,ARHGEF4,ARHGEF6,BUB3,CDH1,CENPH,CHN1,H2AJ,H2BC11,H3C8,NDC80,PREX1,RHOT2,RHPN2,STARD8,TIAM1,YWHAH	R-HSA-194315
+Non-coding RNA Metabolism	1	AAAS,DDX20	R-HSA-194441
+RHO GTPase Effectors	1	BUB3,CDH1,CENPH,H2AJ,H2BC11,H3C8,NDC80,RHPN2,YWHAH	R-HSA-195258
+Signaling by WNT	1	AP2B1,AP2S1,AXIN2,GNB4,H2AJ,H2BC11,H3C8,KREMEN2,LEO1,PDE6A,ROR2,VPS35,ZNRF3	R-HSA-195721
+Metabolism of folate and pterines	1	MTHFD2	R-HSA-196757
+Metabolism of water-soluble vitamins and cofactors	1	GPHN,MOCS2,MTHFD2,RFK,SLC52A2,SLC52A3	R-HSA-196849
+Metabolism of vitamins and cofactors	1	GPC4,GPHN,MOCS2,MTHFD2,PTS,RFK,SLC52A2,SLC52A3	R-HSA-196854
+A tetrasaccharide linker sequence is required for GAG synthesis	1	GPC4	R-HSA-1971475
+Signaling by NOTCH1	1	PSENEN	R-HSA-1980143
+Signaling by NOTCH2	1	PSENEN	R-HSA-1980145
+Nuclear Events (kinase and transcription factor activation)	1	CDK5,DUSP6,ID1,RPS6KA1,SGK1	R-HSA-198725
+ERK/MAPK targets	1	DUSP6,RPS6KA1	R-HSA-198753
+Immunoregulatory interactions between a Lymphoid and a non-Lymphoid cell	1	CD300C,CDH1	R-HSA-198933
+PPARA activates gene expression	1	CPT2,GRHL1,MED30,TRIB3	R-HSA-1989781
+CREB phosphorylation	1	RPS6KA1	R-HSA-199920
+ER to Golgi Anterograde Transport	1	AREG,ARF1,ARF5,KDELR3,SEC16A,SEC22B,TGFA	R-HSA-199977
+Membrane Trafficking	1	AP2B1,AP2S1,AREG,ARF1,ARF5,ARL1,BTC,EGF,EREG,GJB2,GJB5,GRK3,KDELR3,KIF1C,KIF22,SEC16A,SEC22B,TACR1,TBC1D10A,TGFA,VPS37A,YWHAH	R-HSA-199991
+trans-Golgi Network Vesicle Budding	1	ARF1	R-HSA-199992
+Carnitine metabolism	1	CPT2,THRSP	R-HSA-200425
+TCF dependent signaling in response to WNT	1	AXIN2,H2AJ,H2BC11,H3C8,KREMEN2,LEO1,ZNRF3	R-HSA-201681
+Formation of the beta-catenin:TCF transactivating complex	1	AXIN2,H2AJ,H2BC11,H3C8,LEO1	R-HSA-201722
+G-protein activation	1	GNB4	R-HSA-202040
+Assembly of collagen fibrils and other multimeric structures	1	COL27A1	R-HSA-2022090
+Keratan sulfate biosynthesis	1	B3GNT4,B4GALT5	R-HSA-2022854
+Dermatan sulfate biosynthesis	1	CHST14	R-HSA-2022923
+HS-GAG biosynthesis	1	GPC4,HS3ST3B1	R-HSA-2022928
+HS-GAG degradation	1	GPC4	R-HSA-2024096
+ERKs are inactivated	1	DUSP6	R-HSA-202670
+Signaling by Hippo	1	CASP3	R-HSA-2028269
+Fcgamma receptor (FCGR) dependent phagocytosis	1	SYK	R-HSA-2029480
+FCGR activation	1	SYK	R-HSA-2029481
+Regulation of actin dynamics for phagocytic cup formation	1	SYK	R-HSA-2029482
+Role of phospholipids in phagocytosis	1	SYK	R-HSA-2029485
+YAP1- and WWTR1 (TAZ)-stimulated gene expression	1	TEAD4	R-HSA-2032785
+FGFR3 mutant receptor activation	1	FGF18	R-HSA-2033514
+Activated point mutants of FGFR2	1	FGF18	R-HSA-2033519
+MicroRNA (miRNA) biogenesis	1	POLR2K,PRKRA	R-HSA-203927
+COPII-mediated vesicle transport	1	AREG,SEC16A,SEC22B,TGFA	R-HSA-204005
+Regulation of pyruvate dehydrogenase (PDH) complex	1	PDHB	R-HSA-204174
+NADE modulates death signalling	1	CASP3	R-HSA-205025
+NRIF signals cell death from the nucleus	1	PSENEN	R-HSA-205043
+Glycoprotein hormones	1	INHBE	R-HSA-209822
+Peptide hormone biosynthesis	1	INHBE	R-HSA-209952
+Glutamate Neurotransmitter Release Cycle	1	SLC1A1	R-HSA-210500
+Regulation of gene expression in late stage (branching morphogenesis) pancreatic bud precursor cells	1	ONECUT1	R-HSA-210744
+Regulation of gene expression in early pancreatic precursor cells	1	ONECUT1	R-HSA-210747
+Gene Silencing by RNA	1	AAAS,H2AJ,H2BC11,H3C8,HENMT1,MYBL1,POLR2K,PRKRA	R-HSA-211000
+Stimulation of the cell death response by PAK-2p34	1	CASP3	R-HSA-211736
+Biological oxidations	1	ABHD10,AKR1A1,CYP4F2,SLC26A2,SLC35D1,SULT1A2,TBXAS1	R-HSA-211859
+Cytochrome P450 - arranged by substrate type	1	CYP4F2,TBXAS1	R-HSA-211897
+Fatty acids	1	CYP4F2	R-HSA-211935
+Phase I - Functionalization of compounds	1	CYP4F2,TBXAS1	R-HSA-211945
+Miscellaneous substrates	1	CYP4F2	R-HSA-211958
+Eicosanoids	1	CYP4F2,TBXAS1	R-HSA-211979
+Epigenetic regulation of gene expression	1	H2AJ,H2BC11,H3C8,POLR2K,TET2,TTF1	R-HSA-212165
+Activated NOTCH1 Transmits Signal to the Nucleus	1	PSENEN	R-HSA-2122948
+PRC2 methylates histones and DNA	1	H2AJ,H2BC11,H3C8	R-HSA-212300
+Generic Transcription Pathway	1	CCND3,CCNE2,CDK5,CENPJ,COX6C,ELOB,GAD1,GPX2,GTF2F2,H2AJ,H2BC11,H3C8,HNF4A,ING2,KCTD1,KCTD6,MED30,MRE11,POLR2K,RBBP8,RHEB,RMI1,SETD9,SGK1,STUB1,TEAD4,TGFA,TNKS1BP1,UBE2S,YWHAH,ZNF569,ZNF703	R-HSA-212436
+Dopamine Neurotransmitter Release Cycle	1	SYN1	R-HSA-212676
+MHC class II antigen presentation	1	AP2B1,AP2S1,ARF1,KIF22	R-HSA-2132295
+Synthesis of Leukotrienes (LT) and Eoxins (EX)	1	CYP4F2	R-HSA-2142691
+Synthesis of 12-eicosatetraenoic acid derivatives	1	GPX2	R-HSA-2142712
+Arachidonic acid metabolism	1	CYP4F2,GPX2,PON3,TBXAS1	R-HSA-2142753
+Synthesis of 15-eicosatetraenoic acid derivatives	1	GPX2	R-HSA-2142770
+Synthesis of (16-20)-hydroxyeicosatetraenoic acids (HETE)	1	CYP4F2	R-HSA-2142816
+Hyaluronan metabolism	1	HMMR	R-HSA-2142845
+Integrin cell surface interactions	1	CDH1	R-HSA-216083
+Hyaluronan uptake and degradation	1	HMMR	R-HSA-2160916
+Synthesis of Prostaglandins (PG) and Thromboxanes (TX)	1	TBXAS1	R-HSA-2162123
+DAP12 interactions	1	SYK	R-HSA-2172127
+Binding and Uptake of Ligands by Scavenger Receptors	1	SCARA5	R-HSA-2173782
+Downregulation of TGF-beta receptor signaling	1	STUB1	R-HSA-2173788
+TGF-beta receptor signaling activates SMADs	1	STUB1	R-HSA-2173789
+Visual phototransduction	1	GPC4,PDE6A,RDH12	R-HSA-2187338
+Cellular responses to stress	1	AAAS,ATF5,ATP6V1F,BAG5,C12orf66,CCNE2,ELOB,GPX2,H2AJ,H2BC11,H3C8,HIGD1A,ID1,MRE11,NPRL3,PRDX3,RHEB,RPS19BP1,RPS6KA1,TNIK,TRIB3,TXNRD2,UBE2S	R-HSA-2262752
+Condensation of Prophase Chromosomes	1	H2AJ,H2BC11,H3C8	R-HSA-2299718
+Phosphate bond hydrolysis by NUDT proteins	1	NUDT15	R-HSA-2393930
+Signaling by Type 1 Insulin-like Growth Factor 1 Receptor (IGF1R)	1	FGF18,FGFR4,GAB2,TRIB3	R-HSA-2404192
+DAP12 signaling	1	SYK	R-HSA-2424491
+Activation of gene expression by SREBF (SREBP)	1	SCD	R-HSA-2426168
+IGF1R signaling cascade	1	FGF18,FGFR4,GAB2,TRIB3	R-HSA-2428924
+IRS-related events triggered by IGF1R	1	FGF18,FGFR4,GAB2,TRIB3	R-HSA-2428928
+Retinoid cycle disease events	1	RDH12	R-HSA-2453864
+The canonical retinoid cycle in rods (twilight vision)	1	RDH12	R-HSA-2453902
+Fc epsilon receptor (FCERI) signaling	1	GAB2,RASGRP2,SYK	R-HSA-2454202
+Separation of Sister Chromatids	1	BUB3,CENPH,NDC80,UBE2S	R-HSA-2467813
+Diseases associated with visual transduction	1	RDH12	R-HSA-2474795
+Activation of the phototransduction cascade	1	PDE6A	R-HSA-2485179
+Resolution of Sister Chromatid Cohesion	1	BUB3,CENPH,NDC80	R-HSA-2500257
+The phototransduction cascade	1	PDE6A	R-HSA-2514856
+Inactivation, recovery and regulation of the phototransduction cascade	1	PDE6A	R-HSA-2514859
+Mitotic Metaphase and Anaphase	1	BUB3,CENPH,NDC80,UBE2S	R-HSA-2555396
+Oxidative Stress Induced Senescence	1	H2AJ,H2BC11,H3C8,TNIK	R-HSA-2559580
+Senescence-Associated Secretory Phenotype (SASP)	1	H2AJ,H2BC11,H3C8,RPS6KA1,UBE2S	R-HSA-2559582
+Cellular Senescence	1	CCNE2,H2AJ,H2BC11,H3C8,ID1,MRE11,RPS6KA1,TNIK,UBE2S	R-HSA-2559583
+Oncogene Induced Senescence	1	ID1	R-HSA-2559585
+DNA Damage/Telomere Stress Induced Senescence	1	CCNE2,H2AJ,H2BC11,MRE11	R-HSA-2559586
+Cytosolic iron-sulfur cluster assembly	1	CIAO3,NDOR1	R-HSA-2564830
+Regulation of PLK1 Activity at G2/M Transition	1	CENPJ,CEP135,HAUS1,HAUS7	R-HSA-2565942
+Signaling by NOTCH1 PEST Domain Mutants in Cancer	1	PSENEN	R-HSA-2644602
+Signaling by NOTCH1 in Cancer	1	PSENEN	R-HSA-2644603
+Constitutive Signaling by NOTCH1 PEST Domain Mutants	1	PSENEN	R-HSA-2644606
+Caspase-mediated cleavage of cytoskeletal proteins	1	CASP3	R-HSA-264870
+Stimuli-sensing channels	1	ANO10,ANO7,SGK1,SGK3	R-HSA-2672351
+EPH-Ephrin signaling	1	AP2B1,AP2S1,EPHA1,PSENEN,SDCBP,TIAM1	R-HSA-2682334
+Role of LAT2/NTAL/LAB on calcium mobilization	1	GAB2,SYK	R-HSA-2730905
+FCERI mediated MAPK activation	1	SYK	R-HSA-2871796
+FCERI mediated Ca+2 mobilization	1	SYK	R-HSA-2871809
+FCERI mediated NF-kB activation	1	RASGRP2	R-HSA-2871837
+POU5F1 (OCT4), SOX2, NANOG activate genes related to proliferation	1	EPHA1	R-HSA-2892247
+Signaling by NOTCH1 HD+PEST Domain Mutants in Cancer	1	PSENEN	R-HSA-2894858
+Constitutive Signaling by NOTCH1 HD+PEST Domain Mutants	1	PSENEN	R-HSA-2894862
+NOTCH2 Activation and Transmission of Signal to the Nucleus	1	PSENEN	R-HSA-2979096
+Peptide hormone metabolism	1	DPP4,INHBE	R-HSA-2980736
+Nuclear Envelope Breakdown	1	AAAS	R-HSA-2980766
+SUMOylation	1	AAAS,ING2,XRCC4	R-HSA-2990846
+Scavenging by Class A Receptors	1	SCARA5	R-HSA-3000480
+SUMOylation of DNA damage response and repair proteins	1	AAAS,XRCC4	R-HSA-3108214
+SUMO E3 ligases SUMOylate target proteins	1	AAAS,ING2,XRCC4	R-HSA-3108232
+HDACs deacetylate histones	1	H2BC11,H3C8	R-HSA-3214815
+PKMTs methylate histone lysines	1	H3C8,KMT5C	R-HSA-3214841
+HDMs demethylate histones	1	H3C8	R-HSA-3214842
+HATs acetylate histones	1	H2BC11,H3C8	R-HSA-3214847
+RMTs methylate histone arginines	1	COPRS,H2AJ,H3C8	R-HSA-3214858
+Glycogen storage diseases	1	GYG2	R-HSA-3229121
+SUMOylation of ubiquitinylation proteins	1	AAAS	R-HSA-3232142
+WNT ligand biogenesis and trafficking	1	VPS35	R-HSA-3238698
+Chromatin modifying enzymes	1	COPRS,H2AJ,H2BC11,H3C8,KMT5C,PADI3	R-HSA-3247509
+IRF3-mediated induction of type I IFN	1	MRE11	R-HSA-3270619
+Detoxification of Reactive Oxygen Species	1	GPX2,PRDX3,TXNRD2	R-HSA-3299685
+Nuclear Pore Complex (NPC) Disassembly	1	AAAS	R-HSA-3301854
+Glycogen synthesis	1	GYG2	R-HSA-3322077
+Regulation of HSF1-mediated heat shock response	1	AAAS,BAG5,RPS19BP1	R-HSA-3371453
+Cellular response to heat stress	1	AAAS,BAG5,RPS19BP1	R-HSA-3371556
+Regulation of ornithine decarboxylase (ODC)	1	OAZ3	R-HSA-350562
+Metabolism of polyamines	1	OAZ3	R-HSA-351202
+Amino acid transport across the plasma membrane	1	SLC1A4,SLC1A5	R-HSA-352230
+Integrin signaling	1	RAP1A,RASGRP2,SYK	R-HSA-354192
+GRB2:SOS provides linkage to MAPK signaling for Integrins	1	RAP1A	R-HSA-354194
+Diseases associated with glycosaminoglycan metabolism	1	CHST14,GPC4,SLC26A2	R-HSA-3560782
+Defective B4GALT7 causes EDS, progeroid type	1	GPC4	R-HSA-3560783
+Defective SLC26A2 causes chondrodysplasias	1	SLC26A2	R-HSA-3560792
+Defective B3GAT3 causes JDSSDHD	1	GPC4	R-HSA-3560801
+Defective CHST14 causes EDS, musculocontractural type	1	CHST14	R-HSA-3595174
+Defective EXT2 causes exostoses 2	1	GPC4	R-HSA-3656237
+Defective EXT1 causes exostoses 1, TRPS2 and CHDS	1	GPC4	R-HSA-3656253
+Transcriptional Regulation by TP53	1	CCNE2,CDK5,CENPJ,COX6C,ELOB,GPX2,GTF2F2,ING2,MRE11,POLR2K,RBBP8,RHEB,RMI1,SETD9,SGK1,TNKS1BP1,YWHAH	R-HSA-3700989
+p130Cas linkage to MAPK signaling for integrins	1	RAP1A	R-HSA-372708
+Signaling by GPCR	1	ABHD6,ADM2,ADORA3,ARHGEF38,ARHGEF4,ARHGEF6,CCR7,CCRL2,CDK5,CXCR1,GHRHR,GNB4,GPC4,GRK3,HTR1D,NPY1R,NPY5R,NTSR2,PDE6A,PREX1,PTAFR,RASGRP2,RDH12,REEP1,RPS6KA1,TACR1,TIAM1	R-HSA-372790
+Class A/1 (Rhodopsin-like receptors)	1	ADORA3,CCR7,CCRL2,CXCR1,HTR1D,NPY1R,NPY5R,NTSR2,PTAFR,TACR1	R-HSA-373076
+Class B/2 (Secretin family receptors)	1	ADM2,GHRHR,GNB4	R-HSA-373080
+Semaphorin interactions	1	CDK5,CRMP1,DPYSL4	R-HSA-373755
+L1CAM interactions	1	AP2B1,AP2S1,RPS6KA1,SDCBP	R-HSA-373760
+NCAM signaling for neurite out-growth	1	ARTN,CACNA1G,CACNA1S	R-HSA-375165
+Peptide ligand-binding receptors	1	CCR7,CCRL2,CXCR1,NPY1R,NPY5R,NTSR2,TACR1	R-HSA-375276
+Amine ligand-binding receptors	1	HTR1D	R-HSA-375280
+Signaling by ROBO receptors	1	ARHGAP39,ELOB,RNPS1	R-HSA-376176
+Negative regulation of TCF-dependent signaling by WNT ligand antagonists	1	KREMEN2	R-HSA-3772470
+Diseases associated with N-glycosylation of proteins	1	RFT1	R-HSA-3781860
+Diseases of glycosylation	1	CHST14,GFPT1,GPC4,MUC5AC,RFT1,SLC26A2	R-HSA-3781865
+Tachykinin receptors bind tachykinins	1	TACR1	R-HSA-380095
+Chemokine receptors bind chemokines	1	CCR7,CCRL2,CXCR1	R-HSA-380108
+Loss of Nlp from mitotic centrosomes	1	CENPJ,CEP135,HAUS1,HAUS7	R-HSA-380259
+Recruitment of mitotic centrosome proteins and complexes	1	CENPJ,CEP135,HAUS1,HAUS7	R-HSA-380270
+Loss of proteins required for interphase microtubule organization from the centrosome	1	CENPJ,CEP135,HAUS1,HAUS7	R-HSA-380284
+Centrosome maturation	1	CENPJ,CEP135,HAUS1,HAUS7	R-HSA-380287
+Recruitment of NuMA to mitotic centrosomes	1	CENPJ,CEP135,HAUS1,HAUS7	R-HSA-380320
+Energy dependent regulation of mTOR by LKB1-AMPK	1	RHEB	R-HSA-380972
+XBP1(S) activates chaperone genes	1	GFPT1,KDELR3	R-HSA-381038
+IRE1alpha activates chaperones	1	GFPT1,KDELR3	R-HSA-381070
+Unfolded Protein Response (UPR)	1	GFPT1,KDELR3	R-HSA-381119
+Transcriptional regulation of white adipocyte differentiation	1	CCND3,MED30	R-HSA-381340
+Regulation of IGF Activity by IGFBP	1	SPARCL1	R-HSA-381426
+Glucagon-like Peptide-1 (GLP1) regulates insulin secretion	1	GNB4,KCNS3,RAP1A	R-HSA-381676
+Olfactory Signaling Pathway	1	REEP1	R-HSA-381753
+Synthesis, secretion, and inactivation of Glucagon-like Peptide-1 (GLP-1)	1	DPP4	R-HSA-381771
+Transport of small molecules	1	ABCA7,ANO10,ANO7,AP2B1,AP2S1,ATP2C2,ATP6V0A2,ATP6V1F,AZGP1,CYB5RL,GNB4,HFE,LRRC8B,NIPAL1,NPC1,SGK1,SGK3,SLC1A1,SLC1A4,SLC1A5,SLC25A18,SLC26A2,SLC28A2,SLC35D1,SLC39A4,SLC39A8,SLC44A3,SLC50A1,SOAT2	R-HSA-382551
+ABC-family proteins mediated transport	1	ABCA7	R-HSA-382556
+Nuclear Receptor transcription pathway	1	HNF4A	R-HSA-383280
+Beta-catenin independent WNT signaling	1	AP2B1,AP2S1,GNB4,PDE6A,ROR2	R-HSA-3858494
+GSD 0	1	GYG2	R-HSA-3858516
+GSD IV	1	GYG2	R-HSA-3878781
+GPCR downstream signalling	1	ABHD6,ADM2,ADORA3,ARHGEF38,ARHGEF4,ARHGEF6,CCR7,CDK5,CXCR1,GHRHR,GNB4,GPC4,GRK3,HTR1D,NPY1R,NPY5R,NTSR2,PDE6A,PREX1,PTAFR,RASGRP2,RDH12,REEP1,RPS6KA1,TACR1,TIAM1	R-HSA-388396
+Costimulation by the CD28 family	1	TRIB3	R-HSA-388841
+Receptor-type tyrosine-protein phosphatases	1	PPFIBP2	R-HSA-388844
+CD28 co-stimulation	1	TRIB3	R-HSA-389356
+CD28 dependent PI3K/Akt signaling	1	TRIB3	R-HSA-389357
+Alpha-oxidation of phytanate	1	SLC27A2	R-HSA-389599
+Glyoxylate metabolism and glycine degradation	1	LIAS,PDHB	R-HSA-389661
+SUMOylation of transcription cofactors	1	ING2	R-HSA-3899300
+Prefoldin mediated transfer of substrate to CCT/TriC	1	CCT6B,VBP1	R-HSA-389957
+Cooperation of Prefoldin and TriC/CCT in actin and tubulin folding	1	CCT6B,VBP1	R-HSA-389958
+Formation of tubulin folding intermediates by CCT/TriC	1	CCT6B	R-HSA-389960
+Beta-oxidation of very long chain fatty acids	1	ACOT4	R-HSA-390247
+Folding of actin by CCT/TriC	1	CCT6B	R-HSA-390450
+Chaperonin-mediated protein folding	1	CCNE2,CCT6B,FBXO4,GNB4,VBP1	R-HSA-390466
+Association of TriC/CCT with target proteins during biosynthesis	1	CCNE2,CCT6B,FBXO4	R-HSA-390471
+Striated Muscle Contraction	1	TNNI3,TNNT1	R-HSA-390522
+Serotonin receptors	1	HTR1D	R-HSA-390666
+Diseases associated with O-glycosylation of proteins	1	MUC5AC	R-HSA-3906995
+Protein folding	1	CCNE2,CCT6B,FBXO4,GNB4,VBP1	R-HSA-391251
+ADP signalling through P2Y purinoceptor 12	1	GNB4	R-HSA-392170
+G beta:gamma signalling through PI3Kgamma	1	GNB4	R-HSA-392451
+Metabolism of proteins	1	AAAS,AREG,ARF1,ARF5,AXIN2,B3GNT4,B4GALT5,BRCC3,CCNE2,CCT6B,CHST8,CPM,DCAF13,DOHH,DPP4,EIF5A2,ELOB,F7,FBXO27,FBXO4,GCNT1,GFPT1,GMPPA,GNB4,GNPNAT1,H2BC11,H3C8,ING2,INHBE,KCTD6,KDELR3,KLHL13,LEO1,LRRC49,MGAT3,MRPL40,MRPL41,MRPL57,MUC5AC,NOD2,PCMT1,PIGH,PIGT,PSENEN,RAB23,RFT1,SEC16A,SEC22B,SORL1,SPARCL1,TGFA,TPGS2,TSPAN33,TTF1,TTLL7,UBE2S,ULBP2,VBP1,XRCC4	R-HSA-392499
+Rap1 signalling	1	RAP1A,RASGRP2	R-HSA-392517
+Signal amplification	1	GNB4	R-HSA-392518
+Prostacyclin signalling through prostacyclin receptor	1	GNB4	R-HSA-392851
+EPHB-mediated forward signaling	1	TIAM1	R-HSA-3928662
+Ephrin signaling	1	SDCBP	R-HSA-3928664
+Muscle contraction	1	CACNA2D2,KCNK1,TNNI3,TNNT1	R-HSA-397014
+G-protein beta:gamma signalling	1	ARHGEF6,GNB4	R-HSA-397795
+Adrenaline,noradrenaline inhibits insulin secretion	1	CACNA2D2,GNB4	R-HSA-400042
+Regulation of lipid metabolism by PPARalpha	1	CPT2,GRHL1,MED30,TRIB3	R-HSA-400206
+Circadian Clock	1	F7	R-HSA-400253
+Incretin synthesis, secretion, and inactivation	1	DPP4	R-HSA-400508
+Synthesis, secretion, and inactivation of Glucose-dependent Insulinotropic Polypeptide (GIP)	1	DPP4	R-HSA-400511
+Defective GFPT1 causes CMSTA1	1	GFPT1	R-HSA-4085023
+SUMOylation of SUMOylation proteins	1	AAAS	R-HSA-4085377
+Ca2+ pathway	1	GNB4,PDE6A	R-HSA-4086398
+PCP/CE pathway	1	AP2B1,AP2S1,ROR2	R-HSA-4086400
+G alpha (q) signalling events	1	ABHD6,GNB4,NTSR2,PTAFR,RASGRP2,RPS6KA1,TACR1	R-HSA-416476
+G alpha (12/13) signalling events	1	ARHGEF38,ARHGEF4,ARHGEF6,GNB4,PREX1,TIAM1	R-HSA-416482
+Adenosine P1 receptors	1	ADORA3	R-HSA-417973
+Nucleotide-like (purinergic) receptors	1	ADORA3	R-HSA-418038
+G beta:gamma signalling through PLC beta	1	GNB4	R-HSA-418217
+Platelet homeostasis	1	GNB4	R-HSA-418346
+G alpha (s) signalling events	1	ADM2,GHRHR,GNB4,GRK3,REEP1	R-HSA-418555
+ADP signalling through P2Y purinoceptor 1	1	GNB4	R-HSA-418592
+G alpha (i) signalling events	1	ADORA3,CCR7,CDK5,CXCR1,GNB4,GPC4,HTR1D,NPY1R,NPY5R,PDE6A,RDH12	R-HSA-418594
+G alpha (z) signalling events	1	GNB4	R-HSA-418597
+Ligand-independent caspase activation via DCC	1	CASP3	R-HSA-418889
+Adherens junctions interactions	1	CDH1	R-HSA-418990
+NCAM1 interactions	1	ARTN,CACNA1G,CACNA1S	R-HSA-419037
+Calcitonin-like ligand receptors	1	ADM2	R-HSA-419812
+Glucagon-type ligand receptors	1	GHRHR,GNB4	R-HSA-420092
+Cell-cell junction organization	1	CDH1	R-HSA-421270
+Regulation of insulin secretion	1	CACNA2D2,GNB4,KCNS3,RAP1A	R-HSA-422356
+Axon guidance	1	AP2B1,AP2S1,ARHGAP39,ARTN,CACNA1G,CACNA1S,CDK5,CRMP1,DPYSL4,ELOB,EPHA1,GAB2,PSENEN,RNPS1,RPS6KA1,SDCBP,TIAM1	R-HSA-422475
+Transport of bile salts and organic acids, metal ions and amine compounds	1	SLC39A4,SLC39A8,SLC44A3	R-HSA-425366
+Transport of inorganic cations/anions and amino acids/oligopeptides	1	SLC1A1,SLC1A4,SLC1A5,SLC25A18,SLC26A2	R-HSA-425393
+Transport of vitamins, nucleosides, and related molecules	1	SLC28A2,SLC35D1	R-HSA-425397
+SLC-mediated transmembrane transport	1	SLC1A1,SLC1A4,SLC1A5,SLC25A18,SLC26A2,SLC28A2,SLC35D1,SLC39A4,SLC39A8,SLC44A3,SLC50A1	R-HSA-425407
+Metal ion SLC transporters	1	SLC39A4,SLC39A8	R-HSA-425410
+Arachidonate production from DAG	1	ABHD6	R-HSA-426048
+Small interfering RNA (siRNA) biogenesis	1	PRKRA	R-HSA-426486
+SIRT1 negatively regulates rRNA expression	1	H2AJ,H2BC11,H3C8	R-HSA-427359
+Activation of rRNA Expression by ERCC6 (CSB) and EHMT2 (G9a)	1	H2AJ,H2BC11,H3C8,TTF1	R-HSA-427389
+NoRC negatively regulates rRNA expression	1	H2AJ,H2BC11,H3C8,POLR2K,TTF1	R-HSA-427413
+Multifunctional anion exchangers	1	SLC26A2	R-HSA-427601
+Sphingolipid metabolism	1	CERS6,FA2H	R-HSA-428157
+Inactivation of CDC42 and RAC1	1	ARHGAP39	R-HSA-428543
+Organic anion transporters	1	SLC25A18	R-HSA-428643
+Thromboxane signalling through TP receptor	1	GNB4	R-HSA-428930
+Deadenylation-dependent mRNA decay	1	TNKS1BP1	R-HSA-429914
+Deadenylation of mRNA	1	TNKS1BP1	R-HSA-429947
+Vasopressin regulates renal water homeostasis via Aquaporins	1	GNB4	R-HSA-432040
+Lysosome Vesicle Biogenesis	1	ARF1	R-HSA-432720
+Golgi Associated Vesicle Biogenesis	1	ARF1	R-HSA-432722
+Zinc transporters	1	SLC39A4,SLC39A8	R-HSA-435354
+Recycling pathway of L1	1	AP2B1,AP2S1,RPS6KA1	R-HSA-437239
+Post NMDA receptor activation events	1	RPS6KA1	R-HSA-438064
+Binding of TCF/LEF:CTNNB1 to target gene promoters	1	AXIN2	R-HSA-4411364
+VEGFA-VEGFR2 Pathway	1	SH2D2A,TRIB3	R-HSA-4420097
+Defective B3GALT6 causes EDSP2 and SEMDJL1	1	GPC4	R-HSA-4420332
+Zinc influx into cells by the SLC39 gene family	1	SLC39A4,SLC39A8	R-HSA-442380
+CREB1 phosphorylation through NMDA receptor-mediated activation of RAS signaling	1	RPS6KA1	R-HSA-442742
+Activation of NMDA receptors and postsynaptic events	1	RPS6KA1	R-HSA-442755
+RSK activation	1	RPS6KA1	R-HSA-444257
+Aquaporin-mediated transport	1	GNB4	R-HSA-445717
+TAK1 activates NFkB by phosphorylation and activation of IKKs complex	1	HMGB1,NOD2	R-HSA-445989
+Biosynthesis of the N-glycan precursor (dolichol lipid-linked oligosaccharide, LLO) and transfer to a nascent protein	1	GFPT1,GMPPA,GNPNAT1,RFT1	R-HSA-446193
+Asparagine N-linked glycosylation	1	AREG,ARF1,ARF5,B4GALT5,CHST8,GFPT1,GMPPA,GNPNAT1,KDELR3,MGAT3,RFT1,SEC16A,SEC22B,TGFA	R-HSA-446203
+Synthesis of GDP-mannose	1	GMPPA	R-HSA-446205
+Synthesis of substrates in N-glycan biosythesis	1	GFPT1,GMPPA,GNPNAT1	R-HSA-446219
+Cell-extracellular matrix interactions	1	ARHGEF6	R-HSA-446353
+Regulation of cytoskeletal remodeling and cell spreading by IPP complex components	1	ARHGEF6	R-HSA-446388
+Interleukin-1 family signaling	1	HMGB1,NOD2	R-HSA-446652
+Cell junction organization	1	ARHGEF6,CDH1	R-HSA-446728
+Neurofascin interactions	1	SDCBP	R-HSA-447043
+Interleukin-12 family signaling	1	ARF1,HNRNPF,IL23A	R-HSA-447115
+Interleukin-17 signaling	1	DUSP6,NOD2,RPS6KA1	R-HSA-448424
+Signaling by Interleukins	1	ARF1,CASP3,DUSP6,GAB2,H3C8,HMGB1,HNRNPF,IL21R,IL23A,IL2RB,JAK3,NOD2,PTAFR,RPS6KA1,SYK	R-HSA-449147
+Other interleukin signaling	1	CASP3	R-HSA-449836
+MAPK targets/ Nuclear events mediated by MAP kinases	1	DUSP6,RPS6KA1	R-HSA-450282
+MAP kinase activation	1	DUSP6,NOD2,RPS6KA1	R-HSA-450294
+activated TAK1 mediates p38 MAPK activation	1	NOD2	R-HSA-450302
+JNK (c-Jun kinases) phosphorylation and activation mediated by activated human TAK1	1	NOD2	R-HSA-450321
+Ionotropic activity of kainate receptors	1	GRIK3	R-HSA-451306
+Activation of Ca-permeable Kainate Receptor	1	GRIK3	R-HSA-451308
+Activation of kainate receptors upon glutamate binding	1	GNB4,GRIK3	R-HSA-451326
+Transcriptional regulation of pluripotent stem cells	1	EPHA1	R-HSA-452723
+Mitotic G2-G2/M phases	1	CENPJ,CEP135,HAUS1,HAUS7,HMMR	R-HSA-453274
+Regulation of mitotic cell cycle	1	BUB3,CDC14A,UBE2S	R-HSA-453276
+Mitotic G1 phase and G1/S transition	1	CCND3,CCNE2,POLE4	R-HSA-453279
+SUMOylation of chromatin organization proteins	1	AAAS	R-HSA-4551638
+Thrombin signalling through proteinase activated receptors (PARs)	1	GNB4	R-HSA-456926
+SUMOylation of RNA binding proteins	1	AAAS	R-HSA-4570464
+Defective RFT1 causes RFT1-CDG (CDG-1n)	1	RFT1	R-HSA-4570571
+SUMOylation of DNA replication proteins	1	AAAS	R-HSA-4615885
+Degradation of AXIN	1	AXIN2	R-HSA-4641257
+Regulation of FZD by ubiquitination	1	ZNRF3	R-HSA-4641263
+Signaling by WNT in cancer	1	KREMEN2	R-HSA-4791275
+Chromatin organization	1	COPRS,H2AJ,H2BC11,H3C8,KMT5C,PADI3	R-HSA-4839726
+Interconversion of nucleotide di- and triphosphates	1	GLRX	R-HSA-499943
+Presynaptic function of Kainate receptors	1	GNB4,GRIK3	R-HSA-500657
+GPCR ligand binding	1	ADM2,ADORA3,CCR7,CCRL2,CXCR1,GHRHR,GNB4,HTR1D,NPY1R,NPY5R,NTSR2,PTAFR,TACR1	R-HSA-500792
+Defective GALNT3 causes familial hyperphosphatemic tumoral calcinosis (HFTC)	1	MUC5AC	R-HSA-5083625
+Defective C1GALT1C1 causes Tn polyagglutination syndrome (TNPS)	1	MUC5AC	R-HSA-5083632
+Defective GALNT12 causes colorectal cancer 1 (CRCS1)	1	MUC5AC	R-HSA-5083636
+WNT5A-dependent internalization of FZD4	1	AP2B1,AP2S1	R-HSA-5099900
+Interleukin-3, Interleukin-5 and GM-CSF signaling	1	GAB2,IL2RB,JAK3,SYK	R-HSA-512988
+O-linked glycosylation	1	B3GNT4,B4GALT5,GCNT1,MUC5AC	R-HSA-5173105
+Mitophagy	1	FUNDC1,MTERF3	R-HSA-5205647
+PINK1-PRKN Mediated Mitophagy	1	MTERF3	R-HSA-5205685
+RIPK1-mediated regulated necrosis	1	SDCBP,STUB1	R-HSA-5213460
+Regulated Necrosis	1	SDCBP,STUB1	R-HSA-5218859
+VEGFR2 mediated vascular permeability	1	TRIB3	R-HSA-5218920
+Oxidative demethylation of DNA	1	TET2	R-HSA-5221030
+Miscellaneous transport and binding events	1	AZGP1,LRRC8B,NIPAL1	R-HSA-5223345
+Positive epigenetic regulation of rRNA expression	1	H2AJ,H2BC11,H3C8,POLR2K,TTF1	R-HSA-5250913
+B-WICH complex positively regulates rRNA expression	1	H2AJ,H2BC11,H3C8,POLR2K	R-HSA-5250924
+Negative epigenetic regulation of rRNA expression	1	H2AJ,H2BC11,H3C8,POLR2K,TTF1	R-HSA-5250941
+Diseases of Immune System	1	TIRAP	R-HSA-5260271
+DNA methylation	1	H2AJ,H2BC11,H3C8	R-HSA-5334118
+Misspliced LRP5 mutants have enhanced beta-catenin-dependent signaling	1	KREMEN2	R-HSA-5339717
+Caspase activation via extrinsic apoptotic signalling pathway	1	CASP3	R-HSA-5357769
+Programmed Cell Death	1	APIP,AVEN,CASP3,CDH1,DSP,HMGB1,SDCBP,STUB1,YWHAH	R-HSA-5357801
+Signaling by Retinoic Acid	1	DHRS4,PDHB	R-HSA-5362517
+RA biosynthesis pathway	1	DHRS4	R-HSA-5365859
+Mitochondrial translation initiation	1	MRPL40,MRPL41,MRPL57	R-HSA-5368286
+Mitochondrial translation	1	MRPL40,MRPL41,MRPL57	R-HSA-5368287
+Mitochondrial translation elongation	1	MRPL40,MRPL41,MRPL57	R-HSA-5389840
+Mitochondrial translation termination	1	MRPL40,MRPL41,MRPL57	R-HSA-5419276
+Metabolism of lipids	1	ABHD3,ACADS,ACOT13,ACOT4,ACOT7,ACOX2,ARF1,CERS6,CPT2,CRAT,CYP4F2,DDHD1,DGAT2,FA2H,GPX2,GRHL1,MED30,MFSD2A,OXCT1,PHOSPHO1,PLA2G2A,PLA2R1,PON3,SCD,SELENOI,SLC27A2,SLC44A3,TBXAS1,THRSP,TRIB3	R-HSA-556833
+Phase 4 - resting membrane potential	1	KCNK1	R-HSA-5576886
+Cardiac conduction	1	CACNA2D2,KCNK1,TNNI3	R-HSA-5576891
+Phase 0 - rapid depolarisation	1	CACNA2D2	R-HSA-5576892
+Phase 2 - plateau phase	1	CACNA2D2	R-HSA-5576893
+Transcriptional regulation by small RNAs	1	AAAS,H2AJ,H2BC11,H3C8,POLR2K	R-HSA-5578749
+Ion homeostasis	1	TNNI3	R-HSA-5578775
+Defective SLC35D1 causes Schneckenbecken dysplasia (SCHBCKD)	1	SLC35D1	R-HSA-5579020
+Metabolic disorders of biological oxidation enzymes	1	SLC35D1,TBXAS1	R-HSA-5579029
+Defective TBXAS1 causes Ghosal hematodiaphyseal dysplasia (GHDD)	1	TBXAS1	R-HSA-5579032
+PIWI-interacting RNA (piRNA) biogenesis	1	HENMT1,MYBL1,POLR2K	R-HSA-5601884
+Diseases associated with the TLR signaling cascade	1	TIRAP	R-HSA-5602358
+MyD88 deficiency (TLR2/4)	1	TIRAP	R-HSA-5602498
+IRAK4 deficiency (TLR2/4)	1	TIRAP	R-HSA-5603041
+CLEC7A (Dectin-1) signaling	1	SYK	R-HSA-5607764
+Diseases associated with glycosylation precursor biosynthesis	1	GFPT1	R-HSA-5609975
+Activation of anterior HOX genes in hindbrain development during early embryogenesis	1	H2AJ,H2BC11,H3C8,PAGR1,POLR2K	R-HSA-5617472
+Cilium Assembly	1	CENPJ,CEP135,CEP97,HAUS1,HAUS7	R-HSA-5617833
+Defective SLC1A1 is implicated in schizophrenia 18 (SCZD18) and dicarboxylic aminoaciduria (DCBXA)	1	SLC1A1	R-HSA-5619067
+Defective SLC39A4 causes acrodermatitis enteropathica, zinc-deficiency type (AEZ)	1	SLC39A4	R-HSA-5619088
+SLC transporter disorders	1	AAAS,SLC1A1,SLC26A2,SLC39A4	R-HSA-5619102
+Defective TPR may confer susceptibility towards thyroid papillary carcinoma (TPC)	1	AAAS	R-HSA-5619107
+Disorders of transmembrane transporters	1	AAAS,SLC1A1,SLC26A2,SLC39A4	R-HSA-5619115
+Activation of HOX genes during differentiation	1	H2AJ,H2BC11,H3C8,PAGR1,POLR2K	R-HSA-5619507
+Anchoring of the basal body to the plasma membrane	1	CENPJ,CEP135,CEP97,HAUS1,HAUS7	R-HSA-5620912
+Dectin-2 family	1	MUC5AC,SYK	R-HSA-5621480
+C-type lectin receptors (CLRs)	1	MUC5AC,SYK	R-HSA-5621481
+RHO GTPases activate PKNs	1	H2AJ,H2BC11,H3C8,YWHAH	R-HSA-5625740
+Activated PKN1 stimulates transcription of AR (androgen receptor) regulated genes KLK2 and KLK3	1	H2AJ,H2BC11,H3C8	R-HSA-5625886
+RHO GTPases activate IQGAPs	1	CDH1	R-HSA-5626467
+TP53 Regulates Metabolic Genes	1	COX6C,GPX2,RHEB,YWHAH	R-HSA-5628897
+Regulation of TP53 Activity	1	CDK5,ING2,MRE11,RBBP8,RMI1,SETD9,SGK1	R-HSA-5633007
+Constitutive Signaling by EGFRvIII	1	EGF	R-HSA-5637810
+Signaling by EGFRvIII in Cancer	1	EGF	R-HSA-5637812
+Signaling by Ligand-Responsive EGFR Variants in Cancer	1	EGF	R-HSA-5637815
+PCNA-Dependent Long Patch Base Excision Repair	1	POLE4	R-HSA-5651801
+Vesicle-mediated transport	1	AP2B1,AP2S1,AREG,ARF1,ARF5,ARL1,BTC,EGF,EREG,GJB2,GJB5,GRK3,KDELR3,KIF1C,KIF22,SCARA5,SEC16A,SEC22B,TACR1,TBC1D10A,TGFA,VPS37A,YWHAH	R-HSA-5653656
+Phospholipase C-mediated cascade; FGFR2	1	FGF18	R-HSA-5654221
+Phospholipase C-mediated cascade; FGFR3	1	FGF18	R-HSA-5654227
+Phospholipase C-mediated cascade; FGFR4	1	FGF18,FGFR4	R-HSA-5654228
+PI-3K cascade:FGFR2	1	FGF18	R-HSA-5654695
+Downstream signaling of activated FGFR2	1	FGF18	R-HSA-5654696
+SHC-mediated cascade:FGFR2	1	FGF18	R-HSA-5654699
+FRS-mediated FGFR2 signaling	1	FGF18	R-HSA-5654700
+SHC-mediated cascade:FGFR3	1	FGF18	R-HSA-5654704
+FRS-mediated FGFR3 signaling	1	FGF18	R-HSA-5654706
+Downstream signaling of activated FGFR3	1	FGF18	R-HSA-5654708
+PI-3K cascade:FGFR3	1	FGF18	R-HSA-5654710
+FRS-mediated FGFR4 signaling	1	FGF18,FGFR4	R-HSA-5654712
+Downstream signaling of activated FGFR4	1	FGF18,FGFR4	R-HSA-5654716
+SHC-mediated cascade:FGFR4	1	FGF18,FGFR4	R-HSA-5654719
+PI-3K cascade:FGFR4	1	FGF18,FGFR4	R-HSA-5654720
+Negative regulation of FGFR1 signaling	1	SPRY2	R-HSA-5654726
+Negative regulation of FGFR2 signaling	1	FGF18,SPRY2	R-HSA-5654727
+Negative regulation of FGFR3 signaling	1	FGF18,SPRY2	R-HSA-5654732
+Negative regulation of FGFR4 signaling	1	FGF18,FGFR4,SPRY2	R-HSA-5654733
+Signaling by FGFR1	1	FGF18,SPRED2,SPRY2	R-HSA-5654736
+Signaling by FGFR2	1	FGF18,GTF2F2,HNRNPF,POLR2K,SPRY2	R-HSA-5654738
+Signaling by FGFR3	1	FGF18,SPRY2	R-HSA-5654741
+Signaling by FGFR4	1	FGF18,FGFR4,SPRY2	R-HSA-5654743
+Signaling by FGFR2 in disease	1	FGF18,GTF2F2,POLR2K	R-HSA-5655253
+Signaling by FGFR4 in disease	1	FGFR4	R-HSA-5655291
+Signaling by FGFR1 in disease	1	FGFR1,GAB2	R-HSA-5655302
+Signaling by FGFR3 in disease	1	FGF18	R-HSA-5655332
+Termination of translesion DNA synthesis	1	POLE4	R-HSA-5656169
+Regulation of RAS by GAPs	1	SPRED2	R-HSA-5658442
+FGFRL1 modulation of FGFR1 signaling	1	FGF18,SPRED2	R-HSA-5658623
+Formation of xylulose-5-phosphate	1	AKR1A1	R-HSA-5661270
+Diseases of carbohydrate metabolism	1	GYG2	R-HSA-5663084
+Diseases of signal transduction by growth factor receptors and second messengers	1	AGTRAP,AREG,BTC,DUSP6,EGF,EREG,FGF18,FGFR1,FGFR4,GAB2,GTF2F2,KREMEN2,POLR2K,PSENEN,RAP1A,SPRED2,TGFA	R-HSA-5663202
+Infectious disease	1	AAAS,ADM2,AP2B1,AP2S1,ARF1,CDH1,ELOB,ENTPD1,GHRHR,GNB4,GTF2F2,H2BC11,H3C8,IMPDH1,JAK3,POLR2K,SYK,VPS37A,XRCC4	R-HSA-5663205
+RHO GTPases Activate Formins	1	BUB3,CENPH,NDC80	R-HSA-5663220
+RHO GTPases Activate Rhotekin and Rhophilins	1	RHPN2	R-HSA-5666185
+Diseases of metabolism	1	CHST14,GFPT1,GPC4,GYG2,MUC5AC,RFT1,SLC26A2,SLC35D1,TBXAS1	R-HSA-5668914
+RAF/MAP kinase cascade	1	AREG,ARTN,BTC,DUSP6,EGF,EREG,FGF18,FGFR4,IL2RB,JAK3,RAP1A,SPRED2,TGFA	R-HSA-5673001
+MAP2K and MAPK activation	1	RAP1A	R-HSA-5674135
+Negative regulation of MAPK pathway	1	DUSP6	R-HSA-5675221
+Regulation of necroptotic cell death	1	SDCBP,STUB1	R-HSA-5675482
+Protein repair	1	PCMT1	R-HSA-5676934
+MAPK family signaling cascades	1	AREG,ARTN,BTC,CCND3,CDC14A,DUSP6,EGF,EREG,FGF18,FGFR4,IL2RB,JAK3,RAP1A,SPRED2,TGFA	R-HSA-5683057
+Surfactant metabolism	1	TTF1	R-HSA-5683826
+ERK1/ERK2 pathway	1	AREG,ARTN,BTC,DUSP6,EGF,EREG,FGF18,FGFR4,IL2RB,JAK3,RAP1A,SPRED2,TGFA	R-HSA-5684996
+HDR through Single Strand Annealing (SSA)	1	MRE11,RBBP8,RMI1	R-HSA-5685938
+HDR through MMEJ (alt-NHEJ)	1	MRE11,RBBP8	R-HSA-5685939
+Regulation of TLR by endogenous ligand	1	HMGB1	R-HSA-5686938
+MAPK6/MAPK4 signaling	1	CCND3,CDC14A	R-HSA-5687128
+Deubiquitination	1	AXIN2,BRCC3,H2BC11,NOD2	R-HSA-5688426
+Ub-specific processing proteases	1	AXIN2,H2BC11	R-HSA-5689880
+Ovarian tumor domain proteases	1	NOD2	R-HSA-5689896
+Metalloprotease DUBs	1	BRCC3	R-HSA-5689901
+DNA Double-Strand Break Repair	1	BRCA2,BRCC3,H2BC11,MRE11,POLE4,RAD51B,RBBP8,RMI1,XRCC4	R-HSA-5693532
+Homology Directed Repair	1	BRCA2,BRCC3,H2BC11,MRE11,POLE4,RAD51B,RBBP8,RMI1	R-HSA-5693538
+Sensing of DNA Double Strand Breaks	1	MRE11	R-HSA-5693548
+Recruitment and ATM-mediated phosphorylation of repair and signaling proteins at DNA double strand breaks	1	BRCC3,H2BC11,MRE11	R-HSA-5693565
+HDR through Homologous Recombination (HRR) or Single Strand Annealing (SSA)	1	BRCA2,BRCC3,H2BC11,MRE11,POLE4,RAD51B,RBBP8,RMI1	R-HSA-5693567
+Nonhomologous End-Joining (NHEJ)	1	BRCC3,H2BC11,MRE11,XRCC4	R-HSA-5693571
+DNA Double Strand Break Response	1	BRCC3,H2BC11,MRE11	R-HSA-5693606
+Processing of DNA double-strand break ends	1	BRCC3,H2BC11,MRE11,RBBP8,RMI1	R-HSA-5693607
+Cargo concentration in the ER	1	AREG,SEC22B,TGFA	R-HSA-5694530
+Gap-filling DNA repair synthesis and ligation in GG-NER	1	POLE4	R-HSA-5696397
+Nucleotide Excision Repair	1	POLE4,POLR2K	R-HSA-5696398
+Global Genome Nucleotide Excision Repair (GG-NER)	1	POLE4	R-HSA-5696399
+Dual Incision in GG-NER	1	POLE4	R-HSA-5696400
+Post-translational protein modification	1	AAAS,AREG,ARF1,ARF5,AXIN2,B3GNT4,B4GALT5,BRCC3,CHST8,CPM,DCAF13,DOHH,EIF5A2,ELOB,F7,FBXO27,FBXO4,GCNT1,GFPT1,GMPPA,GNPNAT1,H2BC11,ING2,KCTD6,KDELR3,KLHL13,LEO1,LRRC49,MGAT3,MUC5AC,NOD2,PIGH,PIGT,RAB23,RFT1,SEC16A,SEC22B,SPARCL1,TGFA,TPGS2,TTLL7,UBE2S,ULBP2,XRCC4	R-HSA-597592
+Deposition of new CENPA-containing nucleosomes at the centromere	1	CENPH,H2AJ,H2BC11	R-HSA-606279
+Respiratory electron transport	1	COX6C,NDUFAF1,NDUFAF3,NDUFAF6	R-HSA-611105
+RNA Polymerase II Pre-transcription Events	1	ELOB,GTF2F2,LEO1,POLR2K	R-HSA-674695
+Formation of TC-NER Pre-Incision Complex	1	POLR2K	R-HSA-6781823
+Transcription-Coupled Nucleotide Excision Repair (TC-NER)	1	POLE4,POLR2K	R-HSA-6781827
+Dual incision in TC-NER	1	POLE4,POLR2K	R-HSA-6782135
+Gap-filling DNA repair synthesis and ligation in TC-NER	1	POLE4,POLR2K	R-HSA-6782210
+Fanconi Anemia Pathway	1	DCLRE1A	R-HSA-6783310
+Interleukin-10 signaling	1	PTAFR	R-HSA-6783783
+tRNA processing in the nucleus	1	AAAS	R-HSA-6784531
+Interleukin-4 and Interleukin-13 signaling	1	IL23A,JAK3	R-HSA-6785807
+rRNA modification in the nucleus and cytosol	1	DCAF13,RRP9	R-HSA-6790901
+Major pathway of rRNA processing in the nucleolus and cytosol	1	DCAF13,RRP9	R-HSA-6791226
+TP53 Regulates Transcription of Cell Cycle Genes	1	CCNE2,CENPJ,TNKS1BP1	R-HSA-6791312
+Neurexins and neuroligins	1	HOMER1	R-HSA-6794361
+Protein-protein interactions at synapses	1	HOMER1,PPFIBP2	R-HSA-6794362
+TP53 Regulates Transcription of DNA Repair Genes	1	ELOB,GTF2F2,POLR2K	R-HSA-6796648
+Neutrophil degranulation	1	ABCA13,AGA,CHI3L1,CXCR1,DOK3,DSP,GCA,HMGB1,IMPDH1,ORM1,ORM2,PTAFR,RAP1A,RAP2C,S100A7,SDCBP,SLC27A2	R-HSA-6798695
+Complex I biogenesis	1	NDUFAF1,NDUFAF3,NDUFAF6	R-HSA-6799198
+Signaling by moderate kinase activity BRAF mutants	1	RAP1A	R-HSA-6802946
+Signaling by high-kinase activity BRAF mutants	1	RAP1A	R-HSA-6802948
+Signaling by RAS mutants	1	RAP1A	R-HSA-6802949
+Signaling by BRAF and RAF fusions	1	AGTRAP,RAP1A	R-HSA-6802952
+RAS signaling downstream of NF1 loss-of-function variants	1	SPRED2	R-HSA-6802953
+Paradoxical activation of RAF signaling by kinase inactive BRAF	1	RAP1A	R-HSA-6802955
+Oncogenic MAPK signaling	1	AGTRAP,DUSP6,RAP1A,SPRED2	R-HSA-6802957
+Antimicrobial peptides	1	PGLYRP4,PI3,PLA2G2A,S100A7,S100A7A	R-HSA-6803157
+FGFR2 alternative splicing	1	GTF2F2,HNRNPF,POLR2K	R-HSA-6803529
+TP53 regulates transcription of additional cell cycle genes whose exact role in the p53 pathway remain uncertain	1	CENPJ,TNKS1BP1	R-HSA-6804115
+TP53 Regulates Transcription of Genes Involved in G1 Cell Cycle Arrest	1	CCNE2	R-HSA-6804116
+Regulation of TP53 Activity through Phosphorylation	1	CDK5,MRE11,RBBP8,RMI1	R-HSA-6804756
+Regulation of TP53 Degradation	1	SGK1	R-HSA-6804757
+Regulation of TP53 Activity through Acetylation	1	ING2	R-HSA-6804758
+Regulation of TP53 Activity through Methylation	1	SETD9	R-HSA-6804760
+Keratinization	1	DSP,PI3	R-HSA-6805567
+Regulation of TP53 Expression and Degradation	1	SGK1	R-HSA-6806003
+Metabolism of fat-soluble vitamins	1	GPC4	R-HSA-6806667
+Signaling by MET	1	RAP1A	R-HSA-6806834
+PTEN Regulation	1	RHEB,STUB1	R-HSA-6807070
+RNA polymerase II transcribes snRNA genes	1	GTF2F2,INTS7,POLR2K,RPRD1A	R-HSA-6807505
+COPI-mediated anterograde transport	1	ARF1,ARF5,KDELR3	R-HSA-6807878
+Formation of the cornified envelope	1	DSP,PI3	R-HSA-6809371
+COPI-dependent Golgi-to-ER retrograde traffic	1	ARF1,ARF5,KDELR3,KIF1C,KIF22,SEC22B	R-HSA-6811434
+Intra-Golgi traffic	1	ARF1	R-HSA-6811438
+Retrograde transport at the Trans-Golgi-Network	1	ARL1	R-HSA-6811440
+Intra-Golgi and retrograde Golgi-to-ER traffic	1	ARF1,ARF5,ARL1,KDELR3,KIF1C,KIF22,SEC22B	R-HSA-6811442
+PI5P Regulates TP53 Acetylation	1	ING2	R-HSA-6811555
+Cooperation of PDCL (PhLP1) and TRiC/CCT in G-protein beta folding	1	CCT6B,GNB4	R-HSA-6814122
+Mitotic Prophase	1	AAAS,H2AJ,H2BC11,H3C8	R-HSA-68875
+Mitotic Prometaphase	1	BUB3,CENPH,CENPJ,CEP135,HAUS1,HAUS7,NDC80	R-HSA-68877
+Mitotic Anaphase	1	BUB3,CENPH,NDC80,UBE2S	R-HSA-68882
+M Phase	1	AAAS,BUB3,CENPH,CENPJ,CEP135,H2AJ,H2BC11,H3C8,HAUS1,HAUS7,NDC80,UBE2S	R-HSA-68886
+DNA replication initiation	1	POLE4	R-HSA-68952
+Activation of the pre-replicative complex	1	POLE4	R-HSA-68962
+DNA Replication Pre-Initiation	1	POLE4	R-HSA-69002
+CDK-mediated phosphorylation and removal of Cdc6	1	CCNE2,UBE2S	R-HSA-69017
+Switching of origins to a post-replicative state	1	CCNE2,UBE2S	R-HSA-69052
+Phosphorylation of proteins involved in G1/S transition by active Cyclin E:Cdk2 complexes	1	CCNE2	R-HSA-69200
+Cyclin E associated events during G1/S transition	1	CCNE2	R-HSA-69202
+G1/S Transition	1	CCNE2,POLE4	R-HSA-69206
+Cyclin D associated events in G1	1	CCND3,CCNE2	R-HSA-69231
+G1 Phase	1	CCND3,CCNE2	R-HSA-69236
+Synthesis of DNA	1	CCNE2,POLE4,UBE2S	R-HSA-69239
+S Phase	1	CCNE2,POLE4,UBE2S	R-HSA-69242
+G2/M Transition	1	CENPJ,CEP135,HAUS1,HAUS7,HMMR	R-HSA-69275
+Cell Cycle, Mitotic	1	AAAS,BUB3,CCND3,CCNE2,CDC14A,CENPH,CENPJ,CEP135,H2AJ,H2BC11,H3C8,HAUS1,HAUS7,HMMR,NDC80,POLE4,UBE2S	R-HSA-69278
+DNA Replication	1	CCNE2,POLE4,UBE2S	R-HSA-69306
+G2/M DNA damage checkpoint	1	BRCC3,H2BC11,MRE11,RBBP8,RMI1,YWHAH	R-HSA-69473
+G2/M Checkpoints	1	BRCC3,H2BC11,MRE11,RBBP8,RMI1,YWHAH	R-HSA-69481
+p53-Dependent G1 DNA Damage Response	1	CCNE2	R-HSA-69563
+p53-Dependent G1/S DNA damage checkpoint	1	CCNE2	R-HSA-69580
+G1/S DNA Damage Checkpoints	1	CCNE2	R-HSA-69615
+Mitotic Spindle Checkpoint	1	BUB3,CENPH,NDC80,UBE2S	R-HSA-69618
+Cell Cycle Checkpoints	1	BRCC3,BUB3,CCNE2,CENPH,H2BC11,MRE11,NDC80,RBBP8,RMI1,UBE2S,YWHAH	R-HSA-69620
+Cyclin A:Cdk2-associated events at S phase entry	1	CCNE2	R-HSA-69656
+Glycolysis	1	AAAS	R-HSA-70171
+Glycogen breakdown (glycogenolysis)	1	GYG2	R-HSA-70221
+Pyruvate metabolism	1	MPC2,PDHB	R-HSA-70268
+Glucose metabolism	1	AAAS	R-HSA-70326
+Urea cycle	1	SLC25A15	R-HSA-70635
+Carnitine synthesis	1	ALDH9A1	R-HSA-71262
+Creatine metabolism	1	CKMT1A,CKMT1B	R-HSA-71288
+Amino acid and derivative metabolism	1	ALDH9A1,APIP,CKMT1A,CKMT1B,HPD,LIAS,OAZ3,PCBD1,PDHB,PHGDH,SLC25A15,SRR,TAT	R-HSA-71291
+Carbohydrate metabolism	1	AAAS,AKR1A1,B3GNT4,B4GALT5,CHST14,GPC4,GYG2,HMMR,HS3ST3B1,SLC26A2	R-HSA-71387
+Citric acid cycle (TCA cycle)	1	SUCLA2	R-HSA-71403
+Pyruvate metabolism and Citric Acid (TCA) cycle	1	MPC2,PDHB,SUCLA2	R-HSA-71406
+mRNA Capping	1	GTF2F2,POLR2K	R-HSA-72086
+pre-mRNA splicing	1	ELAVL2,GTF2F2,HNRNPF,LSM8,POLR2K,PUF60,RNPS1,SRSF1	R-HSA-72163
+U12 Dependent Splicing	1	GTF2F2,POLR2K,SRSF1	R-HSA-72165
+mRNA Splicing	1	ELAVL2,GTF2F2,HNRNPF,LSM8,POLR2K,PUF60,RNPS1,SRSF1	R-HSA-72172
+mRNA 3'-end processing	1	RNPS1,SRSF1	R-HSA-72187
+Transport of Mature Transcript to Cytoplasm	1	AAAS,RNPS1,SRSF1	R-HSA-72202
+Processing of Capped Intron-Containing Pre-mRNA	1	AAAS,ELAVL2,GTF2F2,HNRNPF,LSM8,POLR2K,PUF60,RNPS1,SRSF1	R-HSA-72203
+tRNA processing	1	AAAS	R-HSA-72306
+rRNA processing	1	DCAF13,RRP9	R-HSA-72312
+Translation	1	MRPL40,MRPL41,MRPL57	R-HSA-72766
+Transport of nucleotide sugars	1	SLC35D1	R-HSA-727802
+RNA Polymerase I Promoter Opening	1	H2AJ,H2BC11,H3C8	R-HSA-73728
+RNA Polymerase I Transcription Initiation	1	POLR2K,TTF1	R-HSA-73762
+RNA Polymerase I Promoter Escape	1	H2AJ,H2BC11,H3C8,POLR2K	R-HSA-73772
+RNA Polymerase II Promoter Escape	1	GTF2F2,POLR2K	R-HSA-73776
+RNA Polymerase II Transcription Pre-Initiation And Promoter Opening	1	GTF2F2,POLR2K	R-HSA-73779
+RNA Polymerase III Chain Elongation	1	POLR2K	R-HSA-73780
+Purine ribonucleoside monophosphate biosynthesis	1	IMPDH1	R-HSA-73817
+RNA Polymerase I Promoter Clearance	1	H2AJ,H2BC11,H3C8,POLR2K,TTF1	R-HSA-73854
+RNA Polymerase II Transcription Termination	1	RNPS1,SRSF1	R-HSA-73856
+RNA Polymerase II Transcription	1	CCND3,CCNE2,CDK5,CENPJ,COX6C,ELOB,GAD1,GPX2,GTF2F2,H2AJ,H2BC11,H3C8,HNF4A,ING2,INTS7,KCTD1,KCTD6,LEO1,MED30,MRE11,POLR2K,RBBP8,RHEB,RMI1,RNPS1,RPRD1A,SETD9,SGK1,SRSF1,STUB1,TEAD4,TGFA,TNKS1BP1,UBE2S,YWHAH,ZNF569,ZNF703	R-HSA-73857
+RNA Polymerase I Transcription Termination	1	POLR2K,TTF1	R-HSA-73863
+RNA Polymerase I Transcription	1	H2AJ,H2BC11,H3C8,POLR2K,TTF1	R-HSA-73864
+Base Excision Repair	1	H2AJ,H2BC11,POLE4	R-HSA-73884
+Chromosome Maintenance	1	CENPH,H2AJ,H2BC11,POLR2K	R-HSA-73886
+Death Receptor Signalling	1	ARHGEF38,ARHGEF4,ARHGEF6,CASP3,LINGO1,PREX1,PSENEN,TIAM1	R-HSA-73887
+DNA Damage Bypass	1	POLE4	R-HSA-73893
+DNA Repair	1	BRCA2,BRCC3,DCLRE1A,H2AJ,H2BC11,MRE11,POLE4,POLR2K,RAD51B,RBBP8,RMI1,XRCC4	R-HSA-73894
+Depurination	1	H2AJ,H2BC11	R-HSA-73927
+Depyrimidination	1	H2AJ,H2BC11	R-HSA-73928
+Base-Excision Repair, AP Site Formation	1	H2AJ,H2BC11	R-HSA-73929
+Resolution of Abasic Sites (AP sites)	1	POLE4	R-HSA-73933
+RNA Polymerase III Transcription Termination	1	POLR2K	R-HSA-73980
+RNA Polymerase III Transcription	1	POLR2K	R-HSA-74158
+Gene expression (Transcription)	1	AAAS,CCND3,CCNE2,CDK5,CENPJ,COX6C,ELOB,GAD1,GPX2,GTF2F2,H2AJ,H2BC11,H3C8,HENMT1,HNF4A,ING2,INTS7,KCTD1,KCTD6,LEO1,MED30,MRE11,MYBL1,POLR2K,PRKRA,RBBP8,RHEB,RMI1,RNPS1,RPRD1A,SETD9,SGK1,SRSF1,STUB1,TEAD4,TET2,TGFA,TNKS1BP1,TTF1,UBE2S,YWHAH,ZNF569,ZNF703	R-HSA-74160
+Ketone body metabolism	1	OXCT1	R-HSA-74182
+Purine catabolism	1	NUDT15	R-HSA-74259
+Insulin receptor signalling cascade	1	FGF18,FGFR4,GAB2,TRIB3	R-HSA-74751
+RNA Polymerase III Abortive And Retractive Initiation	1	POLR2K	R-HSA-749476
+Chk1/Chk2(Cds1) mediated inactivation of Cyclin B:Cdk1 complex	1	YWHAH	R-HSA-75035
+Fatty acyl-CoA biosynthesis	1	SCD	R-HSA-75105
+Triglyceride biosynthesis	1	DGAT2	R-HSA-75109
+Apoptotic execution phase	1	CASP3,CDH1,DSP,HMGB1	R-HSA-75153
+RNA Polymerase II Transcription Initiation	1	GTF2F2,POLR2K	R-HSA-75953
+RNA Polymerase II Transcription Elongation	1	ELOB,GTF2F2,LEO1,POLR2K	R-HSA-75955
+Platelet Aggregation (Plug Formation)	1	RAP1A,RASGRP2,SYK	R-HSA-76009
+RNA Polymerase II Transcription Initiation And Promoter Clearance	1	GTF2F2,POLR2K	R-HSA-76042
+RNA Polymerase III Transcription Initiation	1	POLR2K	R-HSA-76046
+RNA Polymerase III Transcription Initiation From Type 1 Promoter	1	POLR2K	R-HSA-76061
+RNA Polymerase III Transcription Initiation From Type 2 Promoter	1	POLR2K	R-HSA-76066
+RNA Polymerase III Transcription Initiation From Type 3 Promoter	1	POLR2K	R-HSA-76071
+RNA Pol II CTD phosphorylation and interaction with CE	1	GTF2F2,POLR2K	R-HSA-77075
+Ketone body catabolism	1	OXCT1	R-HSA-77108
+mitochondrial fatty acid beta-oxidation of saturated fatty acids	1	ACADS	R-HSA-77286
+Mitochondrial Fatty Acid Beta-Oxidation	1	ACADS,ACOT13,ACOT7	R-HSA-77289
+Beta oxidation of hexanoyl-CoA to butanoyl-CoA	1	ACADS	R-HSA-77350
+Beta oxidation of butanoyl-CoA to acetyl-CoA	1	ACADS	R-HSA-77352
+Insulin receptor recycling	1	ATP6V0A2,ATP6V1F	R-HSA-77387
+Nucleosome assembly	1	CENPH,H2AJ,H2BC11	R-HSA-774815
+Transport of nucleosides and free purine and pyrimidine bases across the plasma membrane	1	SLC28A2	R-HSA-83936
+Interferon gamma signaling	1	PTAFR	R-HSA-877300
+Advanced glycosylation endproduct receptor signaling	1	HMGB1	R-HSA-879415
+Gastrin-CREB signalling pathway via PKC and MAPK	1	RPS6KA1	R-HSA-881907
+Signaling by PTK6	1	BTC,EGF,EREG	R-HSA-8848021
+Phosphate bond hydrolysis by NTPDase proteins	1	ENTPD1	R-HSA-8850843
+Signaling by FGFR2 IIIa TM	1	GTF2F2,POLR2K	R-HSA-8851708
+Protein ubiquitination	1	H2BC11,LEO1,UBE2S	R-HSA-8852135
+Signaling by plasma membrane FGFR1 fusions	1	FGFR1	R-HSA-8853336
+Signaling by FGFR3 point mutants in cancer	1	FGF18	R-HSA-8853338
+RET signaling	1	ARTN,GAB2	R-HSA-8853659
+Transcriptional Regulation by VENTX	1	UBE2S	R-HSA-8853884
+TBC/RABGAPs	1	TBC1D10A	R-HSA-8854214
+AURKA Activation by TPX2	1	CENPJ,CEP135,HAUS1,HAUS7,HMMR	R-HSA-8854518
+Interleukin-20 family signaling	1	JAK3	R-HSA-8854691
+Golgi-to-ER retrograde transport	1	ARF1,ARF5,KDELR3,KIF1C,KIF22,SEC22B	R-HSA-8856688
+Clathrin-mediated endocytosis	1	AP2B1,AP2S1,AREG,BTC,EGF,EREG,GRK3,TACR1,TGFA	R-HSA-8856828
+Deregulated CDK5 triggers multiple neurodegenerative pathways in Alzheimer's disease models	1	CAPNS2,CDK5	R-HSA-8862803
+Neurodegenerative Diseases	1	CAPNS2,CDK5	R-HSA-8863678
+Transcriptional regulation by the AP-2 (TFAP2) family of transcription factors	1	KCTD1,TGFA	R-HSA-8864260
+VLDLR internalisation and degradation	1	AP2B1,AP2S1	R-HSA-8866427
+Synthesis of active ubiquitin: roles of E1 and E2 enzymes	1	UBE2S	R-HSA-8866652
+E3 ubiquitin ligases ubiquitinate target proteins	1	H2BC11,LEO1	R-HSA-8866654
+Negative regulation of activity of TFAP2 (AP-2) family transcription factors	1	KCTD1	R-HSA-8866904
+TFAP2 (AP-2) family regulates transcription of growth factors and their receptors	1	TGFA	R-HSA-8866910
+rRNA processing in the nucleus and cytosol	1	DCAF13,RRP9	R-HSA-8868773
+RAB geranylgeranylation	1	RAB23	R-HSA-8873719
+MET activates RAP1 and RAC1	1	RAP1A	R-HSA-8875555
+MET promotes cell motility	1	RAP1A	R-HSA-8875878
+Listeria monocytogenes entry into host cells	1	CDH1	R-HSA-8876384
+InlA-mediated entry of Listeria monocytogenes into host cells	1	CDH1	R-HSA-8876493
+Transcriptional regulation by RUNX3	1	TEAD4	R-HSA-8878159
+Transcriptional regulation by RUNX2	1	STUB1	R-HSA-8878166
+Transcriptional regulation by RUNX1	1	CCND3,H2AJ,H2BC11,H3C8,KCTD6	R-HSA-8878171
+GABA synthesis	1	GAD1	R-HSA-888568
+GABA synthesis, release, reuptake and degradation	1	GAD1	R-HSA-888590
+RUNX1 regulates estrogen receptor mediated transcription	1	KCTD6	R-HSA-8931987
+Regulation of RUNX1 Expression and Activity	1	CCND3	R-HSA-8934593
+Receptor Mediated Mitophagy	1	FUNDC1	R-HSA-8934903
+RUNX1 regulates genes involved in megakaryocyte differentiation and platelet function	1	H2AJ,H2BC11,H3C8	R-HSA-8936459
+RUNX1 regulates transcription of genes involved in differentiation of HSCs	1	H2AJ,H2BC11,H3C8	R-HSA-8939236
+Regulation of RUNX2 expression and activity	1	STUB1	R-HSA-8939902
+Regulation of PTEN gene transcription	1	RHEB	R-HSA-8943724
+Collagen chain trimerization	1	COL27A1	R-HSA-8948216
+Regulation of PTEN stability and activity	1	STUB1	R-HSA-8948751
+Cristae formation	1	ATP5F1A,MTX2	R-HSA-8949613
+Gene and protein expression by JAK-STAT signaling after Interleukin-12 stimulation	1	ARF1,HNRNPF	R-HSA-8950505
+Neddylation	1	DCAF13,ELOB,FBXO27,FBXO4,KCTD6,KLHL13	R-HSA-8951664
+RUNX3 regulates YAP1-mediated transcription	1	TEAD4	R-HSA-8951671
+Transcriptional Regulation by E2F6	1	RBBP8	R-HSA-8953750
+Metabolism of RNA	1	AAAS,DCAF13,DDX20,ELAVL2,GTF2F2,HNRNPF,LSM8,POLR2K,PUF60,RNPS1,RRP9,SRSF1,TNKS1BP1	R-HSA-8953854
+Cellular responses to external stimuli	1	AAAS,ATF5,ATP6V1F,BAG5,C12orf66,CCNE2,ELOB,GPX2,H2AJ,H2BC11,H3C8,HIGD1A,ID1,MRE11,NPRL3,PRDX3,RHEB,RPS19BP1,RPS6KA1,TNIK,TRIB3,TXNRD2,UBE2S	R-HSA-8953897
+Carboxyterminal post-translational modifications of tubulin	1	LRRC49,TPGS2,TTLL7	R-HSA-8955332
+Nucleobase catabolism	1	ENTPD1,NUDT15	R-HSA-8956319
+Nucleobase biosynthesis	1	IMPDH1	R-HSA-8956320
+Post-translational protein phosphorylation	1	SPARCL1	R-HSA-8957275
+Metabolism of steroids	1	ACOX2,SCD,SLC27A2	R-HSA-8957322
+Phenylalanine metabolism	1	PCBD1	R-HSA-8964208
+G beta:gamma signalling through BTK	1	GNB4	R-HSA-8964315
+G beta:gamma signalling through CDC42	1	ARHGEF6,GNB4	R-HSA-8964616
+Metabolism of cofactors	1	PTS	R-HSA-8978934
+Triglyceride metabolism	1	DGAT2	R-HSA-8979227
+Glycogen metabolism	1	GYG2	R-HSA-8982491
+Interleukin-9 signaling	1	JAK3	R-HSA-8985947
+Transcriptional Regulation by MECP2	1	GAD1,SGK1	R-HSA-8986944
+Signaling by NTRK2 (TRKB)	1	CDK5,TIAM1	R-HSA-9006115
+Intracellular signaling by second messengers	1	AREG,BTC,EGF,EREG,FGF18,FGFR4,RHEB,STUB1,TGFA,TRIB3	R-HSA-9006925
+Signaling by Non-Receptor Tyrosine Kinases	1	BTC,EGF,EREG	R-HSA-9006927
+Signaling by TGFB family members	1	STUB1	R-HSA-9006936
+Rab regulation of trafficking	1	TBC1D10A	R-HSA-9007101
+Regulation of expression of SLITs and ROBOs	1	ELOB,RNPS1	R-HSA-9010553
+Signaling by NOTCH3	1	EGF,PSENEN	R-HSA-9012852
+NOTCH3 Activation and Transmission of Signal to the Nucleus	1	EGF,PSENEN	R-HSA-9013507
+Signaling by NOTCH4	1	PSENEN	R-HSA-9013694
+NOTCH4 Activation and Transmission of Signal to the Nucleus	1	PSENEN	R-HSA-9013700
+Noncanonical activation of NOTCH3	1	PSENEN	R-HSA-9017802
+Interleukin-12 signaling	1	ARF1,HNRNPF	R-HSA-9020591
+Interleukin-1 signaling	1	HMGB1,NOD2	R-HSA-9020702
+Interleukin-23 signaling	1	IL23A	R-HSA-9020933
+Interleukin-21 signaling	1	IL21R,JAK3	R-HSA-9020958
+MECP2 regulates transcription of genes involved in GABA signaling	1	GAD1	R-HSA-9022927
+LXR-mediated signaling	1	SCD	R-HSA-9024446
+LXRs regulate gene expression linked to lipogenesis	1	SCD	R-HSA-9029558
+NGF-stimulated transcription	1	CDK5,ID1,SGK1	R-HSA-9031628
+Peroxisomal protein import	1	ACOT4,ACOX2,CRAT,DHRS4,SLC27A2	R-HSA-9033241
+Interferon alpha/beta signaling	1	RNASEL	R-HSA-909733
+Meiotic recombination	1	BRCA2,H2AJ,H2BC11,H3C8,MRE11,RBBP8	R-HSA-912446
+Interleukin receptor SHC signaling	1	GAB2,IL2RB,JAK3	R-HSA-912526
+Regulation of signaling by CBL	1	SYK	R-HSA-912631
+Interferon Signaling	1	AAAS,FLNB,PDE12,PTAFR,RNASEL	R-HSA-913531
+O-linked glycosylation of mucins	1	B3GNT4,B4GALT5,GCNT1,MUC5AC	R-HSA-913709
+Endosomal Sorting Complex Required For Transport (ESCRT)	1	VPS37A	R-HSA-917729
+Iron uptake and transport	1	ATP6V0A2,ATP6V1F,HFE	R-HSA-917937
+Transferrin endocytosis and recycling	1	ATP6V0A2,ATP6V1F,HFE	R-HSA-917977
+Nonsense-Mediated Decay (NMD)	1	RNPS1	R-HSA-927802
+TRAF6 mediated NF-kB activation	1	HMGB1	R-HSA-933542
+Ion transport by P-type ATPases	1	ATP2C2	R-HSA-936837
+TRIF(TICAM1)-mediated TLR4 signaling	1	DUSP6,HMGB1,NOD2,RPS6KA1	R-HSA-937061
+Transport to the Golgi and subsequent modification	1	AREG,ARF1,ARF5,B4GALT5,CHST8,KDELR3,MGAT3,SEC16A,SEC22B,TGFA	R-HSA-948021
+FLT3 Signaling	1	AREG,ARTN,BTC,DUSP6,EGF,EREG,FGF18,FGFR4,GAB2,IL2RB,JAK3,RAP1A,SPRED2,TGFA,TRIB3	R-HSA-9607240
+Protein localization	1	ACOT4,ACOX2,ATP5F1A,COX17,CRAT,DHRS4,MTX2,SLC27A2	R-HSA-9609507
+HCMV Infection	1	AAAS,H2BC11,H3C8,VPS37A	R-HSA-9609646
+HCMV Early Events	1	AAAS,H2BC11,H3C8	R-HSA-9609690
+HCMV Late Events	1	AAAS,H2BC11,H3C8,VPS37A	R-HSA-9610379
+Autophagy	1	FUNDC1,MTERF3,RHEB,VPS37A	R-HSA-9612973
+Late endosomal microautophagy	1	VPS37A	R-HSA-9615710
+Transcriptional regulation of granulopoiesis	1	H2AJ,H2BC11,H3C8	R-HSA-9616222
+EGR2 and SOX10-mediated initiation of Schwann cell myelination	1	MPZ	R-HSA-9619665
+Regulation of the apoptosome activity	1	APIP,AVEN	R-HSA-9627069
+Response of EIF2AK4 (GCN2) to amino acid deficiency	1	TRIB3	R-HSA-9633012
+Amino acids regulate mTORC1	1	ATP6V1F,C12orf66,NPRL3,RHEB	R-HSA-9639288
+STAT5 Activation	1	GAB2	R-HSA-9645135
+ALPK1 signaling pathway	1	TIFA	R-HSA-9645460
+Diseases of programmed cell death	1	CAPNS2,CDK5	R-HSA-9645723
+EML4 and NUDC in mitotic spindle formation	1	BUB3,CENPH,NDC80	R-HSA-9648025
+Response of EIF2AK1 (HRI) to heme deficiency	1	ATF5,TRIB3	R-HSA-9648895
+Signaling downstream of RAS mutants	1	RAP1A	R-HSA-9649948
+Defects of Formation of Fibrin Clot (Clotting Cascade)	1	F12	R-HSA-9651496
+Signaling by MAPK mutants	1	DUSP6	R-HSA-9652817
+Signaling by RAF1 mutants	1	RAP1A	R-HSA-9656223
+Defective factor XII causes hereditary angioedema	1	F12	R-HSA-9657688
+Defective SERPING1 causes hereditary angioedema	1	F12	R-HSA-9657689
+Leishmania infection	1	ADM2,ENTPD1,GHRHR,GNB4,SYK	R-HSA-9658195
+Aberrant regulation of mitotic G1/S transition in cancer due to RB1 defects	1	CCND3,CCNE2	R-HSA-9659787
+ADORA2B mediated anti-inflammatory cytokines production	1	ADM2,GHRHR,GNB4	R-HSA-9660821
+Purinergic signaling in leishmaniasis infection	1	ENTPD1	R-HSA-9660826
+Defective binding of RB1 mutants to E2F1,(E2F2, E2F3)	1	CCND3,CCNE2	R-HSA-9661069
+Anti-inflammatory response favouring Leishmania parasite infection	1	ADM2,GHRHR,GNB4,SYK	R-HSA-9662851
+Selective autophagy	1	FUNDC1,MTERF3	R-HSA-9663891
+FCGR3A-mediated IL10 synthesis	1	SYK	R-HSA-9664323
+Parasite infection	1	SYK	R-HSA-9664407
+Leishmania phagocytosis	1	SYK	R-HSA-9664417
+FCGR3A-mediated phagocytosis	1	SYK	R-HSA-9664422
+Cell recruitment (pro-inflammatory response)	1	ENTPD1	R-HSA-9664424
+Leishmania parasite growth and survival	1	ADM2,GHRHR,GNB4,SYK	R-HSA-9664433
+Signaling by ERBB2 ECD mutants	1	EGF	R-HSA-9665348
+Inhibition of DNA recombination at telomere	1	H2AJ,H2BC11,POLR2K	R-HSA-9670095
+Diseases of hemostasis	1	F12	R-HSA-9671793
+Nervous system development	1	AP2B1,AP2S1,ARHGAP39,ARTN,CACNA1G,CACNA1S,CDK5,CRMP1,DPYSL4,ELOB,EPHA1,GAB2,MPZ,PSENEN,RNPS1,RPS6KA1,SDCBP,TIAM1	R-HSA-9675108
+Diseases of mitotic cell cycle	1	CCND3,CCNE2,UBE2S	R-HSA-9675126
+Diseases of the neuronal system	1	RDH12	R-HSA-9675143
+Potential therapeutics for SARS	1	AP2B1,AP2S1,IMPDH1,JAK3	R-HSA-9679191
+SARS-CoV Infections	1	AP2B1,AP2S1,IMPDH1,JAK3	R-HSA-9679506
+Aberrant regulation of mitotic exit in cancer due to RB1 defects	1	UBE2S	R-HSA-9687136
+Aberrant regulation of mitotic cell cycle due to RB1 defects	1	CCND3,CCNE2,UBE2S	R-HSA-9687139
+TRAF6 mediated induction of NFkB and MAP kinases upon TLR7/8 or 9 activation	1	DUSP6,HMGB1,NOD2,RPS6KA1	R-HSA-975138
+MyD88 dependent cascade initiated on endosome	1	DUSP6,HMGB1,NOD2,RPS6KA1	R-HSA-975155
+Reactions specific to the hybrid N-glycan synthesis pathway	1	MGAT3	R-HSA-975574
+N-glycan antennae elongation in the medial/trans-Golgi	1	B4GALT5,CHST8,MGAT3	R-HSA-975576
+N-Glycan antennae elongation	1	B4GALT5	R-HSA-975577
+Reactions specific to the complex N-glycan synthesis pathway	1	CHST8	R-HSA-975578
+Retinoid metabolism and transport	1	GPC4	R-HSA-975634
+MyD88 cascade initiated on plasma membrane	1	DUSP6,HMGB1,NOD2,RPS6KA1	R-HSA-975871
+Nonsense Mediated Decay (NMD) enhanced by the Exon Junction Complex (EJC)	1	RNPS1	R-HSA-975957
+Termination of O-glycan biosynthesis	1	MUC5AC	R-HSA-977068
+Amyloid fiber formation	1	H2BC11,H3C8,PSENEN,SORL1,TSPAN33	R-HSA-977225
+GABA receptor activation	1	GNB4	R-HSA-977443
+GABA B receptor activation	1	GNB4	R-HSA-977444
+Antigen processing: Ubiquitination & Proteasome degradation	1	BLMH,ELOB,FBXO27,FBXO4,KCTD6,KLHL13,RNF126,STUB1,TRIM36,TRIM71,UBE2S	R-HSA-983168
+Class I MHC mediated antigen processing & presentation	1	BLMH,ELOB,FBXO27,FBXO4,KCTD6,KLHL13,RNF126,SEC22B,STUB1,TIRAP,TRIM36,TRIM71,UBE2S	R-HSA-983169
+Kinesins	1	KIF1C,KIF22	R-HSA-983189
+Factors involved in megakaryocyte development and platelet production	1	CDK5,H3C8,KIF1C,KIF22,RAD51B	R-HSA-983231
+Antigen activates B Cell Receptor (BCR) leading to generation of second messengers	1	SYK	R-HSA-983695
+B Cell Activation	1	SYK	R-HSA-983705
+Ion channel transport	1	ANO10,ANO7,ATP2C2,ATP6V0A2,ATP6V1F,SGK1,SGK3	R-HSA-983712
+Activation of GABAB receptors	1	GNB4	R-HSA-991365
+Inhibition of voltage gated Ca2+ channels via Gbeta/gamma subunits	1	GNB4	R-HSA-997272

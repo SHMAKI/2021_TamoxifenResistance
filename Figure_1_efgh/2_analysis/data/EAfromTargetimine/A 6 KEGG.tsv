@@ -1,0 +1,275 @@
+﻿Homologous recombination	0.7708907610368724	BRCA2,BRCC3,MRE11,RAD51B,RBBP8	hsa03440
+Glycolysis / Gluconeogenesis	1	AKR1A1,ALDH9A1,PDHB	hsa00010
+Citrate cycle (TCA cycle)	1	PDHB,SUCLA2	hsa00020
+Pentose and glucuronate interconversions	1	AKR1A1	hsa00040
+Fructose and mannose metabolism	1	GMPPA	hsa00051
+Ascorbate and aldarate metabolism	1	AKR1A1,ALDH9A1	hsa00053
+Fatty acid elongation	1	ACOT4,ACOT7	hsa00062
+Fatty acid degradation	1	ACADS,ALDH9A1,CPT2	hsa00071
+Synthesis and degradation of ketone bodies	1	OXCT1	hsa00072
+Steroid biosynthesis	1	SOAT2	hsa00100
+Primary bile acid biosynthesis	1	ACOX2	hsa00120
+Ubiquinone and other terpenoid-quinone biosynthesis	1	HPD,TAT	hsa00130
+Oxidative phosphorylation	1	ATP5F1A,ATP6V0A2,ATP6V1F,COX17,COX6C	hsa00190
+Purine metabolism	1	ENTPD1,HDDC3,IMPDH1,PDE6A	hsa00230
+Pyrimidine metabolism	1	ENTPD1	hsa00240
+Alanine, aspartate and glutamate metabolism	1	GAD1,GFPT1	hsa00250
+Glycine, serine and threonine metabolism	1	PHGDH,SRR	hsa00260
+Cysteine and methionine metabolism	1	APIP,PHGDH,TAT	hsa00270
+Valine, leucine and isoleucine degradation	1	ACADS,ALDH9A1,OXCT1	hsa00280
+Lysine degradation	1	ALDH9A1,KMT5C,PRDM6	hsa00310
+Arginine and proline metabolism	1	ALDH9A1,CKMT1A,CKMT1B	hsa00330
+Histidine metabolism	1	ALDH9A1	hsa00340
+Tyrosine metabolism	1	HPD,TAT	hsa00350
+Phenylalanine metabolism	1	HPD,TAT	hsa00360
+Tryptophan metabolism	1	ALDH9A1	hsa00380
+Phenylalanine, tyrosine and tryptophan biosynthesis	1	TAT	hsa00400
+beta-Alanine metabolism	1	ACADS,ALDH9A1,GAD1	hsa00410
+Taurine and hypotaurine metabolism	1	GAD1	hsa00430
+Phosphonate and phosphinate metabolism	1	SELENOI	hsa00440
+Selenocompound metabolism	1	TXNRD2	hsa00450
+Glutathione metabolism	1	GPX2,GSR	hsa00480
+Starch and sucrose metabolism	1	GYG2	hsa00500
+N-Glycan biosynthesis	1	MGAT3	hsa00510
+Other glycan degradation	1	AGA	hsa00511
+Mucin type O-glycan biosynthesis	1	B4GALT5,GCNT1	hsa00512
+Various types of N-glycan biosynthesis	1	CHST8	hsa00513
+Amino sugar and nucleotide sugar metabolism	1	CYB5RL,GFPT1,GMPPA,GNPNAT1	hsa00520
+Glycosaminoglycan biosynthesis - chondroitin sulfate / dermatan sulfate	1	CHST14	hsa00532
+Glycosaminoglycan biosynthesis - heparan sulfate / heparin	1	HS3ST3B1	hsa00534
+Glycerolipid metabolism	1	AKR1A1,ALDH9A1,DGAT2	hsa00561
+Inositol phosphate metabolism	1	IPPK	hsa00562
+Glycosylphosphatidylinositol (GPI)-anchor biosynthesis	1	PIGH,PIGQ,PIGT	hsa00563
+Glycerophospholipid metabolism	1	PHOSPHO1,PLA2G2A,SELENOI	hsa00564
+Ether lipid metabolism	1	PLA2G2A,SELENOI	hsa00565
+Arachidonic acid metabolism	1	CYP4F2,GPX2,PLA2G2A,TBXAS1	hsa00590
+Linoleic acid metabolism	1	PLA2G2A	hsa00591
+alpha-Linolenic acid metabolism	1	PLA2G2A	hsa00592
+Sphingolipid metabolism	1	CERS6	hsa00600
+Glycosphingolipid biosynthesis - lacto and neolacto series	1	B3GNT4	hsa00601
+Pyruvate metabolism	1	ALDH9A1,PDHB	hsa00620
+Propanoate metabolism	1	ACADS,SUCLA2	hsa00640
+Butanoate metabolism	1	ACADS,GAD1,OXCT1	hsa00650
+One carbon pool by folate	1	MTHFD2	hsa00670
+Riboflavin metabolism	1	RFK	hsa00740
+Lipoic acid metabolism	1	LIAS	hsa00785
+Folate biosynthesis	1	GPHN,MOCS2,PCBD1,PTS	hsa00790
+Retinol metabolism	1	DHRS4,DHRS4L2,RDH12	hsa00830
+Porphyrin and chlorophyll metabolism	1	BLVRA	hsa00860
+Drug metabolism - other enzymes	1	IMPDH1	hsa00983
+Biosynthesis of unsaturated fatty acids	1	ACOT4,ACOT7,SCD	hsa01040
+Metabolic pathways	1	ACADS,ACOT4,ACOX2,AKR1A1,ALDH9A1,APIP,ATP5F1A,ATP6V0A2,ATP6V1F,B3GNT4,B4GALT5,BLVRA,CERS6,CHST8,CKMT1A,CKMT1B,COX17,COX6C,CYP4F2,DGAT2,DHRS4,DHRS4L2,ENTPD1,GAD1,GCNT1,GFPT1,GMPPA,GNPNAT1,GPHN,GPX2,GSR,GYG2,HDDC3,HPD,IMPDH1,IPPK,KMT5C,LIAS,MGAT3,MOCS2,MTHFD2,OXCT1,PCBD1,PDE6A,PDHB,PHGDH,PHOSPHO1,PIGH,PIGQ,PIGT,PLA2G2A,PRDM6,PTS,RDH12,RFK,SCD,SELENOI,SRR,SUCLA2,TAT,TBXAS1	hsa01100
+Carbon metabolism	1	ACADS,PDHB,PHGDH,SUCLA2	hsa01200
+Fatty acid metabolism	1	ACADS,CPT2,SCD	hsa01212
+Biosynthesis of amino acids	1	PHGDH	hsa01230
+EGFR tyrosine kinase inhibitor resistance	1	EGF,TGFA	hsa01521
+Platinum drug resistance	1	CASP3	hsa01524
+ABC transporters	1	ABCA13,ABCA7	hsa02010
+Ribosome biogenesis in eukaryotes	1	REXO5	hsa03008
+RNA transport	1	AAAS,DDX20,NUP58,RNPS1	hsa03013
+mRNA surveillance pathway	1	RNPS1	hsa03015
+RNA degradation	1	LSM8	hsa03018
+RNA polymerase	1	POLR2K	hsa03020
+Basal transcription factors	1	GTF2F2	hsa03022
+DNA replication	1	POLE4	hsa03030
+Spliceosome	1	LSM8,PUF60,SRSF1	hsa03040
+Proteasome	1	POMP	hsa03050
+PPAR signaling pathway	1	ACOX2,CPT2,SCD,SLC27A2	hsa03320
+Base excision repair	1	HMGB1,POLE4	hsa03410
+Nucleotide excision repair	1	POLE4	hsa03420
+Non-homologous end-joining	1	MRE11,XRCC4	hsa03450
+Fanconi anemia pathway	1	BRCA2,RMI1,TELO2	hsa03460
+MAPK signaling pathway	1	AREG,CACNA1G,CACNA1S,CACNA2D2,CASP3,DUSP6,EGF,EREG,FGF18,FGFR1,FGFR4,FLNB,RAP1A,RASGRP2,RPS6KA1,TGFA	hsa04010
+ErbB signaling pathway	1	AREG,BTC,EGF,EREG,TGFA	hsa04012
+Ras signaling pathway	1	EGF,FGF18,FGFR1,FGFR4,GAB2,GNB4,PLA2G2A,RAP1A,RASGRP2,TGFA,TIAM1	hsa04014
+Rap1 signaling pathway	1	CDH1,EGF,FGF18,FGFR1,FGFR4,ID1,RAP1A,RASGRP2,TIAM1	hsa04015
+Calcium signaling pathway	1	CACNA1G,CACNA1S,EGF,PPIF,PTAFR,TACR1	hsa04020
+cGMP-PKG signaling pathway	1	ADORA3,CACNA1S,PPIF	hsa04022
+cAMP signaling pathway	1	CACNA1S,HCN4,HTR1D,NPY1R,RAP1A,TIAM1,TNNI3	hsa04024
+Cytokine-cytokine receptor interaction	1	CCR7,CXCR1,IL21R,IL23A,IL2RB,INHBE	hsa04060
+Viral protein interaction with cytokine and cytokine receptor	1	CCR7,CXCR1,IL2RB	hsa04061
+Chemokine signaling pathway	1	CCR7,CXCR1,GNB4,GRK3,JAK3,PREX1,RAP1A,RASGRP2,TIAM1	hsa04062
+NF-kappa B signaling pathway	1	SYK,TIRAP	hsa04064
+HIF-1 signaling pathway	1	EGF,ELOB,PDHB	hsa04066
+FoxO signaling pathway	1	CCNB3,EGF,HOMER1,SGK1,SGK3	hsa04068
+Phosphatidylinositol signaling system	1	IPPK	hsa04070
+Sphingolipid signaling pathway	1	ADORA3,CERS6,GAB2	hsa04071
+Phospholipase D signaling pathway	1	ARF1,CXCR1,EGF,GAB2,RHEB,SYK	hsa04072
+Neuroactive ligand-receptor interaction	1	ADORA3,GHRHR,GRIK3,HTR1D,NPY1R,NPY5R,NTSR2,PTAFR,TACR1	hsa04080
+Cell cycle	1	BUB3,CCNB3,CCND3,CCNE2,CDC14A,YWHAH	hsa04110
+Oocyte meiosis	1	CCNE2,RPS6KA1,YWHAH	hsa04114
+p53 signaling pathway	1	CASP3,CCND3,CCNE2	hsa04115
+Ubiquitin mediated proteolysis	1	ELOB,FBXO4,KLHL13,STUB1,UBE2S	hsa04120
+Sulfur relay system	1	MOCS2	hsa04122
+SNARE interactions in vesicular transport	1	SEC22B	hsa04130
+Mitophagy - animal	1	FUNDC1,RHOT2	hsa04137
+Autophagy - animal	1	HMGB1,RHEB	hsa04140
+Protein processing in endoplasmic reticulum	1	DNAJC10,STUB1,UBXN8,XBP1	hsa04141
+Lysosome	1	AGA,AP3B2,ATP6V0A2,NPC1	hsa04142
+Endocytosis	1	AP2B1,AP2S1,ARF1,ARF5,ARPC5L,CXCR1,FGFR4,GRK3,IL2RB,VPS35,VPS37A	hsa04144
+Phagosome	1	ATP6V0A2,ATP6V1F,PLA2R1,SEC22B	hsa04145
+Peroxisome	1	ACOX2,CRAT,DHRS4,PEX5L,SLC27A2	hsa04146
+mTOR signaling pathway	1	ATP6V1F,NPRL3,RHEB,RPS6KA1,SGK1,TELO2	hsa04150
+PI3K-Akt signaling pathway	1	AREG,CCND3,CCNE2,EGF,EREG,FGF18,FGFR1,FGFR4,GNB4,IL2RB,JAK3,RHEB,SGK1,SGK3,SYK,TGFA,YWHAH	hsa04151
+AMPK signaling pathway	1	HNF4A,RHEB,SCD	hsa04152
+Apoptosis	1	AIFM1,CASP3	hsa04210
+Longevity regulating pathway	1	RHEB	hsa04211
+Apoptosis - multiple species	1	CASP3	hsa04215
+Ferroptosis	1	SLC39A8	hsa04216
+Necroptosis	1	AIFM1,H2AJ,HMGB1,JAK3	hsa04217
+Cellular senescence	1	CCNB3,CCND3,CCNE2,MRE11,RHEB	hsa04218
+Cardiac muscle contraction	1	CACNA1S,CACNA2D2,COX6C,TNNI3	hsa04260
+Adrenergic signaling in cardiomyocytes	1	CACNA1S,CACNA2D2,TNNI3	hsa04261
+Vascular smooth muscle contraction	1	CACNA1S,PLA2G2A	hsa04270
+Wnt signaling pathway	1	AXIN2,CCND3,GPC4,ROR2,ZNRF3	hsa04310
+Notch signaling pathway	1	PSENEN	hsa04330
+Hedgehog signaling pathway	1	GRK3	hsa04340
+TGF-beta signaling pathway	1	ID1,INHBE	hsa04350
+Axon guidance	1	CDK5,EPHA1,SEMA3G	hsa04360
+VEGF signaling pathway	1	SH2D2A	hsa04370
+Apelin signaling pathway	1	CDH1,GNB4	hsa04371
+Osteoclast differentiation	1	GAB2,SYK	hsa04380
+Hippo signaling pathway	1	AREG,AXIN2,CCND3,CDH1,ID1,TEAD4,YWHAH	hsa04390
+Hippo signaling pathway - multiple species	1	RASSF2,TEAD4	hsa04392
+Focal adhesion	1	CCND3,EGF,FLNB,RAP1A	hsa04510
+ECM-receptor interaction	1	FREM2,HMMR	hsa04512
+Cell adhesion molecules	1	CDH1,MPZ	hsa04514
+Adherens junction	1	CDH1,FGFR1	hsa04520
+Tight junction	1	ARPC5L,RAP1A,RAP2C,TIAM1	hsa04530
+Gap junction	1	EGF	hsa04540
+Signaling pathways regulating pluripotency of stem cells	1	AXIN2,FGFR1,FGFR4,ID1,INHBE,JAK3,ONECUT1	hsa04550
+Complement and coagulation cascades	1	F12,F7	hsa04610
+Platelet activation	1	RAP1A,RASGRP2,SYK,TBXAS1	hsa04611
+Toll-like receptor signaling pathway	1	TIRAP	hsa04620
+NOD-like receptor signaling pathway	1	BRCC3,CARD6,NOD2,RNASEL	hsa04621
+RIG-I-like receptor signaling pathway	1	TBKBP1	hsa04622
+Cytosolic DNA-sensing pathway	1	POLR2K	hsa04623
+C-type lectin receptor signaling pathway	1	IL23A,SYK	hsa04625
+JAK-STAT signaling pathway	1	CCND3,EGF,IL21R,IL23A,IL2RB,JAK3	hsa04630
+Natural killer cell mediated cytotoxicity	1	CASP3,SYK,ULBP2	hsa04650
+IL-17 signaling pathway	1	CASP3,MUC5AC,S100A7,S100A7A,SRSF1	hsa04657
+Th1 and Th2 cell differentiation	1	IL2RB,JAK3	hsa04658
+Th17 cell differentiation	1	IL21R,IL23A,IL2RB,JAK3	hsa04659
+B cell receptor signaling pathway	1	SYK	hsa04662
+Fc epsilon RI signaling pathway	1	GAB2,SYK	hsa04664
+Fc gamma R-mediated phagocytosis	1	ARPC5L,GAB2,SYK	hsa04666
+TNF signaling pathway	1	CASP3,NOD2	hsa04668
+Leukocyte transendothelial migration	1	RAP1A	hsa04670
+Circadian entrainment	1	CACNA1G,GNB4	hsa04713
+Thermogenesis	1	ATP5F1A,COX17,COX6C,CPT2,FGFR1,NDUFAF1,NDUFAF3,NDUFAF6,RHEB,RPS6KA1	hsa04714
+Long-term potentiation	1	RAP1A,RPS6KA1	hsa04720
+Synaptic vesicle cycle	1	AP2B1,AP2S1,ATP6V0A2,ATP6V1F,SLC1A1	hsa04721
+Neurotrophin signaling pathway	1	ARHGDIG,MATK,RAP1A,RPS6KA1	hsa04722
+Retrograde endocannabinoid signaling	1	ABHD6,CACNA1S,GNB4	hsa04723
+Glutamatergic synapse	1	GNB4,GRIK3,GRK3,HOMER1,SHANK3,SLC1A1	hsa04724
+Cholinergic synapse	1	CACNA1S,GNB4	hsa04725
+Serotonergic synapse	1	CACNA1S,CASP3,GNB4,HTR1D	hsa04726
+GABAergic synapse	1	CACNA1S,GAD1,GNB4,GPHN	hsa04727
+Dopaminergic synapse	1	GNB4	hsa04728
+Olfactory transduction	1	GRK3	hsa04740
+Taste transduction	1	HCN4,HTR1D	hsa04742
+Phototransduction	1	PDE6A	hsa04744
+Regulation of actin cytoskeleton	1	ARHGEF4,ARHGEF6,ARPC5L,EGF,FGF18,FGFR1,FGFR4,TIAM1	hsa04810
+Insulin signaling pathway	1	RHEB	hsa04910
+Insulin secretion	1	CACNA1S	hsa04911
+GnRH signaling pathway	1	CACNA1S	hsa04912
+Ovarian steroidogenesis	1	ACOT4	hsa04913
+Progesterone-mediated oocyte maturation	1	CCNB3,KIF22,RPS6KA1	hsa04914
+Estrogen signaling pathway	1	TFF1,TGFA	hsa04915
+Thyroid hormone synthesis	1	GPX2,GSR,TTF1,TTF2	hsa04918
+Thyroid hormone signaling pathway	1	MED30,RHEB	hsa04919
+Oxytocin signaling pathway	1	CACNA1S,CACNA2D2	hsa04921
+Glucagon signaling pathway	1	PDHB	hsa04922
+Regulation of lipolysis in adipocytes	1	NPY1R	hsa04923
+Renin secretion	1	CACNA1S	hsa04924
+Aldosterone synthesis and secretion	1	CACNA1G,CACNA1S	hsa04925
+Relaxin signaling pathway	1	GNB4	hsa04926
+Cortisol synthesis and secretion	1	CACNA1G,CACNA1S	hsa04927
+Parathyroid hormone synthesis, secretion and action	1	FGFR1	hsa04928
+GnRH secretion	1	CACNA1G,CACNA1S	hsa04929
+Type II diabetes mellitus	1	CACNA1G	hsa04930
+Insulin resistance	1	GFPT1,RPS6KA1,SLC27A2,TRIB3	hsa04931
+Non-alcoholic fatty liver disease	1	CASP3,COX6C,XBP1	hsa04932
+AGE-RAGE signaling pathway in diabetic complications	1	CASP3	hsa04933
+Cushing syndrome	1	AXIN2,CACNA1G,CACNA1S,CCNE2,RAP1A	hsa04934
+Growth hormone synthesis, secretion and action	1	CACNA1S,GHRHR	hsa04935
+Type I diabetes mellitus	1	GAD1	hsa04940
+Maturity onset diabetes of the young	1	HNF4A,NR5A2,ONECUT1	hsa04950
+Aldosterone-regulated sodium reabsorption	1	SGK1	hsa04960
+Endocrine and other factor-regulated calcium reabsorption	1	AP2B1,AP2S1	hsa04961
+Vasopressin-regulated water reabsorption	1	ARHGDIG	hsa04962
+Collecting duct acid secretion	1	ATP6V0A2,ATP6V1F	hsa04966
+Pancreatic secretion	1	PLA2G2A,RAP1A	hsa04972
+Protein digestion and absorption	1	COL27A1,DPP4,SLC1A1,SLC1A5	hsa04974
+Fat digestion and absorption	1	DGAT2,PLA2G2A	hsa04975
+Vitamin digestion and absorption	1	SLC52A3	hsa04977
+Mineral absorption	1	SLC39A4	hsa04978
+Cholesterol metabolism	1	NPC1,SOAT2	hsa04979
+Alzheimer disease	1	ATP5F1A,AXIN2,CACNA1S,CASP3,CDK5,COX6C,PPIF,PSENEN,XBP1	hsa05010
+Parkinson disease	1	ATP5F1A,CASP3,COX6C,PPIF,XBP1	hsa05012
+Amyotrophic lateral sclerosis	1	ATP5F1A,CASP3,COX6C,GPX2,NUP58,XBP1	hsa05014
+Huntington disease	1	AP2B1,AP2S1,ATP5F1A,CASP3,COX6C,GPX2,POLR2K,PPIF	hsa05016
+Spinocerebellar ataxia	1	PPIF,XBP1	hsa05017
+Prion disease	1	ATP5F1A,CACNA1S,CASP3,COX6C,PPIF	hsa05020
+Pathways of neurodegeneration - multiple diseases	1	ATP5F1A,AXIN2,CACNA1S,CASP3,CDK5,COX6C,GPX2,PPIF,XBP1	hsa05022
+Cocaine addiction	1	CDK5	hsa05030
+Morphine addiction	1	GNB4,GRK3	hsa05032
+Alcoholism	1	GNB4,H2AJ,H2BC11,H3C8	hsa05034
+Bacterial invasion of epithelial cells	1	ARPC5L,CDH1	hsa05100
+Vibrio cholerae infection	1	ARF1,ATP6V0A2,ATP6V1F,KDELR3	hsa05110
+Epithelial cell signaling in Helicobacter pylori infection	1	ATP6V0A2,ATP6V1F,CASP3,CXCR1	hsa05120
+Pathogenic Escherichia coli infection	1	ARF1,ARPC5L,CASP3,MYO1A,TIRAP	hsa05130
+Shigellosis	1	ARF1,ARPC5L,H3C8,TIFA	hsa05131
+Salmonella infection	1	ARF1,ARPC5L,CASP3,FLNB,TIRAP	hsa05132
+Pertussis	1	CASP3,IL23A,TIRAP	hsa05133
+Legionellosis	1	ARF1,CASP3,SEC22B	hsa05134
+Yersinia infection	1	ARPC5L,RPS6KA1	hsa05135
+Toxoplasmosis	1	CASP3,PPIF	hsa05145
+Amoebiasis	1	CASP3,SERPINB9	hsa05146
+Staphylococcus aureus infection	1	PTAFR	hsa05150
+Tuberculosis	1	ATP6V0A2,CASP3,IL23A,NOD2,PLA2R1,SYK,TIRAP	hsa05152
+Hepatitis C	1	CASP3,EGF,RNASEL,YWHAH	hsa05160
+Hepatitis B	1	CASP3,CCNE2,JAK3,TIRAP	hsa05161
+Measles	1	CASP3,CCND3,CCNE2,IL2RB,JAK3	hsa05162
+Human cytomegalovirus infection	1	CASP3,GNB4,RHEB	hsa05163
+Influenza A	1	CASP3,CCND3,RNASEL	hsa05164
+Human papillomavirus infection	1	ATP6V0A2,ATP6V1F,AXIN2,CASP3,CCND3,CCNE2,EGF,RHEB	hsa05165
+Human T-cell leukemia virus 1 infection	1	BUB3,CCND3,CCNE2,IL2RB,JAK3,MSX1	hsa05166
+Kaposi sarcoma-associated herpesvirus infection	1	CASP3,GNB4,PREX1,SYK	hsa05167
+Herpes simplex virus 1 infection	1	CASP3,RHEB,RNASEL,SRSF1,SYK,ZNF569	hsa05168
+Epstein-Barr virus infection	1	CASP3,CCND3,CCNE2,ENTPD1,JAK3,SYK	hsa05169
+Human immunodeficiency virus 1 infection	1	CASP3,CCNB3,ELOB,GNB4	hsa05170
+Pathways in cancer	1	AXIN2,BRCA2,CASP3,CCND3,CCNE2,CDH1,CKS2,EGF,ELOB,FGF18,FGFR1,FGFR4,GNB4,IL23A,IL2RB,JAK3,RASGRP2,TGFA,TXNRD2	hsa05200
+Transcriptional misregulation in cancer	1	AFF1,DUSP6,H3C8,IL2RB	hsa05202
+Viral carcinogenesis	1	CASP3,CCND3,CCNE2,H2BC11,JAK3,SYK,YWHAH	hsa05203
+Chemical carcinogenesis	1	SULT1A2	hsa05204
+Proteoglycans in cancer	1	CASP3,FGFR1,FLNB,TIAM1	hsa05205
+MicroRNAs in cancer	1	CASP3,CCNE2,SPRY2,TRIM71	hsa05206
+Colorectal cancer	1	AREG,AXIN2,CASP3,EGF,EREG,TGFA	hsa05210
+Renal cell carcinoma	1	ELOB,RAP1A,TGFA	hsa05211
+Pancreatic cancer	1	ARHGEF6,BRCA2,EGF,TGFA	hsa05212
+Endometrial cancer	1	AXIN2,CDH1,EGF	hsa05213
+Glioma	1	EGF,TGFA	hsa05214
+Prostate cancer	1	CCNE2,EGF,FGFR1,TGFA	hsa05215
+Thyroid cancer	1	CDH1	hsa05216
+Basal cell carcinoma	1	AXIN2	hsa05217
+Melanoma	1	CDH1,EGF,FGF18,FGFR1	hsa05218
+Bladder cancer	1	CDH1,EGF	hsa05219
+Chronic myeloid leukemia	1	GAB2	hsa05220
+Acute myeloid leukemia	1	DUSP6	hsa05221
+Small cell lung cancer	1	CASP3,CCNE2,CKS2	hsa05222
+Non-small cell lung cancer	1	EGF,JAK3,TGFA	hsa05223
+Breast cancer	1	AXIN2,BRCA2,EGF,FGF18,FGFR1	hsa05224
+Hepatocellular carcinoma	1	AXIN2,TGFA,TXNRD2	hsa05225
+Gastric cancer	1	AXIN2,CCNE2,CDH1,EGF,FGF18	hsa05226
+Central carbon metabolism in cancer	1	FGFR1,PDHB,SLC1A5	hsa05230
+Choline metabolism in cancer	1	EGF,RHEB,SLC44A3	hsa05231
+PD-L1 expression and PD-1 checkpoint pathway in cancer	1	EGF,TIRAP	hsa05235
+Inflammatory bowel disease	1	IL21R,IL23A,NOD2	hsa05321
+Systemic lupus erythematosus	1	H2AJ,H2BC11,H3C8	hsa05322
+Rheumatoid arthritis	1	ATP6V0A2,ATP6V1F,IL23A	hsa05323
+Primary immunodeficiency	1	JAK3	hsa05340
+Hypertrophic cardiomyopathy	1	CACNA1S,CACNA2D2,TNNI3	hsa05410
+Arrhythmogenic right ventricular cardiomyopathy	1	CACNA1S,CACNA2D2,DSP	hsa05412
+Dilated cardiomyopathy	1	CACNA1S,CACNA2D2,TNNI3	hsa05414
+Viral myocarditis	1	CASP3	hsa05416

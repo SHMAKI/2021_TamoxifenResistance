@@ -1,4 +1,5 @@
 Value,Week,Condition,run
+3,0,Ctrl,run2
 2.46875,1,Ctrl,run2
 3.19375,2,Ctrl,run2
 3.11875,3,Ctrl,run2
@@ -9,6 +10,7 @@ Value,Week,Condition,run
 2.85,8,Ctrl,run2
 3.0375,9,Ctrl,run2
 3.45,10,Ctrl,run2
+3,0,TAM,run2
 1.83125,1,TAM,run2
 1.35,2,TAM,run2
 1.015625,3,TAM,run2
@@ -19,6 +21,7 @@ Value,Week,Condition,run
 1.8625,8,TAM,run2
 1.51875,9,TAM,run2
 2.34,10,TAM,run2
+3.3,0,TAM,run1
 2.66875,1,TAM,run1
 1.65,2,TAM,run1
 1.05625,3,TAM,run1
@@ -29,6 +32,7 @@ Value,Week,Condition,run
 1.725,8,TAM,run1
 2.025,9,TAM,run1
 2.3,10,TAM,run1
+3.3,0,Ctrl,run1
 3.575,1,Ctrl,run1
 4.1,2,Ctrl,run1
 3.725,3,Ctrl,run1
@@ -39,6 +43,7 @@ Value,Week,Condition,run
 3.725,8,Ctrl,run1
 3.775,9,Ctrl,run1
 4.15,10,Ctrl,run1
+3.5,0,TAM,run3
 2.358333333,1,TAM,run4
 1.666666667,2,TAM,run4
 0.8875,3,TAM,run4
@@ -47,6 +52,7 @@ Value,Week,Condition,run
 1.7625,6,TAM,run4
 2.05,7,TAM,run4
 1.9,8,TAM,run4
+3.5,0,Ctrl,run4
 4.277777778,1,Ctrl,run4
 3.183333333,2,Ctrl,run4
 3.058333333,3,Ctrl,run4

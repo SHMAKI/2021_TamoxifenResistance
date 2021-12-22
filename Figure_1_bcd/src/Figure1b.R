@@ -1,11 +1,12 @@
 library(tidyverse)
 
 # import ggplot theme
-source("theme.R")
+source("src/theme.R")
 LEGEND_POSITION <- c(0.8, 0.1)
 
 # import data
 file <- read.csv("data/growthdata.csv", header=T)
+file <- file %>% dplyr::filter(Week>0)
 
 g <-  ggplot(file, aes(x=Week, y=Value, color=Condition, shape = Condition, fill=Condition)) + 
   geom_point(stat="identity", position=position_dodge(width=0.5), size=pointsize, alpha=1) +

@@ -1,7 +1,7 @@
 library(tidyverse)
 
 # import ggplot theme
-source("theme.R")
+source("src/theme.R")
 LEGEND_POSITION <- c(0.75, 0.1)
 
 # import data
