@@ -22,7 +22,7 @@ source codes for generating gene count matrix files from .fastq files ([DRA00434
   * samtools
   * featureCounts
 
-### 2_analysis
+### 2_DEG_analysis
 source codes for differential expression analysis and enrichment analysis
 #### Requirement
   * R 3.5.2
