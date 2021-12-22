@@ -5,30 +5,26 @@ This repository contains the source codes for the analysis of cellular experimen
 https://doi.org/10.1038/s41598-021-97887-z
 
 ## Figure 1-bcd, cell culture experiment
-### Contents
-  * .R files: codes for making figures
-  * /data: experimental data
-  * /Fig: generated figures
 ### Requirements
     * R 3.5.2
       - tidyverse 1.3.1
 
 ## Figure 1-efgh/1_fastq_to_count
 source codes for generating gene count matrix files from .fastq files ([DRA004349](https://ddbj.nig.ac.jp/resource/sra-submission/DRA004349))
-## Requirements
-  * trim_galore
-  * STAR (+ index file)
-  * samtools
-  * featureCounts (+ .gtf file)
+### Requirements
+    * trim_galore
+    * STAR (+ index file)
+    * samtools
+    * featureCounts (+ .gtf file)
 
-## 2_DEG_analysis
+## Figure 1-efgh/2_DEG_analysis
 source codes for differential expression analysis and enrichment analysis
 ### Requirements
-  * R 3.5.2
-    - tidyverse 1.3.1
-    - DESeq2 1.22.2
-    - ggpubr 0.2.3
-    - rtracklayer 1.42.2
-    - amap 0.8-16
-    - ggdendro 0.1-20
-    - tidyheatmap 0.0.0.9000
+    * R 3.5.2
+      - tidyverse 1.3.1
+      - DESeq2 1.22.2
+      - ggpubr 0.2.3
+      - rtracklayer 1.42.2
+      - amap 0.8-16
+      - ggdendro 0.1-20
+      - tidyheatmap 0.0.0.9000
