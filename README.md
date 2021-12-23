@@ -28,3 +28,12 @@ source codes for differential expression analysis and enrichment analysis
       - amap 0.8-16
       - ggdendro 0.1-20
       - tidyheatmap 0.0.0.9000
+
+## Figure 2
+### Requirements
+    * R 3.5.2
+      - tidyverse 1.3.1
+      - Seurat 3.1.1
+
+      - Monocle
+    * gtf file (GRCh38.81)
