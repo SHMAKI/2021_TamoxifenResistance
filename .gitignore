@@ -4,7 +4,7 @@
 .Ruserdata
 .DS_Store
 .RDataTmp
-.Rproj
-.*Fig/*
-.*intermediate_figs/*
-.*processed_data/*
+*.Rproj
+.*Fig/
+.*intermediate_figs/
+.*processed_data/
