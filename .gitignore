@@ -5,6 +5,6 @@
 .DS_Store
 .RDataTmp
 *.Rproj
-.*Fig
-.*intermediate_figs
-.*processed_data
+Fig
+intermediate_figs
+processed_data
