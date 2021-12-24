@@ -1,0 +1,42 @@
+﻿Ribosome	1.6123591873217443e-81	RPL10,RPL12,RPL13,RPL13A,RPL14,RPL15,RPL18,RPL18A,RPL21,RPL22,RPL23A,RPL26,RPL27,RPL3,RPL30,RPL31,RPL32,RPL34,RPL35,RPL35A,RPL36,RPL36A,RPL37,RPL37A,RPL39,RPL41,RPL5,RPL6,RPL7,RPL7A,RPL8,RPL9,RPLP0,RPLP1,RPS11,RPS12,RPS14,RPS15,RPS16,RPS17,RPS18,RPS19,RPS20,RPS21,RPS27,RPS27A,RPS28,RPS29,RPS3,RPS4X,RPS6,RPS8,RPSA,UBA52	hsa03010
+Citrate cycle (TCA cycle)	1	SDHD	hsa00020
+Oxidative phosphorylation	1	ATP5MC2,ATP5ME,ATP5MG,SDHD	hsa00190
+Metabolic pathways	1	ATP5MC2,ATP5ME,ATP5MG,SDHD	hsa01100
+Carbon metabolism	1	SDHD	hsa01200
+EGFR tyrosine kinase inhibitor resistance	1	RPS6	hsa01521
+Endocrine resistance	1	BIK	hsa01522
+RNA transport	1	EEF1A1	hsa03013
+Spliceosome	1	SRSF5	hsa03040
+Base excision repair	1	APEX1	hsa03410
+HIF-1 signaling pathway	1	RPS6	hsa04066
+Ubiquitin mediated proteolysis	1	RPS27A,UBA52	hsa04120
+Mitophagy - animal	1	RPS27A,UBA52	hsa04137
+mTOR signaling pathway	1	RPS6	hsa04150
+PI3K-Akt signaling pathway	1	RPS6	hsa04151
+Ferroptosis	1	FTL	hsa04216
+Necroptosis	1	FTL	hsa04217
+Apelin signaling pathway	1	RPS6	hsa04371
+Thermogenesis	1	ATP5MC2,ATP5ME,ATP5MG,RPS6,SDHD	hsa04714
+Regulation of actin cytoskeleton	1	TMSB4X	hsa04810
+Insulin signaling pathway	1	RPS6	hsa04910
+Parathyroid hormone synthesis, secretion and action	1	NACA	hsa04928
+Non-alcoholic fatty liver disease	1	SDHD	hsa04932
+Mineral absorption	1	FTL	hsa04978
+Alzheimer disease	1	ATP5MC2,SDHD	hsa05010
+Parkinson disease	1	ATP5MC2,RPS27A,SDHD,UBA52	hsa05012
+Amyotrophic lateral sclerosis	1	ATP5MC2,SDHD	hsa05014
+Huntington disease	1	ATP5MC2,SDHD	hsa05016
+Prion disease	1	ATP5MC2,SDHD	hsa05020
+Pathways of neurodegeneration - multiple diseases	1	ATP5MC2,RPS27A,SDHD,UBA52	hsa05022
+Alcoholism	1	H3-3B	hsa05034
+Pathogenic Escherichia coli infection	1	RPS3	hsa05130
+Shigellosis	1	H3-3B,RPS27A,UBA52	hsa05131
+Salmonella infection	1	RPS3	hsa05132
+Legionellosis	1	EEF1A1	hsa05134
+Leishmaniasis	1	EEF1A1	hsa05140
+Measles	1	RACK1	hsa05162
+Kaposi sarcoma-associated herpesvirus infection	1	RPS27A,UBA52	hsa05167
+Herpes simplex virus 1 infection	1	SRSF5	hsa05168
+Transcriptional misregulation in cancer	1	H3-3B	hsa05202
+Proteoglycans in cancer	1	RPS6	hsa05205
+Systemic lupus erythematosus	1	H3-3B	hsa05322

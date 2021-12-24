@@ -1,8 +1,9 @@
 library(tidyverse)
 library(tidyheatmap) #devtools::install_github("jbengler/tidyheatmap")
 
-DIRtgmine <- "data/EAfromTargetimine"
-files <- list.files(DIRtgmine, pattern = ".tsv$", recursive = T)
+DIRtgmine <- "data/EAfromTargetimine/"
+module_level<- c(5,9,11,8,10,3,7,6,4,2,12,1)
+files <- list.files("data/EAfromTargetimine", pattern = ".tsv$")
 
 list_kegg <- list()
 list_reactome <- list()
@@ -10,8 +11,8 @@ v <- 1
 w <- 1
 for(i in 1:length(files)) {
   module <- str_split(string = files[i], pattern = " ", simplify = T)[1]
-  cluster <- str_split(string = module, pattern = "/")[[1]] %>% tail(n=1)
-  tmp_file <- read_tsv(paste0(DIRtgmine, "/", files[i]), col_names = F) %>% mutate(cluster = cluster)
+  moduleNo <-  str_extract_all(module, "[0-9.]+") %>% as.numeric
+  tmp_file <- read_tsv(paste0(DIRtgmine, "/", files[i]), col_names = F) %>% mutate(module = moduleNo)
   type <- str_split(string = files[i], pattern = " ")[[1]] %>% tail(n=1)
   
   if(type == "KEGG.tsv") {
@@ -22,20 +23,23 @@ for(i in 1:length(files)) {
     w <- w + 1
   }
 }
-
 df_kegg <- do.call("rbind", list_kegg)
 df_reactome <- do.call("rbind", list_reactome)
 
-# define graph func
-DrawEnrichmentHeatmap <- function(temp_df, top_th=5, slim_th=.7, filename="") {
-  temp_df2 <- temp_df %>% mutate(terms_id =paste0(X1, " (",X4,")"))
-  temp_df2_topsig <- temp_df2 %>% arrange(cluster) %>% group_by(cluster) %>% dplyr::filter(X2 < 1)
+top_th <- 10
+slim_th <- .7
 
+# define graph func
+DrawEnrichmentHeatmap_module <- function(temp_df, top_th=5, slim_th=.7, module_level,filename="") {
+  temp_df2 <- temp_df %>% mutate(terms_id =paste0(X1, " (",X4,")"))
+  temp_df2$module <- factor(temp_df2$module, levels=module_level)
+  temp_df2_topsig <- temp_df2 %>% arrange(module) %>% group_by(module) %>% dplyr::filter(X2 < 1)
+  
   # remove redundant terms
   list_slim <- list()
   x <- 1
-  for(tmp_module in unique(temp_df2_topsig$cluster)) {
-    tmp_df <- temp_df2_topsig %>% dplyr::filter(cluster == tmp_module)
+  for(tmp_module in unique(temp_df2_topsig$module)) {
+    tmp_df <- temp_df2_topsig %>% dplyr::filter(module == tmp_module)
     tmp_vec1 <- str_split(tmp_df %>% pull(X3), pattern = ",", simplify = T)
     
     rem_id_term <- c()
@@ -51,7 +55,7 @@ DrawEnrichmentHeatmap <- function(temp_df, top_th=5, slim_th=.7, filename="") {
         if (j %in% rem_num) {next}
         vi <- tmp_vec1[i,][tmp_vec1[i,] != ""]
         vj <- tmp_vec1[j,][tmp_vec1[j,] != ""]
-        if (sum(vj %in% vi) / length(vj) > slim_th | sum(vi %in% vj) / length(vi) > slim_th) { #どちらかがどちらかに一定割合以上含まれる場合
+        if (sum(vj %in% vi) / length(vj) > slim_th | sum(vi %in% vj) / length(vi) > slim_th) { 
           wmax = c(i,j)
           rem_num_tmp <- wmax[which.max(tmp_df$X2[wmax])]
           rem_id_term <- c(rem_id_term, tmp_df$terms_id[rem_num_tmp])
@@ -67,32 +71,45 @@ DrawEnrichmentHeatmap <- function(temp_df, top_th=5, slim_th=.7, filename="") {
   
   temp_df2_slim <- do.call("rbind", list_slim)
   use_id_term <- temp_df2_slim %>% dplyr::pull(terms_id) %>% unique()
-  temp_df3 <- temp_df2_topsig %>% dplyr::select(-X3) %>% spread(key= cluster,value = X2) %>% dplyr::filter(terms_id %in% use_id_term)
+  temp_df3 <- temp_df2_topsig %>% dplyr::select(-X3) %>% spread(key= module,value = X2) %>% dplyr::filter(terms_id %in% use_id_term)
   
   temp_df3$terms_id <- factor(temp_df3$terms_id, levels = use_id_term)
   temp_df3 %>% arrange(terms_id)
   
   temp_df4 <- temp_df3 %>% replace(is.na(.),1) %>%
-    tidyr::gather(key = cluster, value = qvalue, colnames(temp_df3)[!(colnames(temp_df3) %in% c("X1","X4","terms_id"))])
+    tidyr::gather(key = module, value = qvalue, colnames(temp_df3)[!(colnames(temp_df3) %in% c("X1","X4","terms_id"))])
   colnames(temp_df4)[1:2] <- c("terms", "id")
   temp_df4 <- temp_df4 %>% mutate(log10qval=-log10(as.numeric(qvalue)))
-  temp_df4$cluster <- factor(temp_df4$cluster)
+  temp_df4$module <- factor(temp_df4$module, levels=module_level)
   temp_df4$terms_id <- factor(temp_df4$terms_id, levels=use_id_term)
   #draw_heatmap
   temp_df4 %>% 
-    arrange(terms_id, cluster) %>% tidy_heatmap(., border_color = "grey60",
+    arrange(terms_id, module) %>% tidy_heatmap(., border_color = "grey60",
                                                 rows = terms_id,
-                                                columns = cluster,
+                                                columns = module,
                                                 values = log10qval,
                                                 scale = "none",
                                                 colors = c("#ffffff","#390655"),
                                                 color_legend_min = 0,
                                                 color_legend_max = 4,
                                                 cellheight = 16, cellwidth = 16, fontsize = 14, angle_col = 0,
-                                                #filename = paste0(DIRtgmine, "/tgmine_df_reactome", top_th, "_slim", slim_th, ".pdf")
                                                 filename = filename
     )
 }
 
-# DrawEnrichmentHeatmap(df_reactome, top_th=5, slim_th=.7, filename="Fig/Fig1g.pdf")
-# DrawEnrichmentHeatmap(df_kegg, top_th=5, slim_th=.7, filename="Fig/Fig1h.pdf")
+# DrawEnrichmentHeatmap_module(df_reactome, top_th=top_th, 
+#                              slim_th=slim_th, module_level=module_level,
+#                              filename="Fig/Fig2g.pdf")
+# DrawEnrichmentHeatmap_module(df_kegg, top_th=top_th,
+#                              slim_th=slim_th,
+#                              module_level=module_level,
+#                              filename="Fig/FigS6b.pdf")
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,106 @@
+﻿Oxidative phosphorylation	0.06589820812327069	ATP5MC3,ATP5PD,NDUFA10,NDUFV1,PPA1,SDHB	hsa00190
+Cysteine and methionine metabolism	0.6741147551807835	BCAT2,MDH1,SRM	hsa00270
+Type I diabetes mellitus	0.7495246097233591	HLA-A,HLA-E	hsa04940
+Thermogenesis	0.7721104392250426	ATP5MC3,ATP5PD,NDUFA10,NDUFV1,SDHB	hsa04714
+Valine, leucine and isoleucine biosynthesis	0.7840205555165318	BCAT2	hsa00290
+Prion disease	0.7890042142889672	ATP5MC3,ATP5PD,NDUFA10,NDUFV1,SDHB	hsa05020
+Allograft rejection	0.8337127485632282	HLA-A,HLA-E	hsa05330
+Graft-versus-host disease	0.8371696119705907	HLA-A,HLA-E	hsa05332
+Citrate cycle (TCA cycle)	0.8883352207762348	MDH1,SDHB	hsa00020
+Protein processing in endoplasmic reticulum	0.897320099956988	DAD1,HERPUD1,NSFL1C,SKP1	hsa04141
+Parkinson disease	0.9046647044102336	ATP5MC3,ATP5PD,NDUFA10,NDUFV1,SDHB	hsa05012
+Huntington disease	0.9154772354120351	ATP5MC3,ATP5PD,NDUFA10,NDUFV1,SDHB	hsa05016
+Oocyte meiosis	0.9379588057951684	ANAPC13,SKP1,YWHAH	hsa04114
+Autoimmune thyroid disease	0.9610512970741125	HLA-A,HLA-E	hsa05320
+Pentose and glucuronate interconversions	1	DCXR	hsa00040
+Fatty acid elongation	1	HACD2	hsa00062
+Purine metabolism	1	NME6,NUDT16	hsa00230
+Pyrimidine metabolism	1	NME6	hsa00240
+Valine, leucine and isoleucine degradation	1	BCAT2	hsa00280
+Arginine and proline metabolism	1	SRM	hsa00330
+Glutathione metabolism	1	SRM	hsa00480
+N-Glycan biosynthesis	1	DAD1	hsa00510
+Various types of N-glycan biosynthesis	1	DAD1	hsa00513
+Amino sugar and nucleotide sugar metabolism	1	NAGK	hsa00520
+Glycosylphosphatidylinositol (GPI)-anchor biosynthesis	1	PIGQ	hsa00563
+Arachidonic acid metabolism	1	CBR1	hsa00590
+Pyruvate metabolism	1	MDH1	hsa00620
+Glyoxylate and dicarboxylate metabolism	1	MDH1	hsa00630
+Pantothenate and CoA biosynthesis	1	BCAT2	hsa00770
+Folate biosynthesis	1	CBR1	hsa00790
+Porphyrin and chlorophyll metabolism	1	UROD	hsa00860
+Metabolism of xenobiotics by cytochrome P450	1	CBR1	hsa00980
+Drug metabolism - other enzymes	1	NME6	hsa00983
+Biosynthesis of unsaturated fatty acids	1	HACD2	hsa01040
+Metabolic pathways	1	ATP5MC3,ATP5PD,BCAT2,CBR1,DAD1,DCXR,HACD2,MDH1,NAGK,NDUFA10,NDUFV1,NME6,NUDT16,PIGQ,SDHB,SRM,UROD	hsa01100
+Carbon metabolism	1	MDH1,SDHB	hsa01200
+2-Oxocarboxylic acid metabolism	1	BCAT2	hsa01210
+Fatty acid metabolism	1	HACD2	hsa01212
+Biosynthesis of amino acids	1	BCAT2	hsa01230
+Antifolate resistance	1	FOLR1	hsa01523
+Ribosome biogenesis in eukaryotes	1	POP4	hsa03008
+Ribosome	1	MRPL10	hsa03010
+RNA transport	1	POP4	hsa03013
+RNA degradation	1	NUDT16	hsa03018
+DNA replication	1	RNASEH2C	hsa03030
+Spliceosome	1	CCDC12,SNRPB	hsa03040
+Protein export	1	SRP14	hsa03060
+PPAR signaling pathway	1	DBI	hsa03320
+Homologous recombination	1	BABAM1	hsa03440
+MAPK signaling pathway	1	EFNA1	hsa04010
+Ras signaling pathway	1	EFNA1	hsa04014
+Rap1 signaling pathway	1	EFNA1	hsa04015
+Cell cycle	1	ANAPC13,SKP1,YWHAH	hsa04110
+Ubiquitin mediated proteolysis	1	ANAPC13,SKP1,UBE2E2	hsa04120
+Lysosome	1	CD63,LAPTM4A	hsa04142
+Endocytosis	1	ARF5,FOLR1,HLA-A,HLA-E	hsa04144
+Phagosome	1	HLA-A,HLA-E	hsa04145
+Peroxisome	1	MPV17,PRDX1	hsa04146
+PI3K-Akt signaling pathway	1	EFNA1,YWHAH	hsa04151
+AMPK signaling pathway	1	ADIPOR1	hsa04152
+Longevity regulating pathway	1	ADIPOR1	hsa04211
+Necroptosis	1	PPIA	hsa04217
+Cellular senescence	1	HLA-A,HLA-E	hsa04218
+Wnt signaling pathway	1	SKP1	hsa04310
+TGF-beta signaling pathway	1	SKP1	hsa04350
+Axon guidance	1	EFNA1	hsa04360
+Hippo signaling pathway	1	MPP5,YWHAH	hsa04390
+Cell adhesion molecules	1	CDH3,CLDN7,HLA-A,HLA-E	hsa04514
+Tight junction	1	CLDN7,MPP5	hsa04530
+Complement and coagulation cascades	1	CD59	hsa04610
+Antigen processing and presentation	1	HLA-A,HLA-E	hsa04612
+RIG-I-like receptor signaling pathway	1	SIKE1	hsa04622
+Hematopoietic cell lineage	1	CD59	hsa04640
+Natural killer cell mediated cytotoxicity	1	HLA-A,HLA-E	hsa04650
+Leukocyte transendothelial migration	1	CLDN7	hsa04670
+Circadian rhythm	1	SKP1	hsa04710
+Retrograde endocannabinoid signaling	1	NDUFA10,NDUFV1	hsa04723
+Regulation of actin cytoskeleton	1	BRK1	hsa04810
+Progesterone-mediated oocyte maturation	1	ANAPC13	hsa04914
+Adipocytokine signaling pathway	1	ADIPOR1	hsa04920
+Glucagon signaling pathway	1	PPP4R3B	hsa04922
+Non-alcoholic fatty liver disease	1	ADIPOR1,NDUFA10,NDUFV1,SDHB	hsa04932
+Proximal tubule bicarbonate reclamation	1	MDH1	hsa04964
+Alzheimer disease	1	ATP5MC3,ATP5PD,NDUFA10,NDUFV1,SDHB	hsa05010
+Amyotrophic lateral sclerosis	1	ATP5MC3,ATP5PD,NDUFA10,NDUFV1,SDHB	hsa05014
+Pathways of neurodegeneration - multiple diseases	1	ATP5MC3,ATP5PD,NDUFA10,NDUFV1,SDHB	hsa05022
+Pathogenic Escherichia coli infection	1	BRK1,CLDN7,TMBIM6	hsa05130
+Shigellosis	1	SKP1	hsa05131
+Salmonella infection	1	BRK1,SKP1	hsa05132
+Amoebiasis	1	PRDX1	hsa05146
+Hepatitis C	1	CLDN7,YWHAH	hsa05160
+Human cytomegalovirus infection	1	HLA-A,HLA-E	hsa05163
+Human papillomavirus infection	1	HLA-A,HLA-E,MPP5	hsa05165
+Human T-cell leukemia virus 1 infection	1	HLA-A,HLA-E	hsa05166
+Kaposi sarcoma-associated herpesvirus infection	1	HLA-A,HLA-E	hsa05167
+Herpes simplex virus 1 infection	1	HLA-A,HLA-E	hsa05168
+Epstein-Barr virus infection	1	HLA-A,HLA-E	hsa05169
+Human immunodeficiency virus 1 infection	1	HLA-A,HLA-E,SKP1	hsa05170
+Pathways in cancer	1	SKP1	hsa05200
+Transcriptional misregulation in cancer	1	ASPSCR1	hsa05202
+Viral carcinogenesis	1	HLA-A,HLA-E,YWHAH	hsa05203
+Chemical carcinogenesis	1	CBR1	hsa05204
+Proteoglycans in cancer	1	CD63	hsa05205
+MicroRNAs in cancer	1	EFNA1	hsa05206
+Systemic lupus erythematosus	1	SNRPB	hsa05322
+Viral myocarditis	1	HLA-A,HLA-E	hsa05416

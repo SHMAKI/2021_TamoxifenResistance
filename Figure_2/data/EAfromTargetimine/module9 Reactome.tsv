@@ -1,0 +1,309 @@
+﻿Phosphate bond hydrolysis by NUDT proteins	0.24766721081695509	NUDT15,NUDT16	R-HSA-2393930
+Purine catabolism	0.253782893012585	DNPH1,NUDT15,NUDT16	R-HSA-74259
+Nucleobase catabolism	0.46014519756354366	DNPH1,NUDT15,NUDT16	R-HSA-8956319
+Respiratory electron transport, ATP synthesis by chemiosmotic coupling, and heat production by uncoupling proteins.	0.5125425417826046	ATP5MC3,ATP5PD,NDUFA10,NDUFV1,SDHB	R-HSA-163200
+Cristae formation	0.6371965055090053	ATP5MC3,ATP5PD,MTX1	R-HSA-8949613
+Endosomal/Vacuolar pathway	0.7367037117376264	HLA-A,HLA-E	R-HSA-1236977
+Apoptosis	1	YWHAH	R-HSA-109581
+Hemostasis	1	CD63,PPIA	R-HSA-109582
+Intrinsic Pathway for Apoptosis	1	YWHAH	R-HSA-109606
+SLBP independent Processing of Histone Pre-mRNAs	1	SNRPB	R-HSA-111367
+Activation of BAD and translocation to mitochondria	1	YWHAH	R-HSA-111447
+Activation of BH3-only proteins	1	YWHAH	R-HSA-114452
+Platelet degranulation	1	CD63,PPIA	R-HSA-114608
+Downstream signaling events of B Cell Receptor (BCR)	1	PPIA,SKP1	R-HSA-1168372
+Activation of NF-kappaB in B cells	1	SKP1	R-HSA-1169091
+Prolactin receptor signaling	1	SKP1	R-HSA-1170546
+ER-Phagosome pathway	1	HLA-A,HLA-E	R-HSA-1236974
+Antigen processing-Cross presentation	1	HLA-A,HLA-E	R-HSA-1236975
+Developmental Biology	1	CAP2,EFNA1,PDLIM7	R-HSA-1266738
+Mitochondrial protein import	1	MTX1	R-HSA-1268020
+Cytokine Signaling in Immune system	1	HLA-A,HLA-E,PPIA,SKP1,TCP1	R-HSA-1280215
+Adaptive Immune System	1	ANAPC13,HLA-A,HLA-E,PPIA,SKP1,UBE2E2	R-HSA-1280218
+The citric acid (TCA) cycle and respiratory electron transport	1	ATP5MC3,ATP5PD,NDUFA10,NDUFV1,SDHB	R-HSA-1428517
+Metabolism	1	ADIPOR1,ATP5MC3,ATP5PD,BCAT2,CBR1,CYB5B,DBI,DCXR,DNPH1,HACD2,MDH1,NDUFA10,NDUFV1,NUDT15,NUDT16,PPA1,SDHB,SRM,UROD	R-HSA-1430728
+Translocation of SLC2A4 (GLUT4) to the plasma membrane	1	ASPSCR1,YWHAH	R-HSA-1445148
+Extracellular matrix organization	1	PPIB	R-HSA-1474244
+Collagen formation	1	PPIB	R-HSA-1474290
+Cell-Cell communication	1	CDH3,CLDN7,MPP5	R-HSA-1500931
+Signaling by NOTCH	1	SKP1	R-HSA-157118
+Nucleotide metabolism	1	DNPH1,NUDT15,NUDT16	R-HSA-15869
+Mitochondrial biogenesis	1	ATP5MC3,ATP5PD,MTX1	R-HSA-1592230
+Signaling Pathways	1	BRK1,REEP5,SKP1,TAX1BP3,YWHAH	R-HSA-162582
+Uncoating of the HIV Virion	1	PPIA	R-HSA-162585
+HIV Life Cycle	1	PPIA	R-HSA-162587
+Budding and maturation of HIV virion	1	PPIA	R-HSA-162588
+Reverse Transcription of HIV RNA	1	PPIA	R-HSA-162589
+Integration of provirus	1	PPIA	R-HSA-162592
+Early Phase of HIV Life Cycle	1	PPIA	R-HSA-162594
+Late Phase of HIV Life Cycle	1	PPIA	R-HSA-162599
+HIV Infection	1	PPIA,SKP1	R-HSA-162906
+Host Interactions of HIV factors	1	PPIA,SKP1	R-HSA-162909
+Formation of ATP by chemiosmotic coupling	1	ATP5MC3,ATP5PD	R-HSA-163210
+AMPK inhibits chREBP transcriptional activation activity	1	ADIPOR1	R-HSA-163680
+Integration of energy metabolism	1	ADIPOR1	R-HSA-163685
+Cell Cycle	1	ARPP19,BABAM1,SKP1,YWHAH	R-HSA-1640170
+Disease	1	AGTRAP,BRK1,DAD1,DCXR,MAGT1,PPIA,PRDX1,SKP1	R-HSA-1643685
+Minus-strand DNA synthesis	1	PPIA	R-HSA-164516
+Plus-strand DNA synthesis	1	PPIA	R-HSA-164525
+Collagen biosynthesis and modifying enzymes	1	PPIB	R-HSA-1650814
+Toll Like Receptor 4 (TLR4) Cascade	1	SKP1	R-HSA-166016
+MyD88:MAL(TIRAP) cascade initiated on plasma membrane	1	SKP1	R-HSA-166058
+MyD88-independent TLR4 cascade	1	SKP1	R-HSA-166166
+Complement cascade	1	CD59	R-HSA-166658
+Toll Like Receptor 9 (TLR9) Cascade	1	SKP1	R-HSA-168138
+Toll Like Receptor 10 (TLR10) Cascade	1	SKP1	R-HSA-168142
+Toll Like Receptor 3 (TLR3) Cascade	1	SKP1	R-HSA-168164
+Toll Like Receptor 5 (TLR5) Cascade	1	SKP1	R-HSA-168176
+Toll Like Receptor TLR1:TLR2 Cascade	1	SKP1	R-HSA-168179
+Toll Like Receptor 7/8 (TLR7/8) Cascade	1	SKP1	R-HSA-168181
+Toll Like Receptor TLR6:TLR2 Cascade	1	SKP1	R-HSA-168188
+Innate Immune System	1	BRK1,CD59,CD63,HLA-E,MAGT1,PPIA,SIKE1,SKP1,SRP14,TMEM179B	R-HSA-168249
+Immune System	1	ANAPC13,BRK1,CD59,CD63,HLA-A,HLA-E,MAGT1,PPIA,SIKE1,SKP1,SRP14,TCP1,TMEM179B,UBE2E2	R-HSA-168256
+Toll-like Receptor Cascades	1	SKP1	R-HSA-168898
+DDX58/IFIH1-mediated induction of interferon-alpha/beta	1	SIKE1	R-HSA-168928
+Binding and entry of HIV virion	1	PPIA	R-HSA-173107
+SCF-beta-TrCP mediated degradation of Emi1	1	SKP1	R-HSA-174113
+APC/C-mediated degradation of cell cycle proteins	1	SKP1	R-HSA-174143
+Assembly Of The HIV Virion	1	PPIA	R-HSA-175474
+Regulation of APC/C activators between G1/S and early anaphase	1	SKP1	R-HSA-176408
+SRP-dependent cotranslational protein targeting to membrane	1	SRP14	R-HSA-1799339
+Vpu mediated degradation of CD4	1	SKP1	R-HSA-180534
+APOBEC3G mediated resistance to HIV-1 infection	1	PPIA	R-HSA-180689
+Toll Like Receptor 2 (TLR2) Cascade	1	SKP1	R-HSA-181438
+Organelle biogenesis and maintenance	1	ATP5MC3,ATP5PD,DYNLT2B,MTX1,TCP1	R-HSA-1852241
+SCF(Skp2)-mediated degradation of p27/p21	1	SKP1	R-HSA-187577
+Porphyrin metabolism	1	UROD	R-HSA-189445
+Heme biosynthesis	1	UROD	R-HSA-189451
+snRNP Assembly	1	SNRPB	R-HSA-191859
+Signaling by VEGF	1	BRK1	R-HSA-194138
+Signaling by Rho GTPases	1	BRK1,TAX1BP3,YWHAH	R-HSA-194315
+Non-coding RNA Metabolism	1	SNRPB	R-HSA-194441
+Degradation of beta-catenin by the destruction complex	1	SKP1	R-HSA-195253
+RHO GTPase Effectors	1	BRK1,TAX1BP3,YWHAH	R-HSA-195258
+Signaling by WNT	1	SKP1	R-HSA-195721
+Signaling by NOTCH1	1	SKP1	R-HSA-1980143
+Immunoregulatory interactions between a Lymphoid and a non-Lymphoid cell	1	HLA-A,HLA-E	R-HSA-198933
+ER to Golgi Anterograde Transport	1	ARF5,CD59,FOLR1	R-HSA-199977
+Membrane Trafficking	1	ARF5,ASPSCR1,CD59,FOLR1,YWHAH	R-HSA-199991
+TCR signaling	1	SKP1	R-HSA-202403
+Downstream TCR signaling	1	SKP1	R-HSA-202424
+Calcineurin activates NFAT	1	PPIA	R-HSA-2025928
+Cell surface interactions at the vascular wall	1	PPIA	R-HSA-202733
+Fcgamma receptor (FCGR) dependent phagocytosis	1	BRK1	R-HSA-2029480
+Regulation of actin dynamics for phagocytic cup formation	1	BRK1	R-HSA-2029482
+COPII-mediated vesicle transport	1	CD59,FOLR1	R-HSA-204005
+Basigin interactions	1	PPIA	R-HSA-210991
+Biological oxidations	1	CYB5B	R-HSA-211859
+Phase I - Functionalization of compounds	1	CYB5B	R-HSA-211945
+NOTCH1 Intracellular Domain Regulates Transcription	1	SKP1	R-HSA-2122947
+Generic Transcription Pathway	1	PRDX1,SKP1,YWHAH,ZNF706	R-HSA-212436
+Arachidonic acid metabolism	1	CBR1	R-HSA-2142753
+Synthesis of Prostaglandins (PG) and Thromboxanes (TX)	1	CBR1	R-HSA-2162123
+DAP12 interactions	1	HLA-E	R-HSA-2172127
+Cellular responses to stress	1	PRDX1	R-HSA-2262752
+DAP12 signaling	1	HLA-E	R-HSA-2424491
+Fc epsilon receptor (FCERI) signaling	1	SKP1	R-HSA-2454202
+MASTL Facilitates Mitotic Progression	1	ARPP19	R-HSA-2465910
+Regulation of PLK1 Activity at G2/M Transition	1	SKP1	R-HSA-2565942
+Signaling by NOTCH1 PEST Domain Mutants in Cancer	1	SKP1	R-HSA-2644602
+Signaling by NOTCH1 in Cancer	1	SKP1	R-HSA-2644603
+FBXW7 Mutants and NOTCH1 in Cancer	1	SKP1	R-HSA-2644605
+Constitutive Signaling by NOTCH1 PEST Domain Mutants	1	SKP1	R-HSA-2644606
+Loss of Function of FBXW7 in Cancer and NOTCH1 Signaling	1	SKP1	R-HSA-2644607
+EPH-Ephrin signaling	1	EFNA1	R-HSA-2682334
+FCERI mediated NF-kB activation	1	SKP1	R-HSA-2871837
+Signaling by NOTCH1 HD+PEST Domain Mutants in Cancer	1	SKP1	R-HSA-2894858
+Constitutive Signaling by NOTCH1 HD+PEST Domain Mutants	1	SKP1	R-HSA-2894862
+Detoxification of Reactive Oxygen Species	1	PRDX1	R-HSA-3299685
+Metabolism of polyamines	1	SRM	R-HSA-351202
+Transcriptional Regulation by TP53	1	PRDX1,YWHAH	R-HSA-3700989
+Signaling by GPCR	1	REEP5	R-HSA-372790
+Signaling by ROBO receptors	1	CAP2	R-HSA-376176
+Cytosolic tRNA aminoacylation	1	PPA1	R-HSA-379716
+tRNA Aminoacylation	1	PPA1	R-HSA-379724
+ATF4 activates genes in response to endoplasmic reticulum stress	1	HERPUD1	R-HSA-380994
+PERK regulates gene expression	1	HERPUD1	R-HSA-381042
+Unfolded Protein Response (UPR)	1	HERPUD1	R-HSA-381119
+Olfactory Signaling Pathway	1	REEP5	R-HSA-381753
+Transport of small molecules	1	MAGT1,SKP1	R-HSA-382551
+GPCR downstream signalling	1	REEP5	R-HSA-388396
+Prefoldin mediated transfer of substrate to CCT/TriC	1	TCP1	R-HSA-389957
+Cooperation of Prefoldin and TriC/CCT in actin and tubulin folding	1	TCP1	R-HSA-389958
+Formation of tubulin folding intermediates by CCT/TriC	1	TCP1	R-HSA-389960
+Folding of actin by CCT/TriC	1	TCP1	R-HSA-390450
+Chaperonin-mediated protein folding	1	TCP1	R-HSA-390466
+Association of TriC/CCT with target proteins during biosynthesis	1	TCP1	R-HSA-390471
+Protein folding	1	TCP1	R-HSA-391251
+Metabolism of proteins	1	ARF5,BABAM1,CD59,DAD1,FOLR1,HERPUD1,HLA-A,MAGT1,MRPL10,MRPL43,NAGK,PPA1,SKP1,SRP14,TCP1	R-HSA-392499
+EPH-ephrin mediated repulsion of cells	1	EFNA1	R-HSA-3928665
+Circadian Clock	1	SKP1	R-HSA-400253
+G alpha (s) signalling events	1	REEP5	R-HSA-418555
+Adherens junctions interactions	1	CDH3	R-HSA-418990
+Tight junction interactions	1	CLDN7,MPP5	R-HSA-420029
+Cell-cell junction organization	1	CDH3,CLDN7,MPP5	R-HSA-421270
+Axon guidance	1	CAP2,EFNA1,PDLIM7	R-HSA-422475
+Role of ABL in ROBO-SLIT signaling	1	CAP2	R-HSA-428890
+VEGFA-VEGFR2 Pathway	1	BRK1	R-HSA-4420097
+Biosynthesis of the N-glycan precursor (dolichol lipid-linked oligosaccharide, LLO) and transfer to a nascent protein	1	NAGK	R-HSA-446193
+Asparagine N-linked glycosylation	1	ARF5,CD59,DAD1,FOLR1,MAGT1,NAGK	R-HSA-446203
+Synthesis of UDP-N-acetyl-glucosamine	1	NAGK	R-HSA-446210
+Synthesis of substrates in N-glycan biosythesis	1	NAGK	R-HSA-446219
+Interleukin-1 family signaling	1	SKP1	R-HSA-446652
+Cell junction organization	1	CDH3,CLDN7,MPP5	R-HSA-446728
+Interleukin-12 family signaling	1	PPIA,TCP1	R-HSA-447115
+Interleukin-17 signaling	1	SKP1	R-HSA-448424
+Signaling by Interleukins	1	PPIA,SKP1,TCP1	R-HSA-449147
+MAP kinase activation	1	SKP1	R-HSA-450294
+Mitotic G2-G2/M phases	1	SKP1	R-HSA-453274
+Regulation of mitotic cell cycle	1	SKP1	R-HSA-453276
+Mitotic G1 phase and G1/S transition	1	SKP1	R-HSA-453279
+Miscellaneous transport and binding events	1	MAGT1	R-HSA-5223345
+Programmed Cell Death	1	YWHAH	R-HSA-5357801
+Signaling by Hedgehog	1	SKP1	R-HSA-5358351
+Mitochondrial translation initiation	1	MRPL10,MRPL43	R-HSA-5368286
+Mitochondrial translation	1	MRPL10,MRPL43	R-HSA-5368287
+Mitochondrial translation elongation	1	MRPL10,MRPL43	R-HSA-5389840
+Mitochondrial translation termination	1	MRPL10,MRPL43	R-HSA-5419276
+Metabolism of lipids	1	CBR1,DBI,HACD2	R-HSA-556833
+Dectin-1 mediated noncanonical NF-kB signaling	1	SKP1	R-HSA-5607761
+CLEC7A (Dectin-1) signaling	1	SKP1	R-HSA-5607764
+Degradation of GLI1 by the proteasome	1	SKP1	R-HSA-5610780
+Degradation of GLI2 by the proteasome	1	SKP1	R-HSA-5610783
+GLI3 is processed to GLI3R by the proteasome	1	SKP1	R-HSA-5610785
+Hedgehog 'off' state	1	SKP1	R-HSA-5610787
+Cilium Assembly	1	DYNLT2B,TCP1	R-HSA-5617833
+Cargo trafficking to the periciliary membrane	1	TCP1	R-HSA-5620920
+BBSome-mediated cargo-targeting to cilium	1	TCP1	R-HSA-5620922
+Intraflagellar transport	1	DYNLT2B	R-HSA-5620924
+C-type lectin receptors (CLRs)	1	SKP1	R-HSA-5621481
+RHO GTPases activate PKNs	1	YWHAH	R-HSA-5625740
+TP53 Regulates Metabolic Genes	1	PRDX1,YWHAH	R-HSA-5628897
+Vesicle-mediated transport	1	ARF5,ASPSCR1,CD59,FOLR1,YWHAH	R-HSA-5653656
+Formation of xylulose-5-phosphate	1	DCXR	R-HSA-5661270
+Essential pentosuria	1	DCXR	R-HSA-5662853
+Diseases of carbohydrate metabolism	1	DCXR	R-HSA-5663084
+Diseases of signal transduction by growth factor receptors and second messengers	1	AGTRAP,SKP1	R-HSA-5663202
+Infectious disease	1	BRK1,DAD1,MAGT1,PPIA,SKP1	R-HSA-5663205
+RHO GTPases Activate WASPs and WAVEs	1	BRK1	R-HSA-5663213
+RHO GTPases Activate Rhotekin and Rhophilins	1	TAX1BP3	R-HSA-5666185
+TNFR2 non-canonical NF-kB pathway	1	SKP1	R-HSA-5668541
+Diseases of metabolism	1	DCXR	R-HSA-5668914
+NIK-->noncanonical NF-kB signaling	1	SKP1	R-HSA-5676590
+MAP3K8 (TPL2)-dependent MAPK1/3 activation	1	SKP1	R-HSA-5684264
+Deubiquitination	1	BABAM1	R-HSA-5688426
+Metalloprotease DUBs	1	BABAM1	R-HSA-5689901
+DNA Double-Strand Break Repair	1	BABAM1	R-HSA-5693532
+Homology Directed Repair	1	BABAM1	R-HSA-5693538
+Recruitment and ATM-mediated phosphorylation of repair and signaling proteins at DNA double strand breaks	1	BABAM1	R-HSA-5693565
+HDR through Homologous Recombination (HRR) or Single Strand Annealing (SSA)	1	BABAM1	R-HSA-5693567
+Nonhomologous End-Joining (NHEJ)	1	BABAM1	R-HSA-5693571
+DNA Double Strand Break Response	1	BABAM1	R-HSA-5693606
+Processing of DNA double-strand break ends	1	BABAM1	R-HSA-5693607
+Cargo concentration in the ER	1	CD59,FOLR1	R-HSA-5694530
+Post-translational protein modification	1	ARF5,BABAM1,CD59,DAD1,FOLR1,HLA-A,MAGT1,NAGK,SKP1	R-HSA-597592
+Respiratory electron transport	1	NDUFA10,NDUFV1,SDHB	R-HSA-611105
+tRNA processing in the nucleus	1	POP4,RTRAF	R-HSA-6784531
+Neutrophil degranulation	1	CD59,CD63,MAGT1,PPIA,SRP14,TMEM179B	R-HSA-6798695
+Complex I biogenesis	1	NDUFA10,NDUFV1	R-HSA-6799198
+Signaling by BRAF and RAF fusions	1	AGTRAP	R-HSA-6802952
+Oncogenic MAPK signaling	1	AGTRAP	R-HSA-6802957
+COPI-mediated anterograde transport	1	ARF5,CD59,FOLR1	R-HSA-6807878
+COPI-dependent Golgi-to-ER retrograde traffic	1	ARF5	R-HSA-6811434
+Intra-Golgi and retrograde Golgi-to-ER traffic	1	ARF5	R-HSA-6811442
+Cooperation of PDCL (PhLP1) and TRiC/CCT in G-protein beta folding	1	TCP1	R-HSA-6814122
+Mitotic Prophase	1	ARPP19	R-HSA-68875
+M Phase	1	ARPP19	R-HSA-68886
+Orc1 removal from chromatin	1	SKP1	R-HSA-68949
+Switching of origins to a post-replicative state	1	SKP1	R-HSA-69052
+Cyclin E associated events during G1/S transition	1	SKP1	R-HSA-69202
+G1/S Transition	1	SKP1	R-HSA-69206
+Cyclin D associated events in G1	1	SKP1	R-HSA-69231
+G1 Phase	1	SKP1	R-HSA-69236
+Synthesis of DNA	1	SKP1	R-HSA-69239
+S Phase	1	SKP1	R-HSA-69242
+G2/M Transition	1	SKP1	R-HSA-69275
+Cell Cycle, Mitotic	1	ARPP19,SKP1	R-HSA-69278
+DNA Replication	1	SKP1	R-HSA-69306
+G2/M DNA damage checkpoint	1	BABAM1,YWHAH	R-HSA-69473
+G2/M Checkpoints	1	BABAM1,YWHAH	R-HSA-69481
+Cell Cycle Checkpoints	1	BABAM1,YWHAH	R-HSA-69620
+Cyclin A:Cdk2-associated events at S phase entry	1	SKP1	R-HSA-69656
+Gluconeogenesis	1	MDH1	R-HSA-70263
+Glucose metabolism	1	MDH1	R-HSA-70326
+Branched-chain amino acid catabolism	1	BCAT2	R-HSA-70895
+Amino acid and derivative metabolism	1	BCAT2,SRM	R-HSA-71291
+Carbohydrate metabolism	1	DCXR,MDH1	R-HSA-71387
+Citric acid cycle (TCA cycle)	1	SDHB	R-HSA-71403
+Pyruvate metabolism and Citric Acid (TCA) cycle	1	SDHB	R-HSA-71406
+Pyrophosphate hydrolysis	1	PPA1	R-HSA-71737
+pre-mRNA splicing	1	SNRPB	R-HSA-72163
+U12 Dependent Splicing	1	SNRPB	R-HSA-72165
+mRNA Splicing	1	SNRPB	R-HSA-72172
+Processing of Capped Intron-Containing Pre-mRNA	1	SNRPB	R-HSA-72203
+tRNA processing	1	POP4,RTRAF	R-HSA-72306
+Translation	1	MRPL10,MRPL43,PPA1,SRP14	R-HSA-72766
+RNA Polymerase II Transcription Termination	1	SNRPB	R-HSA-73856
+RNA Polymerase II Transcription	1	PRDX1,SKP1,SNRPB,YWHAH,ZNF706	R-HSA-73857
+DNA Repair	1	BABAM1	R-HSA-73894
+RNA Polymerase III Transcription	1	GTF3C5	R-HSA-74158
+Gene expression (Transcription)	1	GTF3C5,PRDX1,SKP1,SNRPB,YWHAH,ZNF706	R-HSA-74160
+RNA Polymerase III Abortive And Retractive Initiation	1	GTF3C5	R-HSA-749476
+Chk1/Chk2(Cds1) mediated inactivation of Cyclin B:Cdk1 complex	1	YWHAH	R-HSA-75035
+Processing of Capped Intronless Pre-mRNA	1	SNRPB	R-HSA-75067
+Fatty acyl-CoA biosynthesis	1	HACD2	R-HSA-75105
+Synthesis of very long-chain fatty acyl-CoAs	1	HACD2	R-HSA-75876
+Platelet activation, signaling and aggregation	1	CD63,PPIA	R-HSA-76002
+Response to elevated platelet cytosolic Ca2+	1	CD63,PPIA	R-HSA-76005
+RNA Polymerase III Transcription Initiation	1	GTF3C5	R-HSA-76046
+RNA Polymerase III Transcription Initiation From Type 1 Promoter	1	GTF3C5	R-HSA-76061
+RNA Polymerase III Transcription Initiation From Type 2 Promoter	1	GTF3C5	R-HSA-76066
+Mitochondrial Fatty Acid Beta-Oxidation	1	DBI	R-HSA-77289
+SLBP Dependent Processing of Replication-Dependent Histone Pre-mRNAs	1	SNRPB	R-HSA-77588
+Interferon gamma signaling	1	HLA-A,HLA-E	R-HSA-877300
+Protein ubiquitination	1	HLA-A	R-HSA-8852135
+RET signaling	1	PDLIM7	R-HSA-8853659
+FBXL7 down-regulates AURKA during mitotic entry and in early mitosis	1	SKP1	R-HSA-8854050
+Golgi-to-ER retrograde transport	1	ARF5	R-HSA-8856688
+Deregulated CDK5 triggers multiple neurodegenerative pathways in Alzheimer's disease models	1	PRDX1	R-HSA-8862803
+Neurodegenerative Diseases	1	PRDX1	R-HSA-8863678
+E3 ubiquitin ligases ubiquitinate target proteins	1	HLA-A	R-HSA-8866654
+Transcriptional regulation by RUNX2	1	SKP1	R-HSA-8878166
+Regulation of RUNX2 expression and activity	1	SKP1	R-HSA-8939902
+Gene and protein expression by JAK-STAT signaling after Interleukin-12 stimulation	1	PPIA,TCP1	R-HSA-8950505
+Neddylation	1	SKP1	R-HSA-8951664
+Metabolism of RNA	1	POP4,RTRAF,SNRPB	R-HSA-8953854
+Cellular responses to external stimuli	1	PRDX1	R-HSA-8953897
+Fatty acid metabolism	1	CBR1,DBI,HACD2	R-HSA-8978868
+Signaling by Receptor Tyrosine Kinases	1	BRK1	R-HSA-9006934
+Signaling by NOTCH4	1	SKP1	R-HSA-9013694
+Interleukin-12 signaling	1	PPIA,TCP1	R-HSA-9020591
+Interleukin-1 signaling	1	SKP1	R-HSA-9020702
+Peroxisomal protein import	1	MPV17	R-HSA-9033241
+Interferon alpha/beta signaling	1	HLA-A,HLA-E	R-HSA-909733
+Interferon Signaling	1	HLA-A,HLA-E	R-HSA-913531
+Iron uptake and transport	1	SKP1	R-HSA-917937
+TRAF3-dependent IRF activation pathway	1	SIKE1	R-HSA-918233
+TRAF6 mediated IRF7 activation	1	SIKE1	R-HSA-933541
+TRIF(TICAM1)-mediated TLR4 signaling	1	SKP1	R-HSA-937061
+Transport to the Golgi and subsequent modification	1	ARF5,CD59,FOLR1	R-HSA-948021
+Negative regulation of NOTCH4 signaling	1	SKP1	R-HSA-9604323
+Protein localization	1	MPV17,MTX1	R-HSA-9609507
+Diseases of programmed cell death	1	PRDX1	R-HSA-9645723
+Leishmania infection	1	BRK1	R-HSA-9658195
+Parasite infection	1	BRK1	R-HSA-9664407
+Leishmania phagocytosis	1	BRK1	R-HSA-9664417
+FCGR3A-mediated phagocytosis	1	BRK1	R-HSA-9664422
+Nervous system development	1	CAP2,EFNA1,PDLIM7	R-HSA-9675108
+SARS-CoV Infections	1	DAD1,MAGT1	R-HSA-9679506
+SARS-CoV-2 Infection	1	DAD1,MAGT1	R-HSA-9694516
+Maturation of spike protein	1	DAD1,MAGT1	R-HSA-9694548
+Translation of structural proteins	1	DAD1,MAGT1	R-HSA-9694635
+TRAF6 mediated induction of NFkB and MAP kinases upon TLR7/8 or 9 activation	1	SKP1	R-HSA-975138
+MyD88 dependent cascade initiated on endosome	1	SKP1	R-HSA-975155
+MyD88 cascade initiated on plasma membrane	1	SKP1	R-HSA-975871
+Regulation of Complement cascade	1	CD59	R-HSA-977606
+Antigen processing: Ubiquitination & Proteasome degradation	1	ANAPC13,SKP1,UBE2E2	R-HSA-983168
+Class I MHC mediated antigen processing & presentation	1	ANAPC13,HLA-A,HLA-E,SKP1,UBE2E2	R-HSA-983169
+Antigen Presentation: Folding, assembly and peptide loading of class I MHC	1	HLA-A,HLA-E	R-HSA-983170
+B Cell Activation	1	PPIA,SKP1	R-HSA-983705

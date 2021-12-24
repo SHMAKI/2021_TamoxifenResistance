@@ -1,0 +1,244 @@
+﻿RNA transport	0.00029196842887336605	AAAS,EIF2B3,EIF2S1,EIF3A,EIF3C,EIF3CL,EIF3J,GEMIN5,NXT1,RANBP2,RPP40,SEH1L,SMN1,SMN2,STRAP,TARDBP,TRNT1	hsa03013
+Ribosome biogenesis in eukaryotes	0.0011406997743275212	AK6,EMG1,GNL3,GTPBP4,NAT10,NXT1,RBM28,RPP40,UTP14A,WDR3,WDR43,WDR75	hsa03008
+Thermogenesis	0.05927092302538724	ACSL3,ATP5F1D,COX20,CPT1A,CREB3L4,KDM3B,NDUFAF1,NDUFAF2,NDUFAF4,NDUFS1,NDUFS8,NRAS,SMARCA4,SMARCC1	hsa04714
+Riboflavin metabolism	0.06537278003854295	BLVRB,FLAD1,RFK	hsa00740
+Huntington disease	0.25424135362203026	ATP5F1D,BAX,CREB3L4,CYCS,DCTN5,DNAH14,HDAC2,KIF5B,NDUFS1,NDUFS8,POLR2C,PSMC2,PSMD12,PSMD7,VDAC2	hsa05016
+Metabolic pathways	0.2855034252135663	ACAT1,ACSL3,ADSL,AK2,AK6,ALG1,ALG8,ASH1L,ATIC,ATP5F1D,BLVRA,BLVRB,CA8,CBS,CBSL,CKMT1A,CKMT1B,COQ3,CRYL1,DGAT2,DHODH,ELOVL2,FLAD1,G6PD,GART,GFPT1,GSS,GYG1,HIBADH,HMBS,HSD17B10,IDH3A,IMPDH1,MARS1,ME1,MTHFD1L,MTMR14,MVK,NDUFS1,NDUFS8,NME2,NUDT5,OXCT1,PPCS,PTGES3,PYGB,RFK,UCK2	hsa01100
+Parkinson disease	0.29544812060064835	ATP5F1D,BAX,CYCS,EIF2S1,KIF5B,NDUFS1,NDUFS8,PSMC2,PSMD12,PSMD7,UBC,VDAC2	hsa05012
+Pathways of neurodegeneration - multiple diseases	0.3214975103204127	ATP5F1D,BAX,CDK5,CYCS,DCTN5,DNAH14,EIF2S1,HSD17B10,KIF5B,MAPK3,NDUFS1,NDUFS8,NRAS,PSMC2,PSMD12,PSMD7,TARDBP,UBC,VDAC2	hsa05022
+One carbon pool by folate	0.32719433399683917	ATIC,GART,MTHFD1L	hsa00670
+Purine metabolism	0.336988078126404	ADSL,AK2,AK6,ATIC,GART,IMPDH1,NME2,NUDT5	hsa00230
+Bladder cancer	0.3432378218531999	MAPK3,NRAS,THBS1,VEGFA	hsa05219
+Prion disease	0.3651901570020931	ATP5F1D,BAX,CREB3L4,CYCS,EIF2S1,KIF5B,MAPK3,NDUFS1,NDUFS8,PSMC2,PSMD12,PSMD7,VDAC2	hsa05020
+Synthesis and degradation of ketone bodies	0.3790313159538439	ACAT1,OXCT1	hsa00072
+Valine, leucine and isoleucine degradation	0.37980664819560145	ACAT1,HIBADH,HSD17B10,OXCT1	hsa00280
+Viral carcinogenesis	0.37998929772764667	BAX,CREB3L4,DLG1,EGR3,GTF2H2,GTF2H2C,H4C8,HDAC2,MAPK3,NRAS	hsa05203
+Amyotrophic lateral sclerosis	0.3827614728782709	ATP5F1D,BAX,CYCS,DCTN5,DNAH14,EIF2S1,KIF5B,NDUFS1,NDUFS8,NXT1,PSMC2,PSMD12,PSMD7,RANBP2,SEH1L,TARDBP	hsa05014
+Alzheimer disease	0.38362983391872685	ATP5F1D,CDK5,CYCS,EIF2S1,HSD17B10,KIF5B,MAPK3,NDUFS1,NDUFS8,NRAS,PSMC2,PSMD12,PSMD7,RTN4,VDAC2	hsa05010
+Mitophagy - animal	0.38613044769576743	BNIP3,NRAS,PGAM5,UBC,USP8	hsa04137
+mRNA surveillance pathway	0.3916365058080595	CPSF2,CPSF6,ETF1,GSPT1,NXT1,TARDBP	hsa03015
+Aminoacyl-tRNA biosynthesis	0.39210378988654965	AARS1,DARS1,LARS1,MARS1,RARS1	hsa00970
+Salmonella infection	0.4025957588942447	ACBD3,ARF6,BAX,CYCS,DCTN5,EXOC4,FBXO22,IRAK1,KIF5B,MAPK3,NCKAP1	hsa05132
+Chronic myeloid leukemia	0.43157433577334303	BAX,CTBP2,HDAC2,MAPK3,NRAS	hsa05220
+Fatty acid metabolism	0.5744329146123798	ACAT1,ACSL3,CPT1A,ELOVL2	hsa01212
+Thyroid cancer	0.7041806268186359	BAX,MAPK3,NRAS	hsa05216
+Nucleotide excision repair	0.8119232867343751	GTF2H2,GTF2H2C,POLE3	hsa03420
+Terpenoid backbone biosynthesis	0.8164796695763282	ACAT1,MVK	hsa00900
+PPAR signaling pathway	0.8180853332806828	ACSL3,CPT1A,ME1,UBC	hsa03320
+Spinocerebellar ataxia	0.8357600503328617	CYCS,OPA1,PSMC2,PSMD12,PSMD7,VDAC2	hsa05017
+Apoptosis	0.8361121750101784	BAX,CYCS,EIF2S1,MAPK3,NRAS,PARP4	hsa04210
+Insulin resistance	0.8366677091819248	CPT1A,CREB3L4,GFPT1,PTPA,PYGB	hsa04931
+Proteasome	0.8404655210030418	PSMC2,PSMD12,PSMD7	hsa03050
+Platinum drug resistance	0.8406067369734574	BAX,CYCS,MAPK3,SLC31A1	hsa01524
+Renal cell carcinoma	0.8419113414115987	MAPK3,NRAS,RAP1B,VEGFA	hsa05211
+Cysteine and methionine metabolism	0.844392963491402	CBS,CBSL,GSS	hsa00270
+Basal transcription factors	0.8481951061382361	GTF2F1,GTF2H2,GTF2H2C	hsa03022
+Hepatitis B	0.8539332053813311	BAX,CREB3L4,CYCS,EGR3,IRAK1,MAPK3,NRAS	hsa05161
+Non-small cell lung cancer	0.8601996075050142	BAX,KIF5B,MAPK3,NRAS	hsa05223
+EGFR tyrosine kinase inhibitor resistance	0.8654444341072621	BAX,MAPK3,NRAS,VEGFA	hsa01521
+Pathogenic Escherichia coli infection	0.8664554332330563	ABCF2,ARF6,BAX,CYCS,IRAK1,MAPK3,MYO5C,NCKAP1	hsa05130
+Ferroptosis	0.8695914063619039	ACSL3,GSS,VDAC2	hsa04216
+Fatty acid degradation	0.8861241070962564	ACAT1,ACSL3,CPT1A	hsa00071
+Porphyrin and chlorophyll metabolism	0.8861241070962564	BLVRA,BLVRB,HMBS	hsa00860
+VEGF signaling pathway	0.9399745100368347	MAPK3,NRAS,VEGFA	hsa04370
+Neurotrophin signaling pathway	0.9401930686183506	BAX,IRAK1,MAPK3,NRAS,RAP1B	hsa04722
+Pyrimidine metabolism	0.9442973944751384	DHODH,NME2,UCK2	hsa00240
+Ribosome	0.9513492164846904	MRPL1,MRPL12,MRPL17,MRPL18,MRPL32,MRPS11	hsa03010
+Human cytomegalovirus infection	0.9546289090010885	BAX,CREB3L4,CXCL12,CYCS,GNB2,MAPK3,NRAS,VEGFA	hsa05163
+Butanoate metabolism	0.9593819508082959	ACAT1,OXCT1	hsa00650
+Endometrial cancer	0.9606702713140929	BAX,MAPK3,NRAS	hsa05213
+Antifolate resistance	0.9633828594161159	ATIC,GART	hsa01523
+Kaposi sarcoma-associated herpesvirus infection	0.9639761062144085	BAX,CYCS,GNB2,MAPK3,NRAS,UBC,VEGFA	hsa05167
+Fatty acid elongation	0.9667058614018208	ACOT7,ELOVL2	hsa00062
+Biosynthesis of unsaturated fatty acids	0.9667058614018208	ACOT7,ELOVL2	hsa01040
+Colorectal cancer	0.9672330839574484	BAX,CYCS,MAPK3,NRAS	hsa05210
+Apoptosis - multiple species	0.9947448625851288	BAX,CYCS	hsa04215
+Epstein-Barr virus infection	0.9974464617684096	BAX,CYCS,HDAC2,IRAK1,PSMC2,PSMD12,PSMD7	hsa05169
+Citrate cycle (TCA cycle)	1	IDH3A	hsa00020
+Pentose phosphate pathway	1	G6PD	hsa00030
+Pentose and glucuronate interconversions	1	CRYL1	hsa00040
+Fatty acid biosynthesis	1	ACSL3	hsa00061
+Ubiquinone and other terpenoid-quinone biosynthesis	1	COQ3	hsa00130
+Steroid hormone biosynthesis	1	AKR1C1	hsa00140
+Oxidative phosphorylation	1	ATP5F1D,NDUFS1,NDUFS8	hsa00190
+Alanine, aspartate and glutamate metabolism	1	ADSL,GFPT1	hsa00250
+Glycine, serine and threonine metabolism	1	CBS,CBSL	hsa00260
+Lysine degradation	1	ACAT1,ASH1L	hsa00310
+Arginine and proline metabolism	1	CKMT1A,CKMT1B	hsa00330
+Tryptophan metabolism	1	ACAT1	hsa00380
+Selenocompound metabolism	1	MARS1	hsa00450
+Glutathione metabolism	1	G6PD,GSS	hsa00480
+Starch and sucrose metabolism	1	GYG1,PYGB	hsa00500
+N-Glycan biosynthesis	1	ALG1,ALG8	hsa00510
+Various types of N-glycan biosynthesis	1	ALG1	hsa00513
+Amino sugar and nucleotide sugar metabolism	1	GFPT1	hsa00520
+Glycerolipid metabolism	1	DGAT2	hsa00561
+Inositol phosphate metabolism	1	MTMR14	hsa00562
+Glycerophospholipid metabolism	1	LYPLA1	hsa00564
+Arachidonic acid metabolism	1	PTGES3	hsa00590
+Sphingolipid metabolism	1	PSAP	hsa00600
+Pyruvate metabolism	1	ACAT1,ME1	hsa00620
+Glyoxylate and dicarboxylate metabolism	1	ACAT1	hsa00630
+Propanoate metabolism	1	ACAT1	hsa00640
+Thiamine metabolism	1	AK2	hsa00730
+Pantothenate and CoA biosynthesis	1	PPCS	hsa00770
+Nitrogen metabolism	1	CA8	hsa00910
+Metabolism of xenobiotics by cytochrome P450	1	AKR1C1	hsa00980
+Drug metabolism - other enzymes	1	IMPDH1,NME2,UCK2	hsa00983
+Carbon metabolism	1	ACAT1,G6PD,IDH3A,ME1	hsa01200
+2-Oxocarboxylic acid metabolism	1	IDH3A	hsa01210
+Biosynthesis of amino acids	1	CBS,CBSL,IDH3A	hsa01230
+Endocrine resistance	1	BAX,MAPK3,NRAS	hsa01522
+RNA degradation	1	EXOSC3,EXOSC5,HSPA9	hsa03018
+RNA polymerase	1	POLR2C	hsa03020
+DNA replication	1	POLE3	hsa03030
+Spliceosome	1	HNRNPC,PRPF40A,PRPF8,SF3B3,SNRPA1	hsa03040
+Base excision repair	1	PARP4,POLE3	hsa03410
+Homologous recombination	1	BABAM2	hsa03440
+MAPK signaling pathway	1	IRAK1,MAPK3,NRAS,RAP1B,VEGFA	hsa04010
+ErbB signaling pathway	1	MAPK3,NRAS	hsa04012
+Ras signaling pathway	1	ARF6,GNB2,MAPK3,NRAS,RAP1B,SHOC2,VEGFA	hsa04014
+Rap1 signaling pathway	1	MAPK3,NRAS,PRKCI,RAP1B,THBS1,VEGFA	hsa04015
+Calcium signaling pathway	1	VDAC2	hsa04020
+cGMP-PKG signaling pathway	1	CREB3L4,MAPK3,VDAC2	hsa04022
+cAMP signaling pathway	1	CREB3L4,MAPK3,RAP1B	hsa04024
+Cytokine-cytokine receptor interaction	1	CXCL12	hsa04060
+Viral protein interaction with cytokine and cytokine receptor	1	CXCL12	hsa04061
+Chemokine signaling pathway	1	CXCL12,GNB2,MAPK3,NRAS,RAP1B	hsa04062
+NF-kappa B signaling pathway	1	CXCL12,IRAK1	hsa04064
+HIF-1 signaling pathway	1	MAPK3,VEGFA	hsa04066
+FoxO signaling pathway	1	BNIP3,MAPK3,NRAS	hsa04068
+Phosphatidylinositol signaling system	1	MTMR14	hsa04070
+Sphingolipid signaling pathway	1	BAX,MAPK3,NRAS	hsa04071
+Phospholipase D signaling pathway	1	ARF6,MAPK3,NRAS	hsa04072
+Neuroactive ligand-receptor interaction	1	TSPO	hsa04080
+Cell cycle	1	HDAC2	hsa04110
+Oocyte meiosis	1	MAPK3	hsa04114
+p53 signaling pathway	1	BAX,CYCS,THBS1	hsa04115
+Ubiquitin mediated proteolysis	1	UBC	hsa04120
+Autophagy - animal	1	BNIP3,EIF2S1,MAPK3,MTMR14,NRAS	hsa04140
+Protein processing in endoplasmic reticulum	1	BAX,DNAJC10,DNAJC5,EIF2S1,HSPBP1,SSR1	hsa04141
+Lysosome	1	AP3S1,PSAP	hsa04142
+Endocytosis	1	ARF6,EEA1,KIF5B,PRKCI,RAB10,USP8,VPS45	hsa04144
+Phagosome	1	EEA1,THBS1	hsa04145
+Peroxisome	1	ACSL3,DECR2,MVK	hsa04146
+mTOR signaling pathway	1	MAPK3,NRAS,SEH1L	hsa04150
+PI3K-Akt signaling pathway	1	CREB3L4,GNB2,MAPK3,NRAS,THBS1,VEGFA	hsa04151
+AMPK signaling pathway	1	CPT1A,CREB3L4,RAB10	hsa04152
+Longevity regulating pathway	1	BAX,CREB3L4,NRAS	hsa04211
+Longevity regulating pathway - multiple species	1	HDAC2,NRAS	hsa04213
+Necroptosis	1	BAX,PGAM5,PYGB,VDAC2	hsa04217
+Cellular senescence	1	MAPK3,NRAS,VDAC2	hsa04218
+Adrenergic signaling in cardiomyocytes	1	CREB3L4,MAPK3	hsa04261
+Vascular smooth muscle contraction	1	MAPK3	hsa04270
+Wnt signaling pathway	1	CTBP2,VANGL1	hsa04310
+Notch signaling pathway	1	CTBP2,HDAC2	hsa04330
+Hedgehog signaling pathway	1	SPOPL	hsa04340
+TGF-beta signaling pathway	1	MAPK3,THBS1	hsa04350
+Axon guidance	1	CDK5,CXCL12,MAPK3,NRAS	hsa04360
+Apelin signaling pathway	1	GNB2,MAPK3,NRAS	hsa04371
+Osteoclast differentiation	1	MAPK3	hsa04380
+Hippo signaling pathway	1	DLG1,PRKCI	hsa04390
+Focal adhesion	1	MAPK3,RAP1B,THBS1,VEGFA	hsa04510
+ECM-receptor interaction	1	THBS1	hsa04512
+Adherens junction	1	MAPK3,YES1	hsa04520
+Tight junction	1	DLG1,HSPA4,PRKCI	hsa04530
+Gap junction	1	MAPK3,NRAS	hsa04540
+Signaling pathways regulating pluripotency of stem cells	1	JARID2,MAPK3,NRAS	hsa04550
+Platelet activation	1	MAPK3,PRKCI,RAP1B	hsa04611
+Antigen processing and presentation	1	HSPA4	hsa04612
+Toll-like receptor signaling pathway	1	IRAK1,MAPK3	hsa04620
+NOD-like receptor signaling pathway	1	MAPK3,VDAC2	hsa04621
+C-type lectin receptor signaling pathway	1	EGR3,MAPK3,NRAS	hsa04625
+Natural killer cell mediated cytotoxicity	1	MAPK3,NRAS	hsa04650
+IL-17 signaling pathway	1	MAPK3,MAPK6,S100A9	hsa04657
+Th1 and Th2 cell differentiation	1	MAPK3	hsa04658
+Th17 cell differentiation	1	MAPK3	hsa04659
+T cell receptor signaling pathway	1	DLG1,MAPK3,NRAS	hsa04660
+B cell receptor signaling pathway	1	MAPK3,NRAS	hsa04662
+Fc epsilon RI signaling pathway	1	MAPK3,NRAS	hsa04664
+Fc gamma R-mediated phagocytosis	1	ARF6,MAPK3	hsa04666
+TNF signaling pathway	1	CREB3L4,MAPK3,PGAM5	hsa04668
+Leukocyte transendothelial migration	1	CXCL12,RAP1B	hsa04670
+Intestinal immune network for IgA production	1	CXCL12	hsa04672
+Circadian rhythm	1	CLOCK	hsa04710
+Circadian entrainment	1	GNB2,MAPK3	hsa04713
+Long-term potentiation	1	MAPK3,NRAS,RAP1B	hsa04720
+Retrograde endocannabinoid signaling	1	GNB2,MAPK3,NDUFS1,NDUFS8	hsa04723
+Glutamatergic synapse	1	GNB2,MAPK3	hsa04724
+Cholinergic synapse	1	CREB3L4,GNB2,MAPK3,NRAS	hsa04725
+Serotonergic synapse	1	GNB2,MAPK3,NRAS	hsa04726
+GABAergic synapse	1	GNB2	hsa04727
+Dopaminergic synapse	1	CLOCK,CREB3L4,GNB2,KIF5B	hsa04728
+Long-term depression	1	MAPK3,NRAS	hsa04730
+Regulation of actin cytoskeleton	1	CXCL12,MAPK3,NCKAP1,NRAS	hsa04810
+Insulin signaling pathway	1	MAPK3,NRAS,PRKCI,PYGB	hsa04910
+Insulin secretion	1	CREB3L4	hsa04911
+GnRH signaling pathway	1	MAPK3,NRAS	hsa04912
+Progesterone-mediated oocyte maturation	1	MAPK3	hsa04914
+Estrogen signaling pathway	1	CREB3L4,MAPK3,NRAS	hsa04915
+Melanogenesis	1	CREB3L4,MAPK3,NRAS	hsa04916
+Prolactin signaling pathway	1	MAPK3,NRAS	hsa04917
+Thyroid hormone synthesis	1	CREB3L4,TTF1	hsa04918
+Thyroid hormone signaling pathway	1	HDAC2,MAPK3,MED13,NRAS	hsa04919
+Adipocytokine signaling pathway	1	ACSL3,CPT1A	hsa04920
+Oxytocin signaling pathway	1	MAPK3,NRAS	hsa04921
+Glucagon signaling pathway	1	CPT1A,CREB3L4,PYGB	hsa04922
+Aldosterone synthesis and secretion	1	CREB3L4	hsa04925
+Relaxin signaling pathway	1	CREB3L4,GNB2,MAPK3,NRAS,VEGFA	hsa04926
+Cortisol synthesis and secretion	1	CREB3L4	hsa04927
+Parathyroid hormone synthesis, secretion and action	1	CREB3L4,MAPK3	hsa04928
+GnRH secretion	1	MAPK3,NRAS	hsa04929
+Type II diabetes mellitus	1	MAPK3	hsa04930
+Non-alcoholic fatty liver disease	1	BAX,CYCS,EIF2S1,NDUFS1,NDUFS8	hsa04932
+AGE-RAGE signaling pathway in diabetic complications	1	BAX,MAPK3,NRAS,VEGFA	hsa04933
+Cushing syndrome	1	CREB3L4,MAPK3,RAP1B,USP8	hsa04934
+Growth hormone synthesis, secretion and action	1	CREB3L4,MAPK3,NRAS	hsa04935
+Aldosterone-regulated sodium reabsorption	1	MAPK3	hsa04960
+Vasopressin-regulated water reabsorption	1	CREB3L4,DCTN5	hsa04962
+Pancreatic secretion	1	RAP1B	hsa04972
+Fat digestion and absorption	1	ACAT1,DGAT2	hsa04975
+Mineral absorption	1	MT1F,SLC31A1	hsa04978
+Cholesterol metabolism	1	TSPO,VDAC2	hsa04979
+Cocaine addiction	1	CDK5,CREB3L4	hsa05030
+Amphetamine addiction	1	CREB3L4,HDAC2	hsa05031
+Morphine addiction	1	GNB2	hsa05032
+Alcoholism	1	CREB3L4,GNB2,H4C8,HDAC2,MAPK3,NRAS	hsa05034
+Bacterial invasion of epithelial cells	1	SEPTIN11,SEPTIN9	hsa05100
+Shigellosis	1	ARF6,BAX,BNIP3,CYCS,MAPK3,SEPTIN11,SEPTIN9,UBC	hsa05131
+Pertussis	1	IRAK1,MAPK3	hsa05133
+Legionellosis	1	BNIP3,CYCS	hsa05134
+Yersinia infection	1	ARF6,IRAK1,MAPK3	hsa05135
+Leishmaniasis	1	IRAK1,MAPK3	hsa05140
+Chagas disease	1	IRAK1,MAPK3	hsa05142
+Malaria	1	THBS1	hsa05144
+Toxoplasmosis	1	CYCS,IRAK1,MAPK3	hsa05145
+Tuberculosis	1	BAX,CYCS,EEA1,HSPA9,IRAK1,MAPK3	hsa05152
+Hepatitis C	1	BAX,CYCS,EIF2S1,MAPK3,NRAS	hsa05160
+Measles	1	BAX,CYCS,EIF2S1,IRAK1	hsa05162
+Influenza A	1	BAX,CYCS,EIF2S1,MAPK3,NXT1	hsa05164
+Human papillomavirus infection	1	BAX,CREB3L4,DLG1,HDAC2,MAPK3,NRAS,PRKCI,THBS1,VEGFA	hsa05165
+Human T-cell leukemia virus 1 infection	1	BAX,CREB3L4,DLG1,MAPK3,NRAS,TSPO,VDAC2	hsa05166
+Herpes simplex virus 1 infection	1	BAX,CYCS,EIF2B3,EIF2S1,IRAK1,ZNF114,ZNF627	hsa05168
+Human immunodeficiency virus 1 infection	1	BAX,CYCS,GNB2,IRAK1,MAPK3,NRAS	hsa05170
+Pathways in cancer	1	BAX,CTBP2,CXCL12,CYCS,GNB2,HDAC2,MAPK3,NRAS,VEGFA	hsa05200
+Transcriptional misregulation in cancer	1	BAX,HDAC2	hsa05202
+Proteoglycans in cancer	1	MAPK3,NRAS,THBS1,VEGFA	hsa05205
+MicroRNAs in cancer	1	HDAC2,MAPK3,NRAS,SLC7A1,THBS1,VEGFA	hsa05206
+Pancreatic cancer	1	BAX,MAPK3,VEGFA	hsa05212
+Glioma	1	BAX,MAPK3,NRAS	hsa05214
+Prostate cancer	1	CREB3L4,MAPK3,NRAS	hsa05215
+Basal cell carcinoma	1	BAX	hsa05217
+Melanoma	1	BAX,MAPK3,NRAS	hsa05218
+Acute myeloid leukemia	1	MAPK3,NRAS	hsa05221
+Small cell lung cancer	1	BAX,CYCS	hsa05222
+Breast cancer	1	BAX,MAPK3,NRAS	hsa05224
+Hepatocellular carcinoma	1	BAX,MAPK3,NRAS,SMARCA4,SMARCC1	hsa05225
+Gastric cancer	1	BAX,MAPK3,NRAS	hsa05226
+Central carbon metabolism in cancer	1	G6PD,MAPK3,NRAS	hsa05230
+Choline metabolism in cancer	1	LYPLA1,MAPK3,NRAS	hsa05231
+PD-L1 expression and PD-1 checkpoint pathway in cancer	1	MAPK3,NRAS	hsa05235
+Systemic lupus erythematosus	1	H4C8	hsa05322
+Rheumatoid arthritis	1	CXCL12,VEGFA	hsa05323
+Viral myocarditis	1	CYCS	hsa05416
+Fluid shear stress and atherosclerosis	1	VEGFA	hsa05418

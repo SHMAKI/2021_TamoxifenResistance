@@ -1,0 +1,198 @@
+﻿AMPK signaling pathway	0.10655079777495305	ELAVL1,FOXO3,PFKP,PIK3CA,PPP2R5C,PPP2R5E,TBC1D1	hsa04152
+Spliceosome	0.3724660486553913	DDX46,FUS,HNRNPU,SNRNP200,SNRNP70	hsa03040
+Mannose type O-glycan biosynthesis	0.37636414430266457	B4GALT1,ST3GAL3	hsa00515
+Adrenergic signaling in cardiomyocytes	0.38045585635127127	ATF4,ATP1B1,PPP1CB,PPP2R5C,PPP2R5E	hsa04261
+Thyroid hormone signaling pathway	0.38065273772772185	ATP1B1,MDM2,NCOA3,PFKP,PIK3CA	hsa04919
+Cellular senescence	0.386187546964758	FOXO3,MDM2,PIK3CA,PPP1CB,ZFP36L1	hsa04218
+Focal adhesion	0.3935245697838174	ARHGAP35,CRK,PIK3CA,PPP1CB,VEGFB,XIAP	hsa04510
+Viral carcinogenesis	0.39870367129286377	ATF4,CHD4,DDX3X,MDM2,PIK3CA,YWHAG	hsa05203
+Glycosaminoglycan biosynthesis - keratan sulfate	0.4146298371977673	B4GALT1,ST3GAL3	hsa00533
+PI3K-Akt signaling pathway	0.41870657317383764	ATF4,FOXO3,HSP90AA1,MCL1,MDM2,PIK3CA,PPP2R5C,PPP2R5E,VEGFB,YWHAG	hsa04151
+Regulation of actin cytoskeleton	0.42354269462103733	ARHGAP35,CRK,IQGAP1,PFN2,PIK3CA,PPP1CB	hsa04810
+Glycosphingolipid biosynthesis - lacto and neolacto series	0.4325204704606847	B4GALT1,ST3GAL3	hsa00601
+TNF signaling pathway	0.43693531813372655	ATF4,JAG1,PIK3CA,TAB3	hsa04668
+Endocrine and other factor-regulated calcium reabsorption	0.44615988857749256	ATP1B1,CLTB,CLTC	hsa04961
+mRNA surveillance pathway	0.44739972359462693	FUS,PPP1CB,PPP2R5C,PPP2R5E	hsa03015
+Fc gamma R-mediated phagocytosis	0.44739972359462693	CRK,MARCKS,MARCKSL1,PIK3CA	hsa04666
+Prostate cancer	0.44739972359462693	ATF4,HSP90AA1,MDM2,PIK3CA	hsa05215
+Shigellosis	0.4551028530499439	CRK,FOXO3,MDM2,PFN2,PIK3CA,TAB3,WIPI2	hsa05131
+Mitophagy - animal	0.45543329580415914	ATF4,FOXO3,SP1	hsa04137
+IL-17 signaling pathway	0.4611516668362529	ELAVL1,HSP90AA1,JUND,TAB3	hsa04657
+Bacterial invasion of epithelial cells	0.4702778232153355	CLTB,CLTC,CRK,PIK3CA	hsa05100
+Neurotrophin signaling pathway	0.47327878676163615	ATF4,CRK,FOXO3,PIK3CA	hsa04722
+Adherens junction	0.4737300784866422	CTNND1,IQGAP1,PTPRF	hsa04520
+Endocrine resistance	0.47384410681641476	JAG1,MDM2,NCOA3,PIK3CA,SP1	hsa01522
+Platinum drug resistance	0.4759343257542181	MDM2,PIK3CA,XIAP	hsa01524
+Estrogen signaling pathway	0.4824320510977861	ATF4,HSP90AA1,NCOA3,PIK3CA,SP1	hsa04915
+Various types of N-glycan biosynthesis	0.48517786024504517	B4GALT1,HEXD,ST3GAL3	hsa00513
+Other types of O-glycan biosynthesis	0.48530984529199217	B4GALT1,PLOD3,ST3GAL3	hsa00514
+Galactose metabolism	0.48533776691083796	B4GALT1,PFKP	hsa00052
+Longevity regulating pathway	0.48948248782958803	ATF4,FOXO3,PIK3CA,SESN3	hsa04211
+Oocyte meiosis	0.5015675656919397	PPP1CB,PPP2R5C,PPP2R5E,YWHAG	hsa04114
+Endocytosis	0.5027542390937998	CAPZA1,CLTB,CLTC,MDM2,SNX12,WWP1	hsa04144
+Salmonella infection	0.5062327279587062	DYNC1H1,HSP90AA1,PFN2,PIK3CA,PLEKHM2,TAB3	hsa05132
+Dopaminergic synapse	0.5082993236059988	ATF4,PPP1CB,PPP2R5C,PPP2R5E	hsa04728
+Chronic myeloid leukemia	0.5097933217765178	CRK,MDM2,PIK3CA	hsa05220
+Pathways in cancer	0.5135195162325663	CRK,HSP90AA1,IL13RA1,JAG1,MDM2,NCOA3,PIK3CA,SP1,VEGFB,XIAP	hsa05200
+MicroRNAs in cancer	0.514220169584551	CRK,DICER1,FOXP1,MARCKS,MCL1,MDM2,PIK3CA	hsa05206
+Aldosterone-regulated sodium reabsorption	0.5167497918648798	ATP1B1,PIK3CA	hsa04960
+Apoptosis	0.5269284028763416	ATF4,MCL1,PIK3CA,XIAP	hsa04210
+Ubiquitin mediated proteolysis	0.5327770047179142	MDM2,UBA1,WWP1,XIAP	hsa04120
+p53 signaling pathway	0.5471902378491439	MDM2,PPM1D,RRM2B,SESN3	hsa04115
+Spinocerebellar ataxia	0.5535006888976102	PIK3CA,SP1,VLDLR,WIPI2	hsa05017
+Breast cancer	0.5856870441437192	JAG1,NCOA3,PIK3CA,SP1	hsa05224
+Rap1 signaling pathway	0.5911494064814311	CRK,CTNND1,PFN2,PIK3CA,VEGFB	hsa04015
+Insulin signaling pathway	0.6268540626989854	CRK,PIK3CA,PPP1CB,PRKAR2A,PTPRF,RHOQ	hsa04910
+Nucleotide excision repair	0.6807732530170822	ERCC6,RAD23B	hsa03420
+Carbohydrate digestion and absorption	0.6807732530170822	ATP1B1,PIK3CA	hsa04973
+Human cytomegalovirus infection	0.6938567745869381	ATF4,CRK,MDM2,PIK3CA,SP1	hsa05163
+MAPK signaling pathway	0.6959605091734207	ATF4,CRK,ELK4,JUND,TAOK1,VEGFB	hsa04010
+Huntington disease	0.7015258561207709	CLTB,CLTC,REST,SP1,TFAM,WIPI2	hsa05016
+Protein processing in endoplasmic reticulum	0.7129731894551403	ATF4,CKAP4,HSP90AA1,RAD23B	hsa04141
+Insulin resistance	0.7230906037345175	PIK3CA,PPP1CB,PTPRF	hsa04931
+HIF-1 signaling pathway	0.724321415479352	PFKP,PGK1,PIK3CA	hsa04066
+Parathyroid hormone synthesis, secretion and action	0.7352714969326029	ATF4,JUND,SP1	hsa04928
+Glucagon signaling pathway	0.7360884707843709	ATF4,PFKP,PPP4R3A	hsa04922
+Notch signaling pathway	0.7368026243623412	JAG1,NCOR2	hsa04330
+Leukocyte transendothelial migration	0.7570522817484072	ARHGAP35,CTNND1,PIK3CA	hsa04670
+Endometrial cancer	0.7658918957918072	FOXO3,PIK3CA	hsa05213
+Other glycan degradation	0.7764299876458886	HEXD	hsa00511
+Inositol phosphate metabolism	0.7783976986922562	ITPK1,PIK3CA	hsa00562
+Melanoma	0.781214246341538	MDM2,PIK3CA	hsa05218
+Non-small cell lung cancer	0.781214246341538	FOXO3,PIK3CA	hsa05223
+Prolactin signaling pathway	0.7874623399628453	FOXO3,PIK3CA	hsa04917
+Central carbon metabolism in cancer	0.7874623399628453	PFKP,PIK3CA	hsa05230
+Proteoglycans in cancer	0.7894997981077838	IQGAP1,MDM2,PIK3CA,PPP1CB	hsa05205
+Relaxin signaling pathway	0.7898855483716876	ATF4,PIK3CA,VEGFB	hsa04926
+Amphetamine addiction	0.790933973791732	ATF4,PPP1CB	hsa05031
+Renal cell carcinoma	0.790933973791732	CRK,PIK3CA	hsa05211
+FoxO signaling pathway	0.7929707102519955	FOXO3,MDM2,PIK3CA	hsa04068
+Platelet activation	0.7945773799655237	ARHGAP35,PIK3CA,PPP1CB	hsa04611
+Cortisol synthesis and secretion	0.7956667924454903	ATF4,SP1	hsa04927
+Amyotrophic lateral sclerosis	0.796487175864612	ATF4,FUS,NUP58,PFN2,VAPB,WIPI2	hsa05014
+Longevity regulating pathway - multiple species	0.7977115411226817	FOXO3,PIK3CA	hsa04213
+Selenocompound metabolism	0.7985865076591814	SEPHS2	hsa00450
+Human papillomavirus infection	0.8011969946979561	CHD4,JAG1,MDM2,PIK3CA,PPP2R5C,PPP2R5E	hsa05165
+Biosynthesis of amino acids	0.8012441654554402	PFKP,PGK1	hsa01230
+Thyroid hormone synthesis	0.8012441654554402	ATF4,ATP1B1	hsa04918
+Glioma	0.8012441654554402	MDM2,PIK3CA	hsa05214
+Synaptic vesicle cycle	0.8016020055936068	CLTB,CLTC	hsa04721
+RNA transport	0.8016941375036253	EIF4A2,EIF4G3,FUS,NUP58	hsa03013
+Human T-cell leukemia virus 1 infection	0.8021405339971885	ATF4,ELK4,PIK3CA,XIAP	hsa05166
+Sphingolipid signaling pathway	0.8022677757994108	PIK3CA,PPP2R5C,PPP2R5E	hsa04071
+Growth hormone synthesis, secretion and action	0.8022677757994108	ATF4,CRK,PIK3CA	hsa04935
+Signaling pathways regulating pluripotency of stem cells	0.8028431890997315	PIK3CA,REST,RIF1	hsa04550
+Transcriptional misregulation in cancer	0.8033783216555397	ELK4,FUS,MDM2,SP1	hsa05202
+Lysine degradation	0.8053237481200709	PLOD3,SETD2	hsa00310
+EGFR tyrosine kinase inhibitor resistance	0.807784570338054	FOXO3,PIK3CA	hsa01521
+RNA degradation	0.807784570338054	PAN3,PFKP	hsa03018
+Glycolysis / Gluconeogenesis	0.8102655685456991	PFKP,PGK1	hsa00010
+Long-term potentiation	0.8102655685456991	ATF4,PPP1CB	hsa04720
+Lysosome	0.8115573084964397	AP3D1,CLTB,CLTC	hsa04142
+Protein export	0.8194448996238543	SRPRB	hsa03060
+Proximal tubule bicarbonate reclamation	0.8194448996238543	ATP1B1	hsa04964
+ErbB signaling pathway	0.8516094572129781	CRK,PIK3CA	hsa04012
+Insulin secretion	0.857021303503905	ATF4,ATP1B1	hsa04911
+Necroptosis	0.8812780896020832	H2AW,HSP90AA1,XIAP	hsa04217
+JAK-STAT signaling pathway	0.9029098521906767	IL13RA1,MCL1,PIK3CA	hsa04630
+Hepatitis B	0.9029098521906767	ATF4,DDX3X,PIK3CA	hsa05161
+Small cell lung cancer	0.9053546232131443	PIK3CA,XIAP	hsa05222
+cGMP-PKG signaling pathway	0.9257950988898529	ATF4,ATP1B1,PPP1CB	hsa04022
+Progesterone-mediated oocyte maturation	0.9313244038613344	HSP90AA1,PIK3CA	hsa04914
+AGE-RAGE signaling pathway in diabetic complications	0.9313244038613344	PIK3CA,VEGFB	hsa04933
+Fructose and mannose metabolism	0.933936243668772	PFKP	hsa00051
+Pentose phosphate pathway	0.9390056499846906	PFKP	hsa00030
+NOD-like receptor signaling pathway	0.9443315106940842	HSP90AA1,TAB3,XIAP	hsa04621
+Autophagy - other	0.9446265109887843	WIPI2	hsa04136
+Apoptosis - multiple species	0.9446265109887843	XIAP	hsa04215
+Phosphatidylinositol signaling system	0.9458802783411389	ITPK1,PIK3CA	hsa04070
+Inflammatory mediator regulation of TRP channels	0.9499843017490882	PIK3CA,PPP1CB	hsa04750
+Aldosterone synthesis and secretion	0.9499843017490882	ATF4,ATP1B1	hsa04925
+Choline metabolism in cancer	0.9499843017490882	PIK3CA,SP1	hsa05231
+NF-kappa B signaling pathway	0.9552998019998198	TAB3,XIAP	hsa04064
+C-type lectin receptor signaling pathway	0.9552998019998198	MDM2,PIK3CA	hsa04625
+Alcoholism	0.9894138706121761	ATF4,H2AW,PPP1CB	hsa05034
+Fatty acid degradation	1	ECI1	hsa00071
+Purine metabolism	1	RRM2B	hsa00230
+Pyrimidine metabolism	1	RRM2B	hsa00240
+Glutathione metabolism	1	RRM2B	hsa00480
+N-Glycan biosynthesis	1	B4GALT1	hsa00510
+Ether lipid metabolism	1	PAFAH1B1	hsa00565
+Drug metabolism - other enzymes	1	RRM2B	hsa00983
+Metabolic pathways	1	B4GALT1,HEXD,ITPK1,PAFAH1B1,PFKP,PGK1,PIK3CA,PLOD3,RRM2B,SEPHS2,SETD2,ST3GAL3	hsa01100
+Carbon metabolism	1	PFKP,PGK1	hsa01200
+Ras signaling pathway	1	PIK3CA,VEGFB	hsa04014
+cAMP signaling pathway	1	ATP1B1,PIK3CA,PPP1CB	hsa04024
+Cytokine-cytokine receptor interaction	1	IL13RA1	hsa04060
+Chemokine signaling pathway	1	CRK,FOXO3,PIK3CA	hsa04062
+Phospholipase D signaling pathway	1	PIK3CA	hsa04072
+Cell cycle	1	MDM2,YWHAG	hsa04110
+Autophagy - animal	1	PIK3CA,WIPI2	hsa04140
+Phagosome	1	DYNC1H1	hsa04145
+mTOR signaling pathway	1	PIK3CA	hsa04150
+Cardiac muscle contraction	1	ATP1B1	hsa04260
+Vascular smooth muscle contraction	1	PPP1CB	hsa04270
+Wnt signaling pathway	1	TBL1X	hsa04310
+TGF-beta signaling pathway	1	SP1	hsa04350
+Axon guidance	1	PIK3CA	hsa04360
+VEGF signaling pathway	1	PIK3CA	hsa04370
+Apelin signaling pathway	1	JAG1,TFAM	hsa04371
+Osteoclast differentiation	1	JUND,PIK3CA	hsa04380
+Hippo signaling pathway	1	PPP1CB,YWHAG	hsa04390
+Cell adhesion molecules	1	PTPRF	hsa04514
+Tight junction	1	EPB41L4B	hsa04530
+Antigen processing and presentation	1	HSP90AA1	hsa04612
+Toll-like receptor signaling pathway	1	PIK3CA	hsa04620
+RIG-I-like receptor signaling pathway	1	DDX3X	hsa04622
+Natural killer cell mediated cytotoxicity	1	PIK3CA	hsa04650
+Th1 and Th2 cell differentiation	1	JAG1	hsa04658
+Th17 cell differentiation	1	HSP90AA1	hsa04659
+T cell receptor signaling pathway	1	PIK3CA	hsa04660
+B cell receptor signaling pathway	1	PIK3CA	hsa04662
+Fc epsilon RI signaling pathway	1	PIK3CA	hsa04664
+Cholinergic synapse	1	ATF4,PIK3CA	hsa04725
+GnRH signaling pathway	1	ATF4	hsa04912
+Oxytocin signaling pathway	1	PPP1CB	hsa04921
+Regulation of lipolysis in adipocytes	1	PIK3CA	hsa04923
+GnRH secretion	1	PIK3CA	hsa04929
+Type II diabetes mellitus	1	PIK3CA	hsa04930
+Non-alcoholic fatty liver disease	1	ATF4,PIK3CA	hsa04932
+Cushing syndrome	1	ATF4,SP1	hsa04934
+Vasopressin-regulated water reabsorption	1	DYNC1H1	hsa04962
+Salivary secretion	1	ATP1B1	hsa04970
+Gastric acid secretion	1	ATP1B1	hsa04971
+Pancreatic secretion	1	ATP1B1	hsa04972
+Protein digestion and absorption	1	ATP1B1	hsa04974
+Bile secretion	1	ATP1B1	hsa04976
+Mineral absorption	1	ATP1B1	hsa04978
+Cholesterol metabolism	1	VAPB	hsa04979
+Alzheimer disease	1	ATF4,PIK3CA,WIPI2	hsa05010
+Parkinson disease	1	ATF4,UBA1	hsa05012
+Prion disease	1	ATF4,PIK3CA	hsa05020
+Pathways of neurodegeneration - multiple diseases	1	ATF4,FUS,UBA1,VAPB,WIPI2	hsa05022
+Cocaine addiction	1	ATF4	hsa05030
+Vibrio cholerae infection	1	KDELR2	hsa05110
+Pathogenic Escherichia coli infection	1	NCL,TAB3	hsa05130
+Yersinia infection	1	CRK,PIK3CA	hsa05135
+Leishmaniasis	1	MARCKSL1	hsa05140
+Chagas disease	1	PIK3CA	hsa05142
+Toxoplasmosis	1	XIAP	hsa05145
+Amoebiasis	1	PIK3CA	hsa05146
+Hepatitis C	1	PIK3CA,YWHAG	hsa05160
+Measles	1	PIK3CA	hsa05162
+Influenza A	1	PIK3CA	hsa05164
+Kaposi sarcoma-associated herpesvirus infection	1	PIK3CA	hsa05167
+Herpes simplex virus 1 infection	1	PIK3CA,PPP1CB	hsa05168
+Epstein-Barr virus infection	1	MDM2,NCOR2,PIK3CA	hsa05169
+Human immunodeficiency virus 1 infection	1	CRK,PIK3CA	hsa05170
+Colorectal cancer	1	PIK3CA	hsa05210
+Pancreatic cancer	1	PIK3CA	hsa05212
+Bladder cancer	1	MDM2	hsa05219
+Acute myeloid leukemia	1	PIK3CA	hsa05221
+Hepatocellular carcinoma	1	PIK3CA	hsa05225
+Gastric cancer	1	PIK3CA	hsa05226
+PD-L1 expression and PD-1 checkpoint pathway in cancer	1	PIK3CA	hsa05235
+Systemic lupus erythematosus	1	H2AW	hsa05322
+Arrhythmogenic right ventricular cardiomyopathy	1	DSP	hsa05412
+Viral myocarditis	1	EIF4G3	hsa05416
+Fluid shear stress and atherosclerosis	1	HSP90AA1,PIK3CA	hsa05418

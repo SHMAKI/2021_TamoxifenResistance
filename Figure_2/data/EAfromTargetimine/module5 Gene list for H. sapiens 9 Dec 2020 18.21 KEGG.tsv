@@ -1,0 +1,225 @@
+﻿Graft-versus-host disease	0.006626673810763323	HLA-C,HLA-DQB1,HLA-DRA,HLA-DRB1,HLA-DRB5	hsa05332
+Type I diabetes mellitus	0.006747056867118297	HLA-C,HLA-DQB1,HLA-DRA,HLA-DRB1,HLA-DRB5	hsa04940
+Cell adhesion molecules	0.00730338658886191	ALCAM,CADM1,CLDN3,HLA-C,HLA-DQB1,HLA-DRA,HLA-DRB1,HLA-DRB5,SDC2	hsa04514
+Rheumatoid arthritis	0.007312719631991722	ATP6V1D,FOS,HLA-DQB1,HLA-DRA,HLA-DRB1,HLA-DRB5,TGFB2	hsa05323
+Inflammatory bowel disease	0.007849066231308755	GATA3,HLA-DQB1,HLA-DRA,HLA-DRB1,HLA-DRB5,TGFB2	hsa05321
+Epstein-Barr virus infection	0.007894910405856699	B2M,GADD45B,HES1,HLA-C,HLA-DQB1,HLA-DRA,HLA-DRB1,HLA-DRB5,ISG15,JAK1	hsa05169
+Th17 cell differentiation	0.007923225634195123	FOS,GATA3,HIF1A,HLA-DQB1,HLA-DRA,HLA-DRB1,HLA-DRB5,JAK1	hsa04659
+Allograft rejection	0.008149342720867807	HLA-C,HLA-DQB1,HLA-DRA,HLA-DRB1,HLA-DRB5	hsa05330
+Human T-cell leukemia virus 1 infection	0.00836877837671452	ADCY1,B2M,EGR1,FOS,HLA-C,HLA-DQB1,HLA-DRA,HLA-DRB1,HLA-DRB5,JAK1,LTBR,TGFB2	hsa05166
+Tight junction	0.008701399385050757	AMOTL1,CLDN3,MYL12A,MYL12B,MYL6,PPP2R1A,RDX,RHOA,SLC9A3R1	hsa04530
+Th1 and Th2 cell differentiation	0.00878715882504635	FOS,GATA3,HLA-DQB1,HLA-DRA,HLA-DRB1,HLA-DRB5,JAK1	hsa04658
+Parathyroid hormone synthesis, secretion and action	0.009833055734101698	ADCY1,EGR1,FOS,GATA3,PTHLH,RHOA,SLC9A3R1	hsa04928
+Intestinal immune network for IgA production	0.00987277355548423	HLA-DQB1,HLA-DRA,HLA-DRB1,HLA-DRB5,LTBR	hsa04672
+Leishmaniasis	0.009900615582963606	FOS,HLA-DQB1,HLA-DRA,HLA-DRB1,HLA-DRB5,JAK1,TGFB2	hsa05140
+Viral myocarditis	0.010027413431807885	CAV1,HLA-C,HLA-DQB1,HLA-DRA,HLA-DRB1,HLA-DRB5	hsa05416
+Antigen processing and presentation	0.010649280891238355	B2M,HLA-C,HLA-DQB1,HLA-DRA,HLA-DRB1,HLA-DRB5	hsa04612
+Autoimmune thyroid disease	0.011742735668045864	HLA-C,HLA-DQB1,HLA-DRA,HLA-DRB1,HLA-DRB5	hsa05320
+Asthma	0.012173289074460785	HLA-DQB1,HLA-DRA,HLA-DRB1,HLA-DRB5	hsa05310
+TGF-beta signaling pathway	0.02404801701632814	ID1,ID4,INHBA,PPP2R1A,RHOA,TGFB2	hsa04350
+Staphylococcus aureus infection	0.025473905540055738	HLA-DQB1,HLA-DRA,HLA-DRB1,HLA-DRB5,KRT13,KRT15	hsa05150
+Fluid shear stress and atherosclerosis	0.034680676244318	CAV1,CAV2,DUSP1,FOS,GSTM3,RHOA,SDC2	hsa05418
+Toxoplasmosis	0.05058144691708271	HLA-DQB1,HLA-DRA,HLA-DRB1,HLA-DRB5,JAK1,TGFB2	hsa05145
+Proteoglycans in cancer	0.07508624092600494	CAV1,CAV2,ERBB4,HIF1A,RDX,RHOA,SDC2,TGFB2	hsa05205
+Sulfur metabolism	0.09915936349084636	PAPSS2,SELENBP1	hsa00920
+Axon guidance	0.11845594290473538	ABLIM1,MYL12A,MYL12B,RHOA,RHOD,SEMA3C,SEMA3D	hsa04360
+Tuberculosis	0.1196798930548272	HLA-DQB1,HLA-DRA,HLA-DRB1,HLA-DRB5,JAK1,RHOA,TGFB2	hsa05152
+Signaling pathways regulating pluripotency of stem cells	0.12858820707731197	FGFR2,ID1,ID4,INHBA,JAK1,SKIL	hsa04550
+Pancreatic secretion	0.13010058694973836	ADCY1,ATP2B1,CA2,RHOA,SLC12A2	hsa04972
+Phagosome	0.16419539042599035	ATP6V1D,HLA-C,HLA-DQB1,HLA-DRA,HLA-DRB1,HLA-DRB5	hsa04145
+Salmonella infection	0.17534754834873714	ACTR1B,ANXA2,FOS,MYL12A,MYL12B,PODXL,RHOA,S100A10	hsa05132
+Hippo signaling pathway	0.17771084453405778	AJUBA,CCN2,ID1,PPP2R1A,TGFB2,WWC1	hsa04390
+Colorectal cancer	0.2604082491498889	FOS,GADD45B,RHOA,TGFB2	hsa05210
+Glycosaminoglycan degradation	0.2619328725785254	GLB1,GUSB	hsa00531
+Estrogen signaling pathway	0.33430935685040053	ADCY1,FKBP4,FOS,KRT13,KRT15	hsa04915
+Hematopoietic cell lineage	0.383512328404573	HLA-DQB1,HLA-DRA,HLA-DRB1,HLA-DRB5	hsa04640
+Mineral absorption	0.38588910071572885	ATOX1,ATP2B1,HMOX2	hsa04978
+Chagas disease	0.3977976352560919	ADCY1,FOS,PPP2R1A,TGFB2	hsa05142
+Endocytosis	0.4049546404197186	CAV1,CAV2,EPS15,FGFR2,HLA-C,RHOA,SNX2	hsa04144
+Collecting duct acid secretion	0.4125915116932623	ATP6V1D,CA2	hsa04966
+Hippo signaling pathway - multiple species	0.4576311924251961	AJUBA,WWC1	hsa04392
+Leukocyte transendothelial migration	0.5019693963289633	CLDN3,MYL12A,MYL12B,RHOA	hsa04670
+Regulation of actin cytoskeleton	0.5171341638562619	FGD3,FGFR2,MYL12A,MYL12B,RDX,RHOA	hsa04810
+Influenza A	0.5634629958960108	HLA-DQB1,HLA-DRA,HLA-DRB1,HLA-DRB5,JAK1	hsa05164
+Bacterial invasion of epithelial cells	0.5762827254561537	CAV1,CAV2,RHOA	hsa05100
+Platelet activation	0.5840339968197961	ADCY1,MYL12A,MYL12B,RHOA	hsa04611
+Pancreatic cancer	0.5842995786023617	GADD45B,JAK1,TGFB2	hsa05212
+Drug metabolism - other enzymes	0.6164483827514124	GSTM3,GUSB,NME3	hsa00983
+Systemic lupus erythematosus	0.7094566051295388	HLA-DQB1,HLA-DRA,HLA-DRB1,HLA-DRB5	hsa05322
+Porphyrin and chlorophyll metabolism	0.7116277136532976	GUSB,HMOX2	hsa00860
+Kaposi sarcoma-associated herpesvirus infection	0.7188808837787001	FOS,HIF1A,HLA-C,JAK1,PREX1	hsa05167
+PD-L1 expression and PD-1 checkpoint pathway in cancer	0.7238023159456708	FOS,HIF1A,JAK1	hsa05235
+Focal adhesion	0.7696652702783856	CAV1,CAV2,MYL12A,MYL12B,RHOA	hsa04510
+Salivary secretion	0.782444937032631	ADCY1,ATP2B1,SLC12A2	hsa04970
+Viral protein interaction with cytokine and cytokine receptor	0.806995827721298	ACKR3,CXCL14,LTBR	hsa04061
+Cellular senescence	0.8174578655532997	GADD45B,HIPK2,HLA-C,TGFB2	hsa04218
+Oxytocin signaling pathway	0.8179988170497903	ADCY1,FOS,MYL6,RHOA	hsa04921
+Human papillomavirus infection	0.8245610441324106	ATP6V1D,HES1,HLA-C,ISG15,JAK1,PPP2R1A,SLC9A3R1	hsa05165
+Pathways in cancer	0.8391240166904166	ADCY1,FGFR2,FOS,GADD45B,GSTM3,HES1,HIF1A,JAK1,RHOA,TGFB2	hsa05200
+Choline metabolism in cancer	0.8443412634240317	FOS,HIF1A,SLC44A2	hsa05231
+Vibrio cholerae infection	0.8450294501909144	ATP6V1D,SLC12A2	hsa05110
+Malaria	0.8450294501909144	SDC2,TGFB2	hsa05144
+Fatty acid metabolism	0.9082344456684006	HSD17B4,PPT1	hsa01212
+cGMP-PKG signaling pathway	0.9098745338531276	ADCY1,ATP2B1,KCNJ8,RHOA	hsa04022
+Human cytomegalovirus infection	0.9197243561212111	ADCY1,B2M,HLA-C,JAK1,RHOA	hsa05163
+Glycosphingolipid biosynthesis - ganglio series	0.9276609410371517	GLB1	hsa00604
+Cytokine-cytokine receptor interaction	0.9348572834994736	ACKR3,CXCL14,INHBA,LTBR,TGFB2,TNFRSF12A	hsa04060
+MAPK signaling pathway	0.938997307710121	DUSP1,ERBB4,FGFR2,FOS,GADD45B,TGFB2	hsa04010
+Primary bile acid biosynthesis	0.9924512972674873	HSD17B4	hsa00120
+Selenocompound metabolism	0.9924512972674873	PAPSS2	hsa00450
+Nitrogen metabolism	0.9924512972674873	CA2	hsa00910
+Proximal tubule bicarbonate reclamation	0.9996057160102322	CA2	hsa04964
+Citrate cycle (TCA cycle)	1	SDHA	hsa00020
+Pentose and glucuronate interconversions	1	GUSB	hsa00040
+Galactose metabolism	1	GLB1	hsa00052
+Ascorbate and aldarate metabolism	1	GUSB	hsa00053
+Fatty acid elongation	1	PPT1	hsa00062
+Steroid hormone biosynthesis	1	COMT	hsa00140
+Oxidative phosphorylation	1	ATP5F1A,ATP6V1D,SDHA	hsa00190
+Purine metabolism	1	ADCY1,NME3,PAPSS2	hsa00230
+Pyrimidine metabolism	1	NME3	hsa00240
+Lysine degradation	1	PLOD2	hsa00310
+Tyrosine metabolism	1	COMT	hsa00350
+Glutathione metabolism	1	GSTM3	hsa00480
+N-Glycan biosynthesis	1	MGAT1	hsa00510
+Other glycan degradation	1	GLB1	hsa00511
+Various types of N-glycan biosynthesis	1	MGAT1	hsa00513
+Arachidonic acid metabolism	1	PTGES	hsa00590
+Sphingolipid metabolism	1	GLB1	hsa00600
+Metabolism of xenobiotics by cytochrome P450	1	AKR7A2,GSTM3	hsa00980
+Drug metabolism - cytochrome P450	1	GSTM3	hsa00982
+Biosynthesis of unsaturated fatty acids	1	HSD17B4	hsa01040
+Metabolic pathways	1	ADCY1,ATP5F1A,ATP6V1D,CA2,COMT,GLB1,GSTM3,GUSB,HMOX2,HSD17B4,MGAT1,NME3,PAPSS2,PLOD2,PPT1,PTGES,SDHA,SELENBP1	hsa01100
+Carbon metabolism	1	SDHA	hsa01200
+EGFR tyrosine kinase inhibitor resistance	1	FGFR2,JAK1	hsa01521
+Endocrine resistance	1	ADCY1,FOS	hsa01522
+Platinum drug resistance	1	GSTM3	hsa01524
+RNA transport	1	FMR1	hsa03013
+mRNA surveillance pathway	1	PPP2R1A	hsa03015
+RNA degradation	1	BTG1	hsa03018
+Basal transcription factors	1	TAF1	hsa03022
+PPAR signaling pathway	1	SLC27A4	hsa03320
+Fanconi anemia pathway	1	HES1	hsa03460
+ErbB signaling pathway	1	ERBB4	hsa04012
+Ras signaling pathway	1	FGFR2,RHOA	hsa04014
+Rap1 signaling pathway	1	ADCY1,FGFR2,ID1,RHOA	hsa04015
+Calcium signaling pathway	1	ADCY1,ATP2B1,ERBB4	hsa04020
+cAMP signaling pathway	1	ADCY1,ATP2B1,FOS,RHOA	hsa04024
+Chemokine signaling pathway	1	ADCY1,CXCL14,PREX1,RHOA	hsa04062
+NF-kappa B signaling pathway	1	GADD45B,LTBR	hsa04064
+HIF-1 signaling pathway	1	HIF1A,LTBR	hsa04066
+FoxO signaling pathway	1	GADD45B,PLK2,TGFB2	hsa04068
+Sphingolipid signaling pathway	1	PPP2R1A,RHOA	hsa04071
+Phospholipase D signaling pathway	1	ADCY1,RHOA	hsa04072
+Neuroactive ligand-receptor interaction	1	NR3C1,RLN2	hsa04080
+Cell cycle	1	GADD45B,TGFB2	hsa04110
+Oocyte meiosis	1	ADCY1,PPP2R1A	hsa04114
+p53 signaling pathway	1	GADD45B	hsa04115
+Ubiquitin mediated proteolysis	1	MID1,UBE3C	hsa04120
+Mitophagy - animal	1	CITED2,HIF1A	hsa04137
+Autophagy - animal	1	HIF1A	hsa04140
+Lysosome	1	GLB1,GUSB,PPT1	hsa04142
+Peroxisome	1	HSD17B4	hsa04146
+mTOR signaling pathway	1	ATP6V1D,CLIP1,RHOA	hsa04150
+PI3K-Akt signaling pathway	1	ERBB4,FGFR2,JAK1,PPP2R1A	hsa04151
+AMPK signaling pathway	1	PPP2R1A	hsa04152
+Apoptosis	1	FOS,GADD45B	hsa04210
+Longevity regulating pathway	1	ADCY1	hsa04211
+Longevity regulating pathway - multiple species	1	ADCY1	hsa04213
+Necroptosis	1	JAK1	hsa04217
+Adrenergic signaling in cardiomyocytes	1	ADCY1,ATP2B1,PPP2R1A	hsa04261
+Vascular smooth muscle contraction	1	ADCY1,MYL6,RHOA	hsa04270
+Wnt signaling pathway	1	DKK1,RHOA	hsa04310
+Notch signaling pathway	1	HES1	hsa04330
+Apelin signaling pathway	1	ADCY1,CCN2,EGR1	hsa04371
+Osteoclast differentiation	1	FOS,JAK1,TGFB2	hsa04380
+ECM-receptor interaction	1	FRAS1,NPNT	hsa04512
+Adherens junction	1	RHOA	hsa04520
+Gap junction	1	ADCY1	hsa04540
+Complement and coagulation cascades	1	CLU,SERPINA1	hsa04610
+Toll-like receptor signaling pathway	1	FOS	hsa04620
+NOD-like receptor signaling pathway	1	JAK1,RHOA,TRIP6	hsa04621
+RIG-I-like receptor signaling pathway	1	ISG15	hsa04622
+C-type lectin receptor signaling pathway	1	RHOA	hsa04625
+JAK-STAT signaling pathway	1	JAK1	hsa04630
+Natural killer cell mediated cytotoxicity	1	HLA-C	hsa04650
+IL-17 signaling pathway	1	FOS	hsa04657
+T cell receptor signaling pathway	1	FOS,RHOA	hsa04660
+B cell receptor signaling pathway	1	FOS	hsa04662
+TNF signaling pathway	1	FOS	hsa04668
+Circadian entrainment	1	ADCY1,FOS	hsa04713
+Thermogenesis	1	ADCY1,ATP5F1A,SDHA	hsa04714
+Long-term potentiation	1	ADCY1	hsa04720
+Synaptic vesicle cycle	1	ATP6V1D	hsa04721
+Neurotrophin signaling pathway	1	BEX3,RHOA	hsa04722
+Retrograde endocannabinoid signaling	1	ADCY1	hsa04723
+Glutamatergic synapse	1	ADCY1	hsa04724
+Cholinergic synapse	1	ADCY1,FOS	hsa04725
+Serotonergic synapse	1	DUSP1	hsa04726
+GABAergic synapse	1	ADCY1	hsa04727
+Dopaminergic synapse	1	COMT,FOS,PPP2R1A	hsa04728
+Long-term depression	1	PPP2R1A	hsa04730
+Inflammatory mediator regulation of TRP channels	1	ADCY1	hsa04750
+Insulin signaling pathway	1	PRKAR1A	hsa04910
+Insulin secretion	1	ADCY1	hsa04911
+GnRH signaling pathway	1	ADCY1,EGR1	hsa04912
+Ovarian steroidogenesis	1	ADCY1	hsa04913
+Progesterone-mediated oocyte maturation	1	ADCY1	hsa04914
+Melanogenesis	1	ADCY1	hsa04916
+Prolactin signaling pathway	1	FOS	hsa04917
+Thyroid hormone synthesis	1	ADCY1	hsa04918
+Thyroid hormone signaling pathway	1	HIF1A	hsa04919
+Regulation of lipolysis in adipocytes	1	ADCY1	hsa04923
+Aldosterone synthesis and secretion	1	ADCY1,ATP2B1	hsa04925
+Relaxin signaling pathway	1	ADCY1,FOS,RLN2	hsa04926
+Cortisol synthesis and secretion	1	ADCY1	hsa04927
+Insulin resistance	1	SLC27A4	hsa04931
+Non-alcoholic fatty liver disease	1	FOS,SDHA	hsa04932
+AGE-RAGE signaling pathway in diabetic complications	1	EGR1,TGFB2	hsa04933
+Cushing syndrome	1	ADCY1	hsa04934
+Growth hormone synthesis, secretion and action	1	ADCY1,FOS	hsa04935
+Maturity onset diabetes of the young	1	HES1	hsa04950
+Endocrine and other factor-regulated calcium reabsorption	1	ATP2B1	hsa04961
+Gastric acid secretion	1	ADCY1,CA2	hsa04971
+Protein digestion and absorption	1	COL12A1,COL5A1	hsa04974
+Fat digestion and absorption	1	SLC27A4	hsa04975
+Bile secretion	1	ADCY1,CA2	hsa04976
+Alzheimer disease	1	ATP5F1A,DKK1,SDHA	hsa05010
+Parkinson disease	1	ATP5F1A,DUSP1,SDHA	hsa05012
+Amyotrophic lateral sclerosis	1	ACTR1B,ATP5F1A,ERBB4,SDHA	hsa05014
+Huntington disease	1	ACTR1B,ATP5F1A,SDHA	hsa05016
+Prion disease	1	ATP5F1A,CAV1,CAV2,EGR1,SDHA	hsa05020
+Pathways of neurodegeneration - multiple diseases	1	ACTR1B,ATP5F1A,DKK1,SDHA	hsa05022
+Amphetamine addiction	1	FOS	hsa05031
+Morphine addiction	1	ADCY1	hsa05032
+Epithelial cell signaling in Helicobacter pylori infection	1	ATP6V1D	hsa05120
+Pathogenic Escherichia coli infection	1	CLDN3,FOS,RHOA,SLC9A3R1	hsa05130
+Shigellosis	1	MYL12A,MYL12B,RHOA	hsa05131
+Pertussis	1	FOS,RHOA	hsa05133
+Yersinia infection	1	FOS,RHOA	hsa05135
+Amoebiasis	1	ADCY1,TGFB2	hsa05146
+Hepatitis C	1	CLDN3,JAK1,PPP2R1A	hsa05160
+Hepatitis B	1	FOS,JAK1,TGFB2	hsa05161
+Measles	1	FOS,JAK1	hsa05162
+Herpes simplex virus 1 infection	1	B2M,HLA-C,HLA-DQB1,HLA-DRA,HLA-DRB1,HLA-DRB5,JAK1	hsa05168
+Human immunodeficiency virus 1 infection	1	B2M,FOS,HLA-C	hsa05170
+Transcriptional misregulation in cancer	1	GADD45B	hsa05202
+Viral carcinogenesis	1	HLA-C,JAK1,LTBR,RHOA	hsa05203
+Chemical carcinogenesis	1	GSTM3	hsa05204
+MicroRNAs in cancer	1	RDX,RHOA,TGFB2	hsa05206
+Renal cell carcinoma	1	HIF1A,TGFB2	hsa05211
+Endometrial cancer	1	GADD45B	hsa05213
+Glioma	1	GADD45B	hsa05214
+Prostate cancer	1	FGFR2	hsa05215
+Thyroid cancer	1	GADD45B	hsa05216
+Basal cell carcinoma	1	GADD45B	hsa05217
+Melanoma	1	GADD45B	hsa05218
+Chronic myeloid leukemia	1	GADD45B,TGFB2	hsa05220
+Small cell lung cancer	1	GADD45B	hsa05222
+Non-small cell lung cancer	1	GADD45B	hsa05223
+Breast cancer	1	FOS,GADD45B,HES1	hsa05224
+Hepatocellular carcinoma	1	GADD45B,GSTM3,TGFB2	hsa05225
+Gastric cancer	1	FGFR2,GADD45B,TGFB2	hsa05226
+Central carbon metabolism in cancer	1	FGFR2,HIF1A	hsa05230
+Hypertrophic cardiomyopathy	1	TGFB2	hsa05410
+Dilated cardiomyopathy	1	ADCY1,TGFB2	hsa05414

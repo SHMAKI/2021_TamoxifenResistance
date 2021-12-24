@@ -23,13 +23,6 @@ g <- g + theme_bw(base_size=15) + ng1 + theme(legend.position = LEGEND_POSITION)
 g1 <- g + scale_color_manual(values = alpha(MyColor, 1)) + scale_fill_manual(values = alpha(MyColor, 1))
 g2 <- g + scale_colour_manual(values = c("gray", "black")) + scale_fill_manual(values = alpha(c("gray", "black"), 0.7))
 
-# file_pv_S <- file_S %>% 
-#   dplyr::group_by(Week, Condition) %>%  
-#   dplyr::summarise(value = list(Value)) %>% 
-#   tidyr::spread(Condition, value) %>% 
-#   dplyr::mutate(p_value = t.test(unlist(Ctrl), unlist(TAM))$p.value)
-# fwrite(file_pv_S, file = "pvalue_S.txt")
-
 # Wletch'S test
 ttest_list <- c()
 for (i in 1:10) {
@@ -65,7 +58,7 @@ d.signif$label.y[1] = d.signif$ytop[1] + 2
 gp <- g1 + geom_text(aes(x = label.x, y = label.y, label = label), d.signif, inherit.aes=FALSE, size=3) +
   geom_segment(aes(x = xstart, xend = xend, y = ytop, yend = ytop), d.signif, inherit.aes=FALSE)
 
-ggsave(file ="Fig/Fig1c.pdf", plot=gp, width=6, height=4)
+# ggsave(file ="Fig/Fig1c.pdf", plot=gp, width=6, height=4)
 
 
 # Fig.1d G1 phase --------
@@ -86,13 +79,6 @@ g <- g + theme_bw(base_size=15) + ng1 + theme(legend.position = LEGEND_POSITION)
 
 g1 <- g + scale_color_manual(values = alpha(MyColor, 1)) + scale_fill_manual(values = alpha(MyColor, 1))
 g2 <- g + scale_colour_manual(values = c("gray", "black")) + scale_fill_manual(values = alpha(c("gray", "black"), 0.7))
-
-# file_pv_G1 <- file_G1 %>% 
-#   dplyr::group_by(Week, Condition) %>%  
-#   dplyr::summarise(value = list(Value)) %>% 
-#   tidyr::spread(Condition, value) %>% 
-#   dplyr::mutate(p_value = t.test(unlist(Ctrl), unlist(TAM))$p.value)
-# fwrite(file_pv_G1, file = "pvalue_G1.txt")
 
 # Wletch'S test
 ttest_list2 <- c()
@@ -132,4 +118,4 @@ d.signif2$label.y[4:10] = d.signif2$label.y[4:10] - 10
 gp <- g1 + geom_text(aes(x = label.x, y = label.y, label = label), d.signif2, inherit.aes=FALSE, size=3) +
   geom_segment(aes(x = xstart, xend = xend, y = ytop, yend = ytop), d.signif2, inherit.aes=FALSE)
 
-ggsave(file ="Fig/Fig1d.pdf", plot=gp, width=6, height=4)
+# ggsave(file ="Fig/Fig1d.pdf", plot=gp, width=6, height=4)

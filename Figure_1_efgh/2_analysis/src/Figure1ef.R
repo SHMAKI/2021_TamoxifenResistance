@@ -5,23 +5,20 @@ library(pheatmap) #pheatmap
 library(rtracklayer) #readGFF
 library(amap) # Dist
 library(ggdendro) #ggdendrogram
-#library(ggsci) # scale_color_npg()
-#library("org.Hs.eg.db") #org.Hs.egENSEMBL2EG
-#library(clusterProfiler)
 
 source("src/theme.R")
 
-#count files
+# count files
 tbl_ensembl_pe <- read.delim("data/counts_ensembl_from_pe.tsv", skip=1, row.names=1)
 tbl_ensembl_sr <- read.delim("data/counts_ensembl_from_sr.tsv", skip=1, row.names=1)
-#check all gene IDs are the same
+# check all gene IDs are the same
 sum(rownames(tbl_ensembl_pe) == rownames(tbl_ensembl_sr)) ==  nrow(tbl_ensembl_sr)
 
 tbl_en <- cbind(tbl_ensembl_pe, tbl_ensembl_sr[, grep("Sample", colnames(tbl_ensembl_sr))])
 tbl_en_annot <- tbl_en[, -grep("Sample", colnames(tbl_en))]
 tbl_en_dat <- tbl_en[, grep("Sample", colnames(tbl_en))]
 
-#import gtf file which can be downloaded from ensembl.org
+# import gtf file which can be downloaded from ensembl.org
 gtf_Ens <- readGFF("~/ReferenceGenome/Homo_sapiens.GRCh38.96.gtf")
 gtf_Ens_gene <- subset(gtf_Ens, gtf_Ens$type == "gene")
 gtf_Ens_gene_1 <- gtf_Ens_gene[,c("gene_id","gene_name","gene_biotype")]
@@ -45,12 +42,10 @@ sampleCD2 <- cbind(sampleCD, MATCH, MATCHname)
 sampleCD3 <- na.omit(sampleCD2)
 sampleCD3 <- sampleCD3[order(sampleCD3$MATCH),]
 
-#thresholds
+# thresholds
 TH <- 0.001
-DIR <- "Fig/FigS2"
 LFCTH <- 0.5
 FC <- LFCTH
-dir.create(DIR)
 
 FCtable <- matrix(data = 0, nrow = nrow(tbl_en_dat), ncol = 13)
 padjtable <- matrix(data = 1, nrow = nrow(tbl_en_dat), ncol = 12)
@@ -74,24 +69,6 @@ for(i in 1:12) {
   baseMeantable[,i] <- res$baseMean
   FCSEtable[,i] <- res$lfcSE
 }
-#plot the results
-# for(i in 1:12) {
-#   genenames <- gtf_Ens_gene_1[match(rownames(res_list[[i]]), gtf_Ens_gene_1$gene_id),]$gene_name
-#   rownames(res)
-#   G <- ggmaplot(res_list[[i]], fdr = TH, fc = 2^LFCTH, size = 0.4, #genenames = NULL, detection_call = NULL,  font.label = c(12, "plain", "black"), label.rectangle = FALSE, 
-#                 palette = c("#B31B21", "#1465AC", "darkgray"),
-#                 genenames = as.vector(genenames),
-#                 top = 10,
-#                 legend = "top",
-#                 select.top.method = c("fc"),#"padj"),
-#                 main = paste0("TamR week ", i),
-#                 label.rectangle = TRUE,
-#                 xlab = "Log2 mean expression", ylab = "Log2 fold change",
-#                 ggtheme = ggplot2::theme_bw())
-# 
-#   ggplot2::ggsave(G, filename = paste0(DIR, "/T", i, "vsC", i, "_FC", FC, ".pdf"), w=6, h=4, device = "pdf")
-# 
-# }
 
 rownames(FCtable) <- rownames(tbl_en_dat)
 rownames(padjtable) <- rownames(tbl_en_dat)
@@ -102,20 +79,12 @@ colnames(padjtable) <- paste0("W", 1:12)
 colnames(baseMeantable) <- paste0("W", 1:12)
 colnames(FCSEtable) <- paste0("W", 1:12)
 
-# match gene id, gene_name, gene_biotype to matrices
-# ENSEMBL2EG <- as.list(org.Hs.egENSEMBL2EG)
-# all.genes.entrez <- bitr(gtf_Ens_gene_1$gene_id, fromType="ENSEMBL", toType="ENTREZID", OrgDb="org.Hs.eg.db", drop=T)
-# all.genes.entrez[sapply(all.genes.entrez, is.null)] <- NA
-
 FCtableX <- data.frame(FCtable, gtf_Ens_gene_1[match(rownames(FCtable), gtf_Ens_gene_1$gene_id),])
 padjtableX <- data.frame(padjtable, gtf_Ens_gene_1[match(rownames(padjtable), gtf_Ens_gene_1$gene_id),])
 baseMeantableX <- data.frame(baseMeantable, gtf_Ens_gene_1[match(rownames(baseMeantable), gtf_Ens_gene_1$gene_id),])
 FCSEtableX <- data.frame(FCSEtable, gtf_Ens_gene_1[match(rownames(FCSEtable), gtf_Ens_gene_1$gene_id),])
-# write.csv(FCtableX, file = paste0(DIR, "/allfeatures_log2FC_ensembl.csv"))
-# write.csv(padjtableX, file = paste0(DIR, "/allfeatures_padj_ensembl.csv"))
-# write.csv(baseMeantableX, file = paste0(DIR, "/allfeatures_baseMean_ensembl.csv"))
-# write.csv(FCSEtableX, file = paste0(DIR, "/allfeatures_lfcSE_ensembl.csv"))
 
+# fig 1f---------
 # thresholds
 FDRtest <- c(1E-3)
 log2FCtest <- c(0.5)
@@ -191,58 +160,17 @@ for (x in 1:length(log2FCtest)) {
         g <- g + scale_x_continuous(breaks = tp) + xlab("Time (weeks)")  + theme_bw(base_size = 15) + ng1
         ggsave(g, filename = paste(DIR2,"/cluster", w, "_linegraph.pdf",sep=""), height = 4, width = 6)
         
-        # bp <- enrichGO(unlist(ENSEMBL2EG[rownames(smallE)]),
-        #                OrgDb         = org.Hs.eg.db,
-        #                universe = all.genes.entrez[,2],
-        #                ont           = "BP",
-        #                pAdjustMethod = "BH",
-        #                pvalueCutoff  = 0.05,
-        #                qvalueCutoff  = 0.05,
-        #                readable      = TRUE)
-        # write.csv(bp, file=paste(DIR2, "/GOBP_",  z, "_", Clu, ".csv", sep=""))
-        # 
-        # cc <- enrichGO(unlist(ENSEMBL2EG[rownames(smallE)]),
-        #                OrgDb         = org.Hs.eg.db,
-        #                universe = all.genes.entrez[,2],
-        #                ont           = "CC",
-        #                pAdjustMethod = "BH",
-        #                pvalueCutoff  = 0.05,
-        #                qvalueCutoff  = 0.05,
-        #                readable      = TRUE)
-        # write.csv(cc, file=paste(DIR2, "/GOCC_",  z, "_", Clu, ".csv", sep=""))
-        # 
-        # kegg <- enrichKEGG(gene = unlist(ENSEMBL2EG[rownames(smallE)]), # 発現変動遺伝子, 1 symbol,
-        #                    #universe = all[, 2],    # allgenes
-        #                    organism = 'hsa',       # species
-        #                    #keyType = "kegg",
-        #                    universe = all.genes.entrez[,2],
-        #                    pAdjustMethod = "BH",
-        #                    pvalueCutoff = 0.05
-        #                    #qvalueCutoff = 0.05
-        # )
-        # write.csv(kegg, file=paste(DIR2, "/KEGG_", z, "_", Clu, ".csv", sep=""))
-        # 
-        # reac <- enrichPathway(gene = unlist(ENSEMBL2EG[rownames(smallE)]), # 発現変動遺伝子, 1 symbol, 2 entrez ID
-        #                       #universe = all[, 2],    # allgenes
-        #                       organism = "human",       # species
-        #                       universe = all.genes.entrez[,2],
-        #                       pAdjustMethod = "BH",
-        #                       pvalueCutoff = 0.05,
-        #                       qvalueCutoff = 0.05,
-        #                       readable      = TRUE)
-        # 
-        # write.csv(reac, file=paste(DIR2, "/REACTOME_", z, "_", Clu, ".csv", sep=""))
       }
     }
   }
 }
 
-# revised fig1e and sfig3
+# fig1e and sfig3----------
 DIST_p <- Dist(scale(t(FCtable5)), method = "correlation")
 h <- hclust(DIST_p, method="ward.D2")
 g <- ggdendrogram(h, segments = TRUE, labels = TRUE, 
                   leaf_labels = TRUE, rotate = 45, theme_dendro = TRUE) + theme(panel.border = element_blank())
-ggsave(filename = "Fig/Fig1e.pdf", g, width = 4, height=6)
+# ggsave(filename = "Fig/Fig1e.pdf", g, width = 4, height=6)
 
 Dist_vec <- c(as.matrix(DIST_p)[2,1],
               as.matrix(DIST_p)[3,2],
@@ -273,6 +201,5 @@ p1 <- ggplot(df, aes(x=week)) +
   theme_bw() + scale_x_continuous(breaks = 1:12) + ng1
 p1 <- p1 + scale_y_continuous(name = "Absolute differences of\ngrowth rate from a week before",
                               sec.axis = sec_axis(~.*second_rate, name = "Distance from a week before"))
-#p1 <- p1 + scale_color_npg()
 p1 <- p1 + theme(legend.position = c(.75,.8), legend.direction = "vertical")
-ggsave(p1, filename = "Fig/FigS3.pdf", w=8,h=4)
+# ggsave(p1, filename = "Fig/FigS3.pdf", w=8,h=4)

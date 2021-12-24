@@ -62,4 +62,4 @@ gp <- g1 + geom_text(aes(x = label.x, y = label.y, label = label), d.signif, inh
   geom_segment(aes(x = xstart, xend = xend, y = ytop, yend = ytop), d.signif, inherit.aes=FALSE) +
   ylim(c(min(file$Value),5))
 
-ggsave(file ="Fig/Fig1b.pdf", plot=gp, width=6, height=4)
+# ggsave(file ="Fig/Fig1b.pdf", plot=gp, width=6, height=4)

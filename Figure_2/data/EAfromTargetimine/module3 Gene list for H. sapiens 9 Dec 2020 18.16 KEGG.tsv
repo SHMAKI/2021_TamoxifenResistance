@@ -1,0 +1,104 @@
+﻿Cell cycle	2.3612836584883175e-10	BUB1,CCNA2,CCNB1,CCNB2,CDC20,CDC25C,DBF4,MAD2L1,MCM7,PLK1,PTTG1,RAD21,SMC1A	hsa04110
+Oocyte meiosis	8.20437455986702e-8	AURKA,BUB1,CALM2,CCNB1,CCNB2,CDC20,CDC25C,MAD2L1,PLK1,PTTG1,SMC1A	hsa04114
+Progesterone-mediated oocyte maturation	0.000026299941372662192	AURKA,BUB1,CCNA2,CCNB1,CCNB2,CDC25C,MAD2L1,PLK1	hsa04914
+DNA replication	0.0002742649317439314	MCM7,RFC2,RFC3,RNASEH2A,RPA3	hsa03030
+Cellular senescence	0.028850340061205425	CALM2,CCNA2,CCNB1,CCNB2,MYBL2,RHEB	hsa04218
+Mismatch repair	0.029133001677043458	RFC2,RFC3,RPA3	hsa03430
+Gap junction	0.10846618962730165	TUBA1C,TUBB,TUBB2B,TUBB4B	hsa04540
+Human T-cell leukemia virus 1 infection	0.11054306467930702	CCNA2,CCNB2,CDC20,MAD2L1,PTTG1,RANBP1	hsa05166
+Homologous recombination	0.11524495269847822	BARD1,RAD51C,RPA3	hsa03440
+Nucleotide excision repair	0.1193589300237106	RFC2,RFC3,RPA3	hsa03420
+Fanconi anemia pathway	0.16071614466392634	RAD51C,RPA3,UBE2T	hsa03460
+Pyrimidine metabolism	0.171406572063857	DTYMK,DUT,TYMS	hsa00240
+Amyotrophic lateral sclerosis	0.2391279668000921	HNRNPA2B1,NUP107,NUP35,TUBA1C,TUBB,TUBB2B,TUBB4B	hsa05014
+Antifolate resistance	0.39219411635005685	GGH,TYMS	hsa01523
+Phagosome	0.41779983922536346	TUBA1C,TUBB,TUBB2B,TUBB4B	hsa04145
+Parkinson disease	0.487301264470842	CALM2,TUBA1C,TUBB,TUBB2B,TUBB4B	hsa05012
+Alcoholism	0.6721022385270374	CALM2,H2AZ1,H2AZ2,HAT1	hsa05034
+Pathogenic Escherichia coli infection	0.7467910986251269	TUBA1C,TUBB,TUBB2B,TUBB4B	hsa05130
+Human immunodeficiency virus 1 infection	0.8856620882524014	CALM2,CCNB1,CCNB2,CDC25C	hsa05170
+FoxO signaling pathway	0.9185167952350126	CCNB1,CCNB2,PLK1	hsa04068
+Cysteine and methionine metabolism	1	DNMT1	hsa00270
+Lysine degradation	1	DHTKD1	hsa00310
+Tryptophan metabolism	1	DHTKD1	hsa00380
+Glutathione metabolism	1	GGCT	hsa00480
+One carbon pool by folate	1	TYMS	hsa00670
+Folate biosynthesis	1	GGH	hsa00790
+Aminoacyl-tRNA biosynthesis	1	DARS2	hsa00970
+Drug metabolism - other enzymes	1	DUT	hsa00983
+Metabolic pathways	1	DHTKD1,DNMT1,DTYMK,DUT,GGCT,TYMS	hsa01100
+Platinum drug resistance	1	BIRC5,TOP2A	hsa01524
+RNA transport	1	NUP107,NUP35	hsa03013
+RNA degradation	1	EXOSC8	hsa03018
+Spliceosome	1	RBMX	hsa03040
+Base excision repair	1	HMGB1	hsa03410
+MAPK signaling pathway	1	STMN1	hsa04010
+Ras signaling pathway	1	CALM2	hsa04014
+Rap1 signaling pathway	1	CALM2	hsa04015
+Calcium signaling pathway	1	CALM2	hsa04020
+cGMP-PKG signaling pathway	1	CALM2	hsa04022
+cAMP signaling pathway	1	CALM2	hsa04024
+Phosphatidylinositol signaling system	1	CALM2	hsa04070
+Phospholipase D signaling pathway	1	RHEB	hsa04072
+p53 signaling pathway	1	CCNB1,CCNB2	hsa04115
+Ubiquitin mediated proteolysis	1	CDC20,UBE2C	hsa04120
+Autophagy - animal	1	HMGB1,RHEB	hsa04140
+mTOR signaling pathway	1	RHEB	hsa04150
+PI3K-Akt signaling pathway	1	RHEB	hsa04151
+AMPK signaling pathway	1	CCNA2,RHEB	hsa04152
+Apoptosis	1	BIRC5,TUBA1C	hsa04210
+Longevity regulating pathway	1	RHEB	hsa04211
+Apoptosis - multiple species	1	BIRC5	hsa04215
+Necroptosis	1	H2AZ1,H2AZ2,HMGB1	hsa04217
+Adrenergic signaling in cardiomyocytes	1	CALM2	hsa04261
+Vascular smooth muscle contraction	1	CALM2	hsa04270
+Apelin signaling pathway	1	CALM2	hsa04371
+Hippo signaling pathway	1	BIRC5	hsa04390
+ECM-receptor interaction	1	HMMR	hsa04512
+Tight junction	1	TUBA1C	hsa04530
+C-type lectin receptor signaling pathway	1	CALM2	hsa04625
+Circadian entrainment	1	CALM2	hsa04713
+Thermogenesis	1	RHEB	hsa04714
+Long-term potentiation	1	CALM2	hsa04720
+Neurotrophin signaling pathway	1	CALM2	hsa04722
+Dopaminergic synapse	1	CALM2	hsa04728
+Olfactory transduction	1	CALM2	hsa04740
+Phototransduction	1	CALM2	hsa04744
+Inflammatory mediator regulation of TRP channels	1	CALM2	hsa04750
+Insulin signaling pathway	1	CALM2,RHEB	hsa04910
+GnRH signaling pathway	1	CALM2	hsa04912
+Estrogen signaling pathway	1	CALM2	hsa04915
+Melanogenesis	1	CALM2	hsa04916
+Thyroid hormone synthesis	1	TTF2	hsa04918
+Thyroid hormone signaling pathway	1	RHEB	hsa04919
+Oxytocin signaling pathway	1	CALM2	hsa04921
+Glucagon signaling pathway	1	CALM2	hsa04922
+Renin secretion	1	CALM2	hsa04924
+Aldosterone synthesis and secretion	1	CALM2	hsa04925
+Salivary secretion	1	CALM2	hsa04970
+Gastric acid secretion	1	CALM2	hsa04971
+Alzheimer disease	1	CALM2,TUBA1C,TUBB,TUBB2B,TUBB4B	hsa05010
+Huntington disease	1	TUBA1C,TUBB,TUBB2B,TUBB4B	hsa05016
+Prion disease	1	TUBA1C,TUBB,TUBB2B,TUBB4B	hsa05020
+Pathways of neurodegeneration - multiple diseases	1	CALM2,TUBA1C,TUBB,TUBB2B,TUBB4B	hsa05022
+Amphetamine addiction	1	CALM2	hsa05031
+Salmonella infection	1	TUBA1C,TUBB,TUBB2B,TUBB4B	hsa05132
+Pertussis	1	CALM2	hsa05133
+Tuberculosis	1	CALM2	hsa05152
+Hepatitis B	1	BIRC5,CCNA2	hsa05161
+Human cytomegalovirus infection	1	CALM2,RHEB	hsa05163
+Human papillomavirus infection	1	CCNA2,RHEB	hsa05165
+Kaposi sarcoma-associated herpesvirus infection	1	CALM2	hsa05167
+Herpes simplex virus 1 infection	1	RHEB	hsa05168
+Epstein-Barr virus infection	1	CCNA2	hsa05169
+Pathways in cancer	1	BIRC5,CALM2,CCNA2,CKS1B	hsa05200
+Transcriptional misregulation in cancer	1	CCNA2	hsa05202
+Viral carcinogenesis	1	CCNA2,CDC20,RANBP1	hsa05203
+MicroRNAs in cancer	1	CDC25C,DNMT1,STMN1	hsa05206
+Colorectal cancer	1	BIRC5	hsa05210
+Glioma	1	CALM2	hsa05214
+Acute myeloid leukemia	1	CCNA2	hsa05221
+Small cell lung cancer	1	CKS1B	hsa05222
+Choline metabolism in cancer	1	RHEB	hsa05231
+Systemic lupus erythematosus	1	H2AZ1,H2AZ2	hsa05322
+Fluid shear stress and atherosclerosis	1	CALM2	hsa05418

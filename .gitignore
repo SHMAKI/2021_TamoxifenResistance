@@ -3,3 +3,6 @@
 .RData
 .Ruserdata
 .DS_Store
+Fig/
+intermediate_figs/
+processed_data/

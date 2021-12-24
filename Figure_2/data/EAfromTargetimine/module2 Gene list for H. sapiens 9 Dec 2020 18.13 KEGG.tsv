@@ -1,0 +1,155 @@
+﻿Protein processing in endoplasmic reticulum	0.2040401591016604	CANX,DNAJC1,ERP29,P4HB,PDIA6,PREB,SEC63	hsa04141
+RNA transport	0.5591009801157495	KPNB1,NCBP1,NCBP2,NUP37,NUP54,RAN	hsa03013
+Cysteine and methionine metabolism	0.7424375686003597	APIP,GOT2,LDHA	hsa00270
+2-Oxocarboxylic acid metabolism	0.7573678947042505	CS,GOT2	hsa01210
+RNA degradation	0.7661230155222218	EXOSC1,EXOSC4,EXOSC7,LSM4	hsa03018
+Glycolysis / Gluconeogenesis	1	LDHA	hsa00010
+Citrate cycle (TCA cycle)	1	CS	hsa00020
+Steroid biosynthesis	1	EBP	hsa00100
+Arginine biosynthesis	1	GOT2	hsa00220
+Purine metabolism	1	ENTPD6,PAICS	hsa00230
+Pyrimidine metabolism	1	ENTPD6	hsa00240
+Alanine, aspartate and glutamate metabolism	1	GOT2	hsa00250
+Arginine and proline metabolism	1	GOT2,LAP3	hsa00330
+Tyrosine metabolism	1	GOT2	hsa00350
+Phenylalanine metabolism	1	GOT2	hsa00360
+Phenylalanine, tyrosine and tryptophan biosynthesis	1	GOT2	hsa00400
+Glutathione metabolism	1	LAP3	hsa00480
+Amino sugar and nucleotide sugar metabolism	1	GNPDA1	hsa00520
+Pyruvate metabolism	1	LDHA	hsa00620
+Glyoxylate and dicarboxylate metabolism	1	CS	hsa00630
+Propanoate metabolism	1	LDHA	hsa00640
+One carbon pool by folate	1	MTHFD1	hsa00670
+Nicotinate and nicotinamide metabolism	1	QPRT	hsa00760
+Porphyrin and chlorophyll metabolism	1	EPRS1	hsa00860
+Aminoacyl-tRNA biosynthesis	1	EPRS1,FARSB,IARS2	hsa00970
+Metabolic pathways	1	APIP,CS,EBP,ENTPD6,EPRS1,GNPDA1,GOT2,LAP3,LDHA,MTHFD1,PAICS,QPRT	hsa01100
+Carbon metabolism	1	CS,GOT2	hsa01200
+Biosynthesis of amino acids	1	CS,GOT2	hsa01230
+Ribosome biogenesis in eukaryotes	1	DKC1,RAN,UTP18	hsa03008
+Ribosome	1	MRPL11,MRPS10	hsa03010
+mRNA surveillance pathway	1	NCBP1,NCBP2,PAPOLA	hsa03015
+RNA polymerase	1	POLR1H,POLR2G	hsa03020
+Basal transcription factors	1	GTF2F2	hsa03022
+Spliceosome	1	LSM4,NCBP1,NCBP2,PRPF19	hsa03040
+Protein export	1	SEC63	hsa03060
+Base excision repair	1	UNG	hsa03410
+Fanconi anemia pathway	1	USP1	hsa03460
+Ras signaling pathway	1	CALM3	hsa04014
+Rap1 signaling pathway	1	CALM3,CTNNB1,GNAQ,PARD6B	hsa04015
+Calcium signaling pathway	1	CALM3,GNAQ,VDAC3	hsa04020
+cGMP-PKG signaling pathway	1	CALM3,GNAQ,VDAC3	hsa04022
+cAMP signaling pathway	1	CALM3	hsa04024
+Chemokine signaling pathway	1	GNAQ	hsa04062
+HIF-1 signaling pathway	1	LDHA	hsa04066
+Phosphatidylinositol signaling system	1	CALM3	hsa04070
+Sphingolipid signaling pathway	1	GNAQ	hsa04071
+Cell cycle	1	CHEK2,ORC4	hsa04110
+Oocyte meiosis	1	CALM3	hsa04114
+p53 signaling pathway	1	CHEK2	hsa04115
+Ubiquitin mediated proteolysis	1	PRPF19	hsa04120
+Endocytosis	1	PARD6B,SNX4,VPS35,VPS36	hsa04144
+Phagosome	1	CANX	hsa04145
+Apoptosis	1	CASP6	hsa04210
+Ferroptosis	1	VDAC3	hsa04216
+Necroptosis	1	VDAC3	hsa04217
+Cellular senescence	1	CALM3,CHEK2,VDAC3	hsa04218
+Cardiac muscle contraction	1	TPM3	hsa04260
+Adrenergic signaling in cardiomyocytes	1	CALM3,GNAQ,TPM3	hsa04261
+Vascular smooth muscle contraction	1	CALM3,GNAQ	hsa04270
+Wnt signaling pathway	1	CACYBP,CTNNB1,PRICKLE2,PSEN1	hsa04310
+Notch signaling pathway	1	PSEN1	hsa04330
+Axon guidance	1	PARD6B	hsa04360
+Apelin signaling pathway	1	CALM3,GNAQ	hsa04371
+Hippo signaling pathway	1	CTNNB1,PARD6B	hsa04390
+Focal adhesion	1	CTNNB1	hsa04510
+Adherens junction	1	CTNNB1	hsa04520
+Tight junction	1	MARVELD2,PARD6B	hsa04530
+Gap junction	1	GNAQ	hsa04540
+Signaling pathways regulating pluripotency of stem cells	1	CTNNB1	hsa04550
+Platelet activation	1	GNAQ	hsa04611
+Antigen processing and presentation	1	CANX	hsa04612
+NOD-like receptor signaling pathway	1	VDAC3	hsa04621
+C-type lectin receptor signaling pathway	1	CALM3	hsa04625
+Leukocyte transendothelial migration	1	CTNNB1	hsa04670
+Circadian entrainment	1	CALM3,GNAQ	hsa04713
+Thermogenesis	1	COA1,NDUFAF6	hsa04714
+Long-term potentiation	1	CALM3,GNAQ	hsa04720
+Neurotrophin signaling pathway	1	CALM3,PSEN1	hsa04722
+Retrograde endocannabinoid signaling	1	GNAQ	hsa04723
+Glutamatergic synapse	1	GNAQ	hsa04724
+Cholinergic synapse	1	GNAQ	hsa04725
+Serotonergic synapse	1	GNAQ	hsa04726
+Dopaminergic synapse	1	CALM3,GNAQ	hsa04728
+Long-term depression	1	GNAQ	hsa04730
+Olfactory transduction	1	CALM3	hsa04740
+Phototransduction	1	CALM3	hsa04744
+Inflammatory mediator regulation of TRP channels	1	CALM3,GNAQ	hsa04750
+Regulation of actin cytoskeleton	1	ITGAE	hsa04810
+Insulin signaling pathway	1	CALM3	hsa04910
+Insulin secretion	1	GNAQ	hsa04911
+GnRH signaling pathway	1	CALM3,GNAQ	hsa04912
+Estrogen signaling pathway	1	CALM3,GNAQ	hsa04915
+Melanogenesis	1	CALM3,CTNNB1,GNAQ	hsa04916
+Thyroid hormone synthesis	1	CANX,GNAQ	hsa04918
+Thyroid hormone signaling pathway	1	CTNNB1	hsa04919
+Oxytocin signaling pathway	1	CALM3,GNAQ	hsa04921
+Glucagon signaling pathway	1	CALM3,GNAQ,LDHA	hsa04922
+Renin secretion	1	CALM3,GNAQ	hsa04924
+Aldosterone synthesis and secretion	1	CALM3,GNAQ	hsa04925
+Cortisol synthesis and secretion	1	GNAQ	hsa04927
+Parathyroid hormone synthesis, secretion and action	1	GNAQ	hsa04928
+GnRH secretion	1	GNAQ	hsa04929
+Cushing syndrome	1	CTNNB1,GNAQ	hsa04934
+Growth hormone synthesis, secretion and action	1	GNAQ	hsa04935
+Endocrine and other factor-regulated calcium reabsorption	1	GNAQ	hsa04961
+Salivary secretion	1	CALM3,GNAQ	hsa04970
+Gastric acid secretion	1	CALM3,GNAQ	hsa04971
+Pancreatic secretion	1	GNAQ	hsa04972
+Protein digestion and absorption	1	SLC1A5	hsa04974
+Fat digestion and absorption	1	GOT2	hsa04975
+Mineral absorption	1	SLC39A4	hsa04978
+Cholesterol metabolism	1	VDAC3	hsa04979
+Alzheimer disease	1	CALM3,CTNNB1,GNAQ,PSEN1,VDAC3	hsa05010
+Parkinson disease	1	CALM3,PARK7,VDAC3	hsa05012
+Amyotrophic lateral sclerosis	1	NCBP1,NUP37,NUP54	hsa05014
+Huntington disease	1	GNAQ,POLR2G,RCOR1,VDAC3	hsa05016
+Spinocerebellar ataxia	1	GNAQ,PUM2,VDAC3	hsa05017
+Prion disease	1	VDAC3	hsa05020
+Pathways of neurodegeneration - multiple diseases	1	CALM3,CTNNB1,GNAQ,PARK7,PSEN1,VDAC3	hsa05022
+Amphetamine addiction	1	CALM3	hsa05031
+Alcoholism	1	CALM3,H2BC12,H4C9	hsa05034
+Bacterial invasion of epithelial cells	1	CTNNB1	hsa05100
+Salmonella infection	1	CTNNB1	hsa05132
+Pertussis	1	CALM3	hsa05133
+Yersinia infection	1	GNAQ	hsa05135
+Chagas disease	1	GNAQ	hsa05142
+African trypanosomiasis	1	GNAQ	hsa05143
+Amoebiasis	1	GNAQ,SERPINB6	hsa05146
+Tuberculosis	1	CALM3	hsa05152
+Hepatitis C	1	CTNNB1	hsa05160
+Hepatitis B	1	VDAC3	hsa05161
+Human cytomegalovirus infection	1	CALM3,CTNNB1,GNAQ	hsa05163
+Human papillomavirus infection	1	CTNNB1,PARD6B,PSEN1	hsa05165
+Human T-cell leukemia virus 1 infection	1	CANX,CHEK2,RAN,VDAC3	hsa05166
+Kaposi sarcoma-associated herpesvirus infection	1	CALM3,CTNNB1	hsa05167
+Human immunodeficiency virus 1 infection	1	CALM3,GNAQ	hsa05170
+Pathways in cancer	1	CALM3,CTNNB1,GNAQ,TPM3	hsa05200
+Viral carcinogenesis	1	H2BC12,H4C9,VDAC3	hsa05203
+Proteoglycans in cancer	1	CTNNB1	hsa05205
+Colorectal cancer	1	CTNNB1	hsa05210
+Endometrial cancer	1	CTNNB1	hsa05213
+Glioma	1	CALM3	hsa05214
+Prostate cancer	1	CTNNB1	hsa05215
+Thyroid cancer	1	CTNNB1,TPM3	hsa05216
+Basal cell carcinoma	1	CTNNB1	hsa05217
+Breast cancer	1	CTNNB1	hsa05224
+Hepatocellular carcinoma	1	CTNNB1	hsa05225
+Gastric cancer	1	CTNNB1	hsa05226
+Central carbon metabolism in cancer	1	LDHA,SLC1A5	hsa05230
+Systemic lupus erythematosus	1	H2BC12,H4C9	hsa05322
+Primary immunodeficiency	1	UNG	hsa05340
+Hypertrophic cardiomyopathy	1	TPM3	hsa05410
+Arrhythmogenic right ventricular cardiomyopathy	1	CTNNB1	hsa05412
+Dilated cardiomyopathy	1	TPM3	hsa05414
+Fluid shear stress and atherosclerosis	1	CALM3,CTNNB1	hsa05418
