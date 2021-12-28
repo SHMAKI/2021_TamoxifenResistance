@@ -8,8 +8,6 @@
 Fig
 intermediate_figs
 processed_data
-out
-figure
-.ipynb_checkpoints
-.virtual_documents
 __pycache__/
+out
+sensitivity_coefficients
