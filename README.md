@@ -30,6 +30,8 @@ source codes for differential expression analysis and enrichment analysis
       - tidyheatmap
 
 ## Figure_2and3
+Sequencing data were deposited into the [DDBJ Sequence Read Archive (DRA)](https://www.ddbj.nig.ac.jp/dra/index-e.html) ([DRA009126](https://ddbj.nig.ac.jp/resource/sra-submission/DRA009126)).
+Count data were deposited into [Genomic Expression Archive (GEA)](https://www.ddbj.nig.ac.jp/gea/index-e.html) ([E-GEAD-468](https://ddbj.nig.ac.jp/public/ddbj_database/gea/experiment/E-GEAD-000/E-GEAD-468/)).
 ### Requirements
     * R 3.5.2
       - tidyverse
