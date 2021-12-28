@@ -12,6 +12,10 @@
 # python cache
 __pycache__/
 
+# jupyter files
+# .virtual_documents
+# .ipynb_checkpoints
+
 # figs & intermediate files
 Fig
 intermediate_figs
