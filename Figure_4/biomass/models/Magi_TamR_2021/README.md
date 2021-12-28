@@ -1,17 +1,15 @@
-# Kholodenko_EurJBiochem_2000
+# Magi_TamR_2021
 
-## The quantitative computational model of the MAPK cascade
-Kholodenko, B. N. Negative feedback and ultrasensitivity can bring about oscillations in the mitogen-activted protein kinase cascades. *Eur. J. Biochem* **267**, 1583–1588 (2000). https://doi.org/10.1046/j.1432-1327.2000.01197.x
+## Mathematical modeling of the TAM resistance acquisition process
+Magi, S., Ki, S., Ukai, M. et al. A combination approach of pseudotime analysis and mathematical modeling for understanding drug-resistant mechanisms. *Sci. Rep.* **11**, 18511 (2021). https://doi.org/10.1038/s41598-021-97887-z
 
-## BioModels
-- [Kholodenko2000 - Ultrasensitivity and negative feedback bring oscillations in MAPK cascade](https://www.ebi.ac.uk/biomodels/BIOMD0000000010)
+This model was constructed by using [BioMASS](https://github.com/biomass-dev/biomass) platform.
 
 ## Simulate model
 
 ```python
-from biomass.models import mapk_cascade
+from biomass.models import Magi_TamR_2021 as model
 from biomass import run_simulation
 
-run_simulation(mapk_cascade, viz_type='original')
-# Result : biomass/models/mapk_cascade/figure/simulation/original
+run_simulation(model, viz_type='average', show_all=False, stdev=True)
 ```
