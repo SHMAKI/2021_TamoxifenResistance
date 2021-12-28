@@ -181,3 +181,33 @@ fig3_b <- plot_cells(cds, color_cells_by = "week", show_trajectory_graph = T, gr
 
 fig3_c <- plot_cells(cds, color_cells_by = "pseudotime", label_branch_points=TRUE, label_leaves=FALSE) + theme_bw() + ng1
 # ggsave(fig3_c, filename = paste0("Fig/Fig3c.pdf"),w=5.5,h=4)
+
+# df pseudotime - cluster - week
+Pseudotime.dat <- data.frame(cds@colData, pseudotime = cds@principal_graph_aux$UMAP$pseudotime, Cluster = cds@clusters$UMAP$clusters)
+
+g <- ggplot(Pseudotime.dat, aes(x=week, y= pseudotime)) +  geom_violin(fill="white", scale = "width") +
+  geom_boxplot(width=.2, fill="lightgray",outlier.fill = NA, outlier.color = NA, color="black") + 
+  theme_bw() + scale_fill_aaas() + ng1 + ylab("pseudotime")+ xlab("week")+ylim(c(0,16))
+my_comparisons <- list( c("0", "3"), c("3", "6"), c("6", "9") ) # Add pairwise comparisons p-value
+g <- g + stat_compare_means(comparisons = my_comparisons)
+ggsave(file =paste0("Fig/Fig3d.pdf"), plot=g, width=4, height=4)
+
+g <- ggplot(Pseudotime.dat, aes(x=Cluster, y= pseudotime)) + geom_violin(fill="white", scale = "width") +
+  geom_boxplot(width=.2, fill="lightgray",outlier.fill = NA, outlier.color = NA, color="black") + 
+  theme_bw() + ng1 + ylab("pseudotime")+ xlab("subgroup")
+ggsave(file =paste0("Fig/Fig3e.pdf"), plot=g, width=4, height=4)
+
+
+#--------Fig.3g pseudotime-2345-tree-------
+cds_cluster2345 <- cds[, cds@clusters$UMAP$clusters %in% c(2, 3, 4, 5)]
+
+subset_pr_test_res <- graph_test(cds_cluster2345, neighbor_graph="principal_graph", cores=18, verbose = T)
+pr_deg_ids <- row.names(subset(subset_pr_test_res, q_value < 0.05 & morans_I > 0.05)) 
+gene_module_df_tree <- find_gene_modules(cds_cluster2345[pr_deg_ids,],  verbose = T, cores = 18, k=25, max_components = 3, resolution = 0.03)
+agg_mat_tree <- aggregate_gene_expression(cds_cluster2345, gene_module_df_tree)
+module_dendro_tree <- hclust(dist(agg_mat_tree))
+p <- plot_cells(cds_cluster2345,
+                genes=gene_module_df_tree, cell_size = 1,
+                label_cell_groups=TRUE,
+                show_trajectory_graph=FALSE, group_label_size = 8) + theme_bw() + ng1
+ggsave(p, filename = paste0("Fig/Fig3g.pdf"), width = 12, height = 7)
