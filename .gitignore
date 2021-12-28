@@ -9,5 +9,3 @@ Fig
 intermediate_figs
 processed_data
 __pycache__/
-out
-sensitivity_coefficients
