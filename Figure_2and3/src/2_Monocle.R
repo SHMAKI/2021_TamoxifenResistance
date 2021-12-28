@@ -126,7 +126,6 @@ pr_deg_ids <- row.names(subset(pr_graph_test_res, q_value < 0.05 & morans_I > 0.
 gene_module_df <- find_gene_modules(cds[pr_deg_ids,], max_components = 3, umap.fast_sgd	= F, umap.min_dist = .1,
                                     verbose = T, cores = 18, k=75, random_seed = 0, louvain_iter=5)
 gene_module_df %>% group_by(module) %>% summarize(n=n()) %>% pull(n) %>% min() 
-# colnames(gene_module_df2)[1] <- "ensembl_gene_id"
 # fwrite(gene_module_df, paste0("intermediate_figs/gene_module_df.txt"), sep = "\t")
 
 cell_group_df = tibble::tibble(cell=row.names(colData(cds)), cell_group=cds@clusters$UMAP$clusters)
