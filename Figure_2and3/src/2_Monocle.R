@@ -190,12 +190,12 @@ g <- ggplot(Pseudotime.dat, aes(x=week, y= pseudotime)) +  geom_violin(fill="whi
   theme_bw() + scale_fill_aaas() + ng1 + ylab("pseudotime")+ xlab("week")+ylim(c(0,16))
 my_comparisons <- list( c("0", "3"), c("3", "6"), c("6", "9") ) # Add pairwise comparisons p-value
 g <- g + stat_compare_means(comparisons = my_comparisons)
-ggsave(file =paste0("Fig/Fig3d.pdf"), plot=g, width=4, height=4)
+# ggsave(file =paste0("Fig/Fig3d.pdf"), plot=g, width=4, height=4)
 
 g <- ggplot(Pseudotime.dat, aes(x=Cluster, y= pseudotime)) + geom_violin(fill="white", scale = "width") +
   geom_boxplot(width=.2, fill="lightgray",outlier.fill = NA, outlier.color = NA, color="black") + 
   theme_bw() + ng1 + ylab("pseudotime")+ xlab("subgroup")
-ggsave(file =paste0("Fig/Fig3e.pdf"), plot=g, width=4, height=4)
+# ggsave(file =paste0("Fig/Fig3e.pdf"), plot=g, width=4, height=4)
 
 
 #--------Fig.3g pseudotime-2345-tree-------
@@ -210,4 +210,4 @@ p <- plot_cells(cds_cluster2345,
                 genes=gene_module_df_tree, cell_size = 1,
                 label_cell_groups=TRUE,
                 show_trajectory_graph=FALSE, group_label_size = 8) + theme_bw() + ng1
-ggsave(p, filename = paste0("Fig/Fig3g.pdf"), width = 12, height = 7)
+# ggsave(p, filename = paste0("Fig/Fig3g.pdf"), width = 12, height = 7)

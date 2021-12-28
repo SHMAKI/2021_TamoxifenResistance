@@ -6,7 +6,7 @@ https://doi.org/10.1038/s41598-021-97887-z
 
 ## Figure 1-bcd, cell culture experiment
 ### Requirements
-    * R 3.5.2
+    * R
       - tidyverse
 
 ## Figure_1-efgh/1_fastq_to_count
@@ -41,3 +41,27 @@ source codes for differential expression analysis and enrichment analysis
       - ComplexHeatmap
       - tidyheatmap
     * gtf file (GRCh38.81)
+
+## Figure_4
+Mathematical simulation of cell growth were carried out by using [BioMASS](https://github.com/biomass-dev/biomass) with some modifications.
+
+### Requirements
+    * python 3.7 or higher
+      - numpy
+      - pandas
+      - matplotlib
+      - seaborn
+      - jupyter
+      - importlib
+
+source codes for parameter fitting:
+  `qsub biomass_for_qsub_single.sh 2021_Magi_TamR`
+
+.ipynb file for simulation and making figures:
+  `Figure4.ipynb`
+
+## Figure_5
+### Requirements
+    * R
+      - tidyverse
+      - plyr
